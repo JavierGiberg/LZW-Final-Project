@@ -13,16 +13,16 @@ import java.util.stream.Stream;
 
 public class IO {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws FileNotFoundException {
 		String str = "";
-		String src = "new Smiley.bmp";
-		//new Smiley.bmp 
-	
+		String srcIn = "Romeo and Juliet  Entire Play.txt";
+		//new Smiley.bmp Romeo and Juliet  Entire Play.txt Compressed file.bin
+		String srcOut = "Result.bin";
 		
 		// banabananamanaman
 //		System.out.println(str.length()*3);
-		LZW A = new LZW(src);
-		A.Compress();
+		LZW A = new LZW();
+		A.Compress(srcIn);
 
 	}
 
