@@ -22,7 +22,12 @@ public class IO {
 		// banabananamanaman
 //		System.out.println(str.length()*3);
 		LZW A = new LZW();
-		A.Compress(srcIn);
+		try {
+			A.Compress(srcIn);
+		} catch (IOException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
 
 	}
 

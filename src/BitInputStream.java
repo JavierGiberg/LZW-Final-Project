@@ -1,4 +1,24 @@
+// This code was taken from an out-source and was not written by us (Javier).
+
 import java.io.*;
+
+/**
+ * Reads bits-at-a-time where the number of bits is between 1 and 32.
+ * Updated for version 2.0 to extend java.io.InputStream. This class
+ * can be used together with <code>BitOutputStream</code> to facilitate
+ * reading and writing data several bits-at-a-time. BitInputStream objects
+ * that are constructed from a File support <code>reset()</code>. However,
+ * if constructed from an <code>InputStream</code> an object cannot be reset.
+ * <P>
+ * Any exceptions generated are rethrown as <code>RuntimeException</code> objects
+ * so client code does not have to catch or rethrow them. (Unless the extension
+ * of <code>InputStream</code> requires throwing as another type of exception, e.g.,
+ * as with method <code>read</code>.
+ * <P>
+ * @author Owen Astrachan
+ * @version 1.0, July 2000
+ * @version 2.0, October 2004
+ */
 
 public class BitInputStream extends InputStream
 {
