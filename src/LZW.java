@@ -1,3 +1,4 @@
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.FileOutputStream;
 import java.io.IOException;
@@ -13,36 +14,57 @@ public class LZW {
 	static ObjectOutputStream objectoutputstream;
 	static FileOutputStream fileOutputStream1; 
 	static ObjectOutputStream objectoutputstream1;
-	static int index = 128;
+	static BitInputStream bitInputStream;
+	static FileInputStream inputStream;
+	static int index = 256;
 	static String str = "";
 	static String current = "";
 	static String strNext = "";
 	static String out = "";
-
+	static String Url ="";
+	static int READ_WRITE_CYCLES;
 	static HashMap<String, Integer> dic = new HashMap<>();
 
-	public LZW(String str) {
-		this.str = str;
-
+	public LZW(String Url) {
+		this.Url = Url;
+		try {
+			inputStream = new FileInputStream(Url);
+		} catch (FileNotFoundException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		READ_WRITE_CYCLES= 1;
+		bitInputStream = new BitInputStream(inputStream);
 	}
 
 	public void Compress() {
 		
+	    while(true) {
+	    	String c= readBytesFromFile();
+	    	String n= readBytesFromFile();
+		//System.out.println(str);
+		if(c.length() == 0) // EOF CHECK
+            break;
+		str+=convertStringToChar(c);
+		str+=convertStringToChar(n);
+	//	System.out.println(str);
+	
+	    }
+	    
+		current = current.concat(strNext);
+		System.out.println(current);
+		System.out.println(strNext);
 		try {
 			fileOutputStream = new FileOutputStream("Compressed file.bin");
 			objectoutputstream = new ObjectOutputStream(fileOutputStream);
-			fileOutputStream1 = new FileOutputStream("regular.bin");
-			objectoutputstream1 = new ObjectOutputStream(fileOutputStream1);
+			
 		} catch (Exception e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
 		}
-		try {
-			objectoutputstream1.writeChars(str);
-		} catch (IOException e1) {
-			// TODO Auto-generated catch block
-			e1.printStackTrace();
-		}
+		
+			
+	
 		CompressStr();
 //		String result =convertStringToBinary(out);
 //		byte[] w = result.getBytes();
@@ -52,7 +74,7 @@ public class LZW {
 		try {
 		//	objectoutputstream.writeBytes(str);
 			objectoutputstream.close();
-			objectoutputstream1.close();
+			
 			
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
@@ -63,6 +85,11 @@ public class LZW {
 //-----------------------------Compress str-----------------------------------------------	
 	static void CompressStr() {
 		while (true) {
+			strNext = readBytesFromFile();
+			
+			current = current.concat(strNext);
+			System.out.println(current);
+			System.out.println(strNext);
 			if (str.length() == 0) {
 				System.out.println("Done!");
 
@@ -100,9 +127,9 @@ public class LZW {
 
 			if (toCheck.length() == 1) {
 				int ascii = toCheck.charAt(0);
-				if (ascii < 128) {
+				if (ascii < 256) {
 
-					out += ascii + "";
+					out += ascii + " ";
 					dic.put(ascii + "" + str.charAt(nextChar), index);
 					index++;
 					str = str.substring(nextChar);
@@ -166,7 +193,81 @@ public class LZW {
 
 	        return result.stream().collect(Collectors.joining(separator));
 	    }
+//---------------------------------------------------------------------------------------------	    
+	    static char convertStringToChar(String Codes) {
+		
+			
+			char Return;
+
+//			for (int i = 0; i < Codes.length(); i++) {
+//				tempBuilder.append(Codes.get(bytes[i]));
+//			}
+//
+//			if (tempBuilder.length() % 8 == 0) {
+//				length = (tempBuilder.length() / 8);
+//			} else {
+//				length = (tempBuilder.length() / 8) + 1;
+//			}
+//
+//			Return = new byte[length];
+//			for (int i = 0; i < Codes.length(); i = (i + 8)) {
+//
+//				if (Codes.length() < i + 8) {
+//					temp = Codes.substring(i);
+//				} else {
+//					temp = Codes.substring(i, (i + 8));
+				//}
+				Return = (char) Integer.parseInt(Codes, 2);
+				//index++;
+
+			//}
+			return Return;
+		}
 	
+//-------------------------Test----------------------------------------------------
+	    static String readBytesFromFile() {
+	        // Variables & Declarations
+	        final int EOF = -1;
+	        final String ZERO_CHAR = "0";
+	        int currentByte = -1;
+	        String formattedByte = "";
+	        String parsedBytes = "";
+
+	        //System.out.println("[DEBUG] Reading from file.");
+	        // Read N amount of bytes from file
+	        for (int i = 0; i < READ_WRITE_CYCLES; i++) {
+	            try {
+	                currentByte = bitInputStream.readBits(8);
+
+	                if(currentByte == EOF)
+	                    break;
+
+	                String nonFormattedByte = Integer.toBinaryString(currentByte);
+
+	                for(int j = 0; j < (8 - nonFormattedByte.length()); j++){
+	                    formattedByte = formattedByte.concat(ZERO_CHAR);
+	                }
+
+	                formattedByte = formattedByte.concat(nonFormattedByte);
+
+	                //System.out.printf("[DEBUG] Unformatted = \"%s\", Formatted = \"%s\".\n", nonFormattedByte, formattedByte);
+
+	                parsedBytes = parsedBytes.concat(formattedByte);
+
+	                formattedByte = "";
+
+	            } catch (IOException e) {
+	                System.out.println("[ERROR] Cannot read file.");
+	                Thread.currentThread().interrupt();
+	            }
+
+	        }
+
+	        //System.out.printf("[DEBUG] Entire formatted string \"%s\".\n",parsedBytes);
+	        System.out.println(parsedBytes);
+	        return parsedBytes;
+	    }
+
 
 //-------------------------------------------------------------------------------------------
 	public void Decompress() {
