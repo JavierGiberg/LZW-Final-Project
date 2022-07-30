@@ -13,12 +13,17 @@ import java.util.stream.Stream;
 
 public class IO {
 	public static void main(String[] args) throws IOException {
-		String srcIn = "Romeo and Juliet  Entire Play.txt";
-		//Smiley.bmp Romeo and Juliet  Entire Play.txt Compressed file.bin
-		String srcOut = "Result.bin";	
-		
+		String srcIn = "Text.txt";
+		// Smiley.bmp Text.txt Compressed file.bin
+		String srcOut = "";
+
 		LZW A = new LZW();
-	
-		A.Compress(srcIn,srcOut);
+
+			srcOut = "LZWG compreses ["+1*8+"bits] Result.bin";
+			A.Compress(srcIn, srcOut);
+//			
+//			srcOut = "LZWG decompress ["+1*8+"bits] Result.txt";
+//			A.Decompress(srcIn, srcOut);
+
 	}
 }

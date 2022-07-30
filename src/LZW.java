@@ -16,70 +16,50 @@ public class LZW {
 
 	private static BitOutputStream bitOutputStream;
 
-	private static InputStream inputstream;
-	private static ObjectInputStream objectinputstream;
+//	private static InputStream inputstream;
+//	private static ObjectInputStream objectinputstream;
 
 	private static BitInputStream bitInputStream;
 	private static FileInputStream inputStream;
-	private static int index = 16777216;
+	private static int index = 256;
 	private static String str = "";
 	private static String out = "";
-	private static String Url = "";
-	private static int INTERVAL_READINF_SIZE ;
-	private static HashMap<String, Integer> bookOfMemories = new HashMap<>();
+	private static int INTERVAL_READINF_SIZE;
+	private static HashMap<String, Integer> bookOfMemories;
 
 	public LZW() {
 
 		INTERVAL_READINF_SIZE = 1;
 	}
 
-	public void Compress(String srcIn,String srcOut) throws IOException {
-//		dic.put("98i", 65536);
-//		dic.put("256g", 65537);
-//		dic.put("257b", 65538);
-//		dic.put("ba", 65539);
-//		dic.put("259l", 65540);
-//		dic.put("260o", 65541);
-//		dic.put("261o", 65542);
-//		dic.put("262n", 65543);
-//		index=65543;
-//		System.out.println(dic);
-		
-		
-		inputStream = new FileInputStream(srcIn);
-		bitInputStream = new BitInputStream(inputStream);
-		fileOutputStream = new FileOutputStream(srcOut);
-		bitOutputStream = new BitOutputStream(fileOutputStream);
+	public void Compress(String srcIn, String srcOut) throws IOException {
 
-		System.out.println("Step 1");
-		while (true) {
-			String current = convertBytesToSring();
-			String next = convertBytesToSring();
+		long start = System.currentTimeMillis();
+		System.out.println("Start Process...");
+		System.out.println("Step 1 : Install variable for work");
+		ResetVarToWork(srcIn,srcOut);
 
-			if (current.length() == 0)
-				break;
-			str += convertStringToChar(current);
-			if (next.length() == 0)
-				break;
-			str += convertStringToChar(next);
-		}
-		System.out.println("Step 2");
+		System.out.println("Step 2 : Build string for compress");
+		BuildStr();
+		System.out.println("Step 3 : Start ()=>{ Compress() => Build bookOfMemories() => Write file() }");
 		CompressStr();
-//		System.out.println(out);
-//		System.out.println(dic);
+		System.out.println("Step 4 : Close resources");
 		bitOutputStream.flush();
-		System.out.println("Done!");
+		bitOutputStream.close();
+		inputStream.close();
+		long end = System.currentTimeMillis();
+		System.out.println("Process Done! in : "+(end - start) + " mili seconds");
 	}
 
 //-----------------------------Compress str-----------------------------------------------	
-	static void CompressStr() {
+	private static void CompressStr() {
 		while (true) {
 			if (str.length() == 0) {
 				break;
 			}
 			if (str.length() == 1) {
 				int ascii = str.charAt(0);
-				out += ascii + "";
+//				out += ascii + "";
 				bookOfMemories.put(str, index);
 				bitOutputStream.writeBits(8, ascii);
 				break;
@@ -90,18 +70,18 @@ public class LZW {
 	}
 
 //---------------------------check The Best-----------------------------------------------	
-	static void checkBestonDic(int toCheck, int nextChar) {
+	private static void checkBestonDic(int toCheck, int nextChar) {
 		String toChecksrt = toCheck + "";
 		if (str.length() == nextChar) {
 			bookOfMemories.put(toChecksrt, index);
 			str = str.substring(nextChar);
 			if (toCheck < index) {
 				bitOutputStream.writeBits(8, toCheck);
-				out += toCheck + " ";
+//				out += toCheck + " ";
 			} else {// write byte
 
 				bitOutputStream.writeBits(16, toCheck);
-				out += toCheck + " ";
+//				out += toCheck + " ";
 			}
 			return;
 		}
@@ -117,7 +97,7 @@ public class LZW {
 					str = str.substring(nextChar);
 
 					bitOutputStream.writeBits(8, toCheck);
-					out += toCheck + " ";
+//					out += toCheck + " ";
 
 					return;
 				}
@@ -126,7 +106,7 @@ public class LZW {
 			index++;
 			str = str.substring(nextChar);
 			bitOutputStream.writeBits(16, Integer.parseInt(toChecksrt));
-			out += Integer.parseInt(toChecksrt) + " ";
+//			out += Integer.parseInt(toChecksrt) + " ";
 			return;
 		} else {
 			String toCheckAgain = toChecksrt + str.charAt(nextChar);
@@ -135,40 +115,84 @@ public class LZW {
 	}
 
 //---------------------------------------------------------------------------------------------	    
-	static char convertStringToChar(String Codes) {
+	private static char convertStringToChar(String Codes) {
 		char Return;
 		Return = (char) Integer.parseInt(Codes, 2);
 		return Return;
 	}
 
 //-------------------------readBytesFromFile-------------------------------------------
-	static String convertBytesToSring() throws IOException {
+	private static String convertBytesToSring() throws IOException {
+		
 		int current = -1;
 		String Byte = "";
 		String completeBytes = "";
 		for (int i = 0; i < INTERVAL_READINF_SIZE; i++) {
-			
-				current = bitInputStream.readBits(8);
-				if (current == -1)
-					break;
-				String completeByte = Integer.toBinaryString(current);
-				for (int j = 0; j < (8 - completeByte.length()); j++) {
-					Byte = Byte.concat("0");
-				}
-				Byte = Byte.concat(completeByte);
-				completeBytes = completeBytes.concat(Byte);
-				Byte = "";
-			
+
+			current = bitInputStream.readBits(8);
+			if (current == -1)
+				break;
+			String completeByte = Integer.toBinaryString(current);
+			for (int j = 0; j < (8 - completeByte.length()); j++) {
+				Byte = Byte.concat("0");
+			}
+			Byte = Byte.concat(completeByte);
+			completeBytes = completeBytes.concat(Byte);
+			Byte = "";
+
 		}
 //		System.out.println(completeBytes);
 		return completeBytes;
 	}
 
+	public  void setInterval(int size) {
+		INTERVAL_READINF_SIZE=size/8;
+	}
 //-------------------------------------------------------------------------------------------
-	public void Decompress() {
+	public void Decompress(String srcIn, String srcOut) throws IOException {
+		ResetVarToWork(srcIn,srcOut);
+	
+		System.out.println("Step 1");
+		
+		while (true) {
+			String current = convertBytesToSring();
+			String next = convertBytesToSring();
 
-		//Amit close your eyes , imagine there is a code and believe me it works!
+			if (current.length() == 0)
+				break;
+			str += convertStringToChar(current);
+			if (next.length() == 0)
+				break;
+			str += convertStringToChar(next);
+			
+			int ascii = str.charAt(0);
+			out += ascii + " ";
+			System.out.println(str);
+		}
 
 	}
+	
+	static void ResetVarToWork(String srcIn, String srcOut) throws IOException {
+		str = "";
+		bookOfMemories = new HashMap<>();
+		inputStream = new FileInputStream(srcIn);
+		bitInputStream = new BitInputStream(inputStream);
+		fileOutputStream = new FileOutputStream(srcOut);
+		bitOutputStream = new BitOutputStream(fileOutputStream);
+	}
+	static void BuildStr() throws IOException {
+		while (true) {
+			String current = convertBytesToSring();
+			String next = convertBytesToSring();
 
+			if (current.length() == 0)
+				break;
+			str += convertStringToChar(current);
+			if (next.length() == 0)
+				break;
+			str += convertStringToChar(next);
+		}
+	}
+
+	
 }
