@@ -25,15 +25,15 @@ public class LZW {
 	private static String str = "";
 	private static String out = "";
 	private static String Url = "";
-	private static int READ_WRITE_CYCLES;
-	private static HashMap<String, Integer> dic = new HashMap<>();
+	private static int INTERVAL_READINF_SIZE ;
+	private static HashMap<String, Integer> bookOfMemories = new HashMap<>();
 
 	public LZW() {
 
-		READ_WRITE_CYCLES = 3;
+		INTERVAL_READINF_SIZE = 1;
 	}
 
-	public void Compress(String Url) throws IOException {
+	public void Compress(String srcIn,String srcOut) throws IOException {
 //		dic.put("98i", 65536);
 //		dic.put("256g", 65537);
 //		dic.put("257b", 65538);
@@ -46,22 +46,22 @@ public class LZW {
 //		System.out.println(dic);
 		
 		
-		inputStream = new FileInputStream(Url);
+		inputStream = new FileInputStream(srcIn);
 		bitInputStream = new BitInputStream(inputStream);
-		fileOutputStream = new FileOutputStream("Compressed file.bin");
+		fileOutputStream = new FileOutputStream(srcOut);
 		bitOutputStream = new BitOutputStream(fileOutputStream);
 
 		System.out.println("Step 1");
 		while (true) {
-			String c = readBytesFromFile();
-			String n = readBytesFromFile();
+			String current = convertBytesToSring();
+			String next = convertBytesToSring();
 
-			if (c.length() == 0)
+			if (current.length() == 0)
 				break;
-			str += convertStringToChar(c);
-			if (n.length() == 0)
+			str += convertStringToChar(current);
+			if (next.length() == 0)
 				break;
-			str += convertStringToChar(n);
+			str += convertStringToChar(next);
 		}
 		System.out.println("Step 2");
 		CompressStr();
@@ -80,7 +80,7 @@ public class LZW {
 			if (str.length() == 1) {
 				int ascii = str.charAt(0);
 				out += ascii + "";
-				dic.put(str, index);
+				bookOfMemories.put(str, index);
 				bitOutputStream.writeBits(8, ascii);
 				break;
 			}
@@ -93,7 +93,7 @@ public class LZW {
 	static void checkBestonDic(int toCheck, int nextChar) {
 		String toChecksrt = toCheck + "";
 		if (str.length() == nextChar) {
-			dic.put(toChecksrt, index);
+			bookOfMemories.put(toChecksrt, index);
 			str = str.substring(nextChar);
 			if (toCheck < index) {
 				bitOutputStream.writeBits(8, toCheck);
@@ -106,23 +106,23 @@ public class LZW {
 			return;
 		}
 
-		if (!dic.containsKey(toCheck + "" + str.charAt(nextChar))) {
+		if (!bookOfMemories.containsKey(toCheck + "" + str.charAt(nextChar))) {
 
 			if (toChecksrt.length() == 1 || toCheck < 256) {
 				int ascii = toChecksrt.charAt(0);
 				if (toCheck < 256) {
 
-					dic.put(toCheck + "" + str.charAt(nextChar), index);
+					bookOfMemories.put(toCheck + "" + str.charAt(nextChar), index);
 					index++;
 					str = str.substring(nextChar);
 
-					bitOutputStream.writeBits(8, toCheck);// write byte
+					bitOutputStream.writeBits(8, toCheck);
 					out += toCheck + " ";
 
 					return;
 				}
 			}
-			dic.put(toChecksrt + str.charAt(nextChar), index);
+			bookOfMemories.put(toChecksrt + str.charAt(nextChar), index);
 			index++;
 			str = str.substring(nextChar);
 			bitOutputStream.writeBits(16, Integer.parseInt(toChecksrt));
@@ -130,7 +130,7 @@ public class LZW {
 			return;
 		} else {
 			String toCheckAgain = toChecksrt + str.charAt(nextChar);
-			checkBestonDic(dic.get(toCheckAgain), nextChar + 1);
+			checkBestonDic(bookOfMemories.get(toCheckAgain), nextChar + 1);
 		}
 	}
 
@@ -141,46 +141,33 @@ public class LZW {
 		return Return;
 	}
 
-//-------------------------Test----------------------------------------------------
-	static String readBytesFromFile() throws IOException {
+//-------------------------readBytesFromFile-------------------------------------------
+	static String convertBytesToSring() throws IOException {
 		int current = -1;
-		String formattedByte = "";
-		String parsedBytes = "";
-		for (int i = 0; i < READ_WRITE_CYCLES; i++) {
+		String Byte = "";
+		String completeBytes = "";
+		for (int i = 0; i < INTERVAL_READINF_SIZE; i++) {
 			
 				current = bitInputStream.readBits(8);
 				if (current == -1)
 					break;
-				String nonFormattedByte = Integer.toBinaryString(current);
-				for (int j = 0; j < (8 - nonFormattedByte.length()); j++) {
-					formattedByte = formattedByte.concat("0");
+				String completeByte = Integer.toBinaryString(current);
+				for (int j = 0; j < (8 - completeByte.length()); j++) {
+					Byte = Byte.concat("0");
 				}
-				formattedByte = formattedByte.concat(nonFormattedByte);
-				parsedBytes = parsedBytes.concat(formattedByte);
-				formattedByte = "";
+				Byte = Byte.concat(completeByte);
+				completeBytes = completeBytes.concat(Byte);
+				Byte = "";
 			
 		}
-		System.out.println(parsedBytes);
-		return parsedBytes;
+//		System.out.println(completeBytes);
+		return completeBytes;
 	}
 
 //-------------------------------------------------------------------------------------------
 	public void Decompress() {
 
-//		try {
-//			inputstream = new FileInputStream(input_names[0]);
-//			objectinputstream = new ObjectInputStream(inputstream);
-//			byte[] fileBytes = (byte[]) objectinputstream.readObject();
-//			HashMap<Byte, String> map = (HashMap<Byte, String>) objectinputstream.readObject();
-//		
-//			OutputStream outputstream = new FileOutputStream(output_names[0]);
-//			outputstream.write(Reault);
-//			outputstream.close();
-//			objectinputstream.close();
-//			inputstream.close();
-//		} catch (Exception e) {
-//			System.err.println(e.getMessage());
-//		}
+		//Amit close your eyes , imagine there is a code and believe me it works!
 
 	}
 

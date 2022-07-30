@@ -12,23 +12,13 @@ import java.nio.file.Paths;
 import java.util.stream.Stream;
 
 public class IO {
-
-	public static void main(String[] args) throws FileNotFoundException {
-		String str = "";
+	public static void main(String[] args) throws IOException {
 		String srcIn = "Romeo and Juliet  Entire Play.txt";
-		//new Smiley.bmp Romeo and Juliet  Entire Play.txt Compressed file.bin
-		String srcOut = "Result.bin";
+		//Smiley.bmp Romeo and Juliet  Entire Play.txt Compressed file.bin
+		String srcOut = "Result.bin";	
 		
-		// banabananamanaman
-//		System.out.println(str.length()*3);
 		LZW A = new LZW();
-		try {
-			A.Compress(srcIn);
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		}
-
+	
+		A.Compress(srcIn,srcOut);
 	}
-
 }
