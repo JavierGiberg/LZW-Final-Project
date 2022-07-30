@@ -1,31 +1,20 @@
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
+
 import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.ObjectInputStream;
-import java.io.ObjectOutputStream;
-import java.io.OutputStream;
-import java.util.ArrayList;
+
 import java.util.HashMap;
-import java.util.List;
-import java.util.stream.Collectors;
+
 
 public class LZW {
 	private static FileOutputStream fileOutputStream;
-
 	private static BitOutputStream bitOutputStream;
-
-//	private static InputStream inputstream;
-//	private static ObjectInputStream objectinputstream;
-
 	private static BitInputStream bitInputStream;
-	private static FileInputStream inputStream;
 	private static int index = 256;
 	private static String str = "";
 	private static String out = "";
 	private static int INTERVAL_READINF_SIZE;
-	private static HashMap<String, Integer> bookOfMemories;
+	private static HashMap<String, Integer> bookOfMemoriesC;
+	private static HashMap<Integer,String> bookOfMemoriesD;
 
 	public LZW() {
 
@@ -46,7 +35,7 @@ public class LZW {
 		System.out.println("Step 4 : Close resources");
 		bitOutputStream.flush();
 		bitOutputStream.close();
-		inputStream.close();
+	    bitInputStream.close();
 		long end = System.currentTimeMillis();
 		System.out.println("Process Done! in : "+(end - start) + " mili seconds");
 	}
@@ -60,20 +49,20 @@ public class LZW {
 			if (str.length() == 1) {
 				int ascii = str.charAt(0);
 //				out += ascii + "";
-				bookOfMemories.put(str, index);
+				bookOfMemoriesC.put(str, index);
 				bitOutputStream.writeBits(8, ascii);
 				break;
 			}
 			int current = str.charAt(0);
-			checkBestonDic(current, 1);
+			checkBestobookOfMemories(current, 1);
 		}
 	}
 
 //---------------------------check The Best-----------------------------------------------	
-	private static void checkBestonDic(int toCheck, int nextChar) {
+	private static void checkBestobookOfMemories(int toCheck, int nextChar) {
 		String toChecksrt = toCheck + "";
 		if (str.length() == nextChar) {
-			bookOfMemories.put(toChecksrt, index);
+			bookOfMemoriesC.put(toChecksrt, index);
 			str = str.substring(nextChar);
 			if (toCheck < index) {
 				bitOutputStream.writeBits(8, toCheck);
@@ -86,23 +75,23 @@ public class LZW {
 			return;
 		}
 
-		if (!bookOfMemories.containsKey(toCheck + "" + str.charAt(nextChar))) {
+		if (!bookOfMemoriesC.containsKey(toCheck + "" + str.charAt(nextChar))) {
 
 			if (toChecksrt.length() == 1 || toCheck < 256) {
 				int ascii = toChecksrt.charAt(0);
 				if (toCheck < 256) {
 
-					bookOfMemories.put(toCheck + "" + str.charAt(nextChar), index);
+					bookOfMemoriesC.put(toCheck + "" + str.charAt(nextChar), index);
 					index++;
 					str = str.substring(nextChar);
 
 					bitOutputStream.writeBits(8, toCheck);
-//					out += toCheck + " ";
+					out += toCheck + " ";
 
 					return;
 				}
 			}
-			bookOfMemories.put(toChecksrt + str.charAt(nextChar), index);
+			bookOfMemoriesC.put(toChecksrt + str.charAt(nextChar), index);
 			index++;
 			str = str.substring(nextChar);
 			bitOutputStream.writeBits(16, Integer.parseInt(toChecksrt));
@@ -110,7 +99,7 @@ public class LZW {
 			return;
 		} else {
 			String toCheckAgain = toChecksrt + str.charAt(nextChar);
-			checkBestonDic(bookOfMemories.get(toCheckAgain), nextChar + 1);
+			checkBestobookOfMemories(bookOfMemoriesC.get(toCheckAgain), nextChar + 1);
 		}
 	}
 
@@ -122,7 +111,7 @@ public class LZW {
 	}
 
 //-------------------------readBytesFromFile-------------------------------------------
-	private static String convertBytesToSring() throws IOException {
+	private static String convertBytesToString() throws IOException {
 		
 		int current = -1;
 		String Byte = "";
@@ -150,40 +139,75 @@ public class LZW {
 	}
 //-------------------------------------------------------------------------------------------
 	public void Decompress(String srcIn, String srcOut) throws IOException {
+		System.out.println("Start Process...");
+		System.out.println("Step 1 : Install variable for work");
 		ResetVarToWork(srcIn,srcOut);
-	
-		System.out.println("Step 1");
+		System.out.println("Step 2 : Build string for compress");
+		BuildStr();
+		System.out.println("Step 3 : Start ()=>{ Compress() => Build bookOfMemories() => Write file() }");
+		System.out.println(str);
 		
-		while (true) {
-			String current = convertBytesToSring();
-			String next = convertBytesToSring();
-
-			if (current.length() == 0)
-				break;
-			str += convertStringToChar(current);
-			if (next.length() == 0)
-				break;
-			str += convertStringToChar(next);
-			
-			int ascii = str.charAt(0);
-			out += ascii + " ";
-			System.out.println(str);
-		}
+//		for(int i=0;i<str.length();i++) {
+//			int x = str.charAt(i);
+//			System.out.print(x+" ");
+//		}
+		DecompressStr();
 
 	}
+//--------------------------------------DecompressStr---------------------------------------	
+	private static void DecompressStr() {
+
+
+		while (true) {
+			if (str.length() == 0) {
+				break;
+			}
+			if (str.length() == 1) {
+				int ascii = str.charAt(0);
+				out += ascii + "";
+				System.out.println(ascii + "");
+				
+				bitOutputStream.writeBits(8, ascii);
+				break;
+			}
+			int current = str.charAt(0);
+			checkBestobookOfMemories1(current, 1);
+			
+		}
+	}
+		
+//================================in process===============================================
+	private static void checkBestobookOfMemories1(int toCheck, int nextChar) {
+		
+		System.out.println(bookOfMemoriesD.get(toCheck));
+		if(!bookOfMemoriesD.containsKey(toCheck)) {
+			for(int i=0;i<20;i++) {
+			System.out.println(str.charAt(i)+str.charAt(i+1));
+			System.out.println(convertStringToChar(str.charAt(i)+""+str.charAt(i+1)));
+			}
+		}
+	}
+		
+//==============================================================================================		
+		
+		
+		
+		
 	
+//-----------------------------------ResetVarToWork------------------------------------------
 	static void ResetVarToWork(String srcIn, String srcOut) throws IOException {
 		str = "";
-		bookOfMemories = new HashMap<>();
-		inputStream = new FileInputStream(srcIn);
-		bitInputStream = new BitInputStream(inputStream);
+		out = "";
+		bookOfMemoriesD = new HashMap<>();
+		bitInputStream = new BitInputStream(srcIn);
 		fileOutputStream = new FileOutputStream(srcOut);
 		bitOutputStream = new BitOutputStream(fileOutputStream);
 	}
+//------------------------------------BuildStr----------------------------------------------
 	static void BuildStr() throws IOException {
 		while (true) {
-			String current = convertBytesToSring();
-			String next = convertBytesToSring();
+			String current = convertBytesToString();
+			String next = convertBytesToString();
 
 			if (current.length() == 0)
 				break;
@@ -194,5 +218,19 @@ public class LZW {
 		}
 	}
 
-	
+//----------------------------------------end----------------------------------------------	
+
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
