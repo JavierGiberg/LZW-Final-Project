@@ -184,7 +184,7 @@ public class LZW {
 			}
 			if (str.length() == 1) {
 				int ascii = str.charAt(0);
-				out += ascii + "";
+				out += str.charAt(0);
 				System.out.println(256 * ascii + "");
 
 				bitOutputStream.writeBits(8, ascii);
@@ -217,8 +217,8 @@ public class LZW {
 				
 			
 			}else {
-				String temp = bookOfMemoriesD.get(toCheck)  ;
-				String next =bookOfMemoriesD.get(256*str.charAt(2) + str.charAt(3)) ;
+				String temp = ""+bookOfMemoriesD.get(toCheck)  ;
+				String next =""+bookOfMemoriesD.get(256*str.charAt(2) + str.charAt(3)) ;
 				temp+=next.charAt(0)+"";
 				System.out.println(temp);
 				bookOfMemoriesD.put(Indexbook, temp);
