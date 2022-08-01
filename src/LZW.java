@@ -17,7 +17,7 @@ public class LZW {
 	private static HashMap<Integer, String> bookOfMemoriesD;
 
 	public LZW() {
-		Indexbook = 510;
+		Indexbook = 511;
 		INTERVAL_READINF_SIZE = 1;
 	}
 
@@ -38,6 +38,7 @@ public class LZW {
 		bitInputStream.close();
 		long end = System.currentTimeMillis();
 		System.out.println(bookOfMemoriesC);
+		System.out.println(out);
 		System.out.println("Process Done! in : " + (end - start) + " mili seconds");
 	}
 
@@ -49,7 +50,7 @@ public class LZW {
 			}
 			if (str.length() == 1) {
 				int ascii = str.charAt(0);
-//				out += ascii + "";
+				out += ascii + "";
 				bookOfMemoriesC.put(str, Indexbook);
 				bitOutputStream.writeBits(8, ascii);
 				break;
@@ -61,18 +62,19 @@ public class LZW {
 
 //---------------------------check The Best-----------------------------------------------	
 	private static void checkBestobookOfMemories(int toCheck, int nextChar) {
+		System.out.println(out);
 		String toChecksrt = toCheck + "";
 		if (str.length() == nextChar) {
 			bookOfMemoriesC.put(toChecksrt, Indexbook);
 			str = str.substring(nextChar);
-			if (toCheck < Indexbook) {
-				bitOutputStream.writeBits(8, toCheck);
+//			if (toCheck < Indexbook) {
+//				bitOutputStream.writeBits(8, toCheck);
 //				out += toCheck + " ";
-			} else {// write byte
+//			} else {// write byte
 
 				bitOutputStream.writeBits(16, toCheck);
-//				out += toCheck + " ";
-			}
+				out += toCheck + " ";
+//			}
 			return;
 		}
 
@@ -96,7 +98,7 @@ public class LZW {
 			Indexbook++;
 			str = str.substring(nextChar);
 			bitOutputStream.writeBits(16, Integer.parseInt(toChecksrt));
-//			out += Integer.parseInt(toChecksrt) + " ";
+			out += Integer.parseInt(toChecksrt) + " ";
 			return;
 		} else {
 			String toCheckAgain = toChecksrt + str.charAt(nextChar);
@@ -156,6 +158,8 @@ public class LZW {
 
 //------------------------in process--------------Decompress--------------------------------------------------
 	public void Decompress(String srcIn, String srcOut) throws IOException {
+		long start = System.currentTimeMillis();
+		
 		System.out.println("Start Process...");
 		System.out.println("Step 1 : Install variable for work");
 		ResetVarToWork(srcIn, srcOut);
@@ -166,7 +170,9 @@ public class LZW {
 		System.out.println(str);
 
 		DecompressStr();
-
+		System.out.println(out);
+		long end = System.currentTimeMillis();
+		System.out.println("Process Done Decompres! in : " + (end - start) + " mili seconds");
 	}
 
 //-------------------------in process-------------DecompressStr---------------------------------------	
@@ -194,6 +200,7 @@ public class LZW {
 	private static void checkBestobookOfMemories1(int toCheck, int nextChar) {
 
 		System.out.println(toCheck);
+		if(str.length()>3) {
 		if (BuildStrFlag && bookOfMemoriesD.containsKey(toCheck)) {
 			System.out.println(256*str.charAt(2) + str.charAt(3));
 			if (!bookOfMemoriesD.containsKey(256*str.charAt(2) + str.charAt(3))&&Indexbook==256*str.charAt(2) + str.charAt(3)) {
@@ -219,8 +226,8 @@ public class LZW {
 				Indexbook++;
 				str = str.substring(2);
 			}
-			
-		} else {
+		}
+		 else {
 
 		///	
 			System.out.println(256 * str.charAt(1) + str.charAt(2));
@@ -241,9 +248,21 @@ public class LZW {
 			}
 
 		}
+		}else {	/////last three char!!!!
+			if(bookOfMemoriesD.containsKey(toCheck)) {
+			out+=bookOfMemoriesD.get(toCheck);
+			str=str.substring(2);
+			}else {
+				out+=256*str.charAt(0);
+			//	str=str.substring();
+			}
+		}
+	
+		
 		System.out.println(out);
 
 		System.out.println(bookOfMemoriesD);
+		
 
 //			String character = convertStringToChar(str.charAt(0)+"")+""+convertStringToChar(str.charAt(1)+"");
 //			System.out.println(Integer.parseInt(character,2));
