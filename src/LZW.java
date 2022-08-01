@@ -4,20 +4,17 @@ import java.io.IOException;
 
 import java.util.HashMap;
 
-
-
-
 public class LZW {
 	private static FileOutputStream fileOutputStream;
 	private static BitOutputStream bitOutputStream;
 	private static BitInputStream bitInputStream;
-	private static int Indexbook ;
+	private static int Indexbook;
 	private static String str = "";
 	private static String out = "";
 	private static int INTERVAL_READINF_SIZE;
 	private static boolean BuildStrFlag;
 	private static HashMap<String, Integer> bookOfMemoriesC;
-	private static HashMap<Integer,String> bookOfMemoriesD;
+	private static HashMap<Integer, String> bookOfMemoriesD;
 
 	public LZW() {
 		Indexbook = 510;
@@ -29,7 +26,7 @@ public class LZW {
 		long start = System.currentTimeMillis();
 		System.out.println("Start Process...");
 		System.out.println("Step 1 : Install variable for work");
-		ResetVarToWork(srcIn,srcOut);
+		ResetVarToWork(srcIn, srcOut);
 
 		System.out.println("Step 2 : Build string for compress");
 		BuildStr();
@@ -38,10 +35,10 @@ public class LZW {
 		System.out.println("Step 4 : Close resources");
 		bitOutputStream.flush();
 		bitOutputStream.close();
-	    bitInputStream.close();
+		bitInputStream.close();
 		long end = System.currentTimeMillis();
 		System.out.println(bookOfMemoriesC);
-		System.out.println("Process Done! in : "+(end - start) + " mili seconds");
+		System.out.println("Process Done! in : " + (end - start) + " mili seconds");
 	}
 
 //-----------------------------Compress str-----------------------------------------------	
@@ -117,7 +114,7 @@ public class LZW {
 
 //-------------------------readBytesFromFile-------------------------------------------
 	private static String convertBytesToString() throws IOException {
-		
+
 		int current = -1;
 		String Byte = "";
 		String completeBytes = "";
@@ -139,35 +136,41 @@ public class LZW {
 		return completeBytes;
 	}
 
-	public  void setInterval(int size) {
-		INTERVAL_READINF_SIZE=size/8;
+	public void setInterval(int size) {
+		INTERVAL_READINF_SIZE = size / 8;
 	}
-	//------------------in process--------------------Decompress--------------------------------------------------	
-	//------------------in process--------------------Decompress--------------------------------------------------
-	//------------------in process--------------------Decompress--------------------------------------------------
-	//-------------------in process-------------------Decompress--------------------------------------------------
-	//-------------------in process-------------------Decompress--------------------------------------------------
-	//------------------in process--------------------Decompress--------------------------------------------------
-	//------------------in process--------------------Decompress--------------------------------------------------
-	
+	// ------------------in
+	// process--------------------Decompress--------------------------------------------------
+	// ------------------in
+	// process--------------------Decompress--------------------------------------------------
+	// ------------------in
+	// process--------------------Decompress--------------------------------------------------
+	// -------------------in
+	// process-------------------Decompress--------------------------------------------------
+	// -------------------in
+	// process-------------------Decompress--------------------------------------------------
+	// ------------------in
+	// process--------------------Decompress--------------------------------------------------
+	// ------------------in
+	// process--------------------Decompress--------------------------------------------------
+
 //------------------------in process--------------Decompress--------------------------------------------------
 	public void Decompress(String srcIn, String srcOut) throws IOException {
 		System.out.println("Start Process...");
 		System.out.println("Step 1 : Install variable for work");
-		ResetVarToWork(srcIn,srcOut);
+		ResetVarToWork(srcIn, srcOut);
 		System.out.println("Step 2 : Build string for compress");
-		BuildStrFlag=true;
+		BuildStrFlag = true;
 		BuildStr();
 		System.out.println("Step 3 : Start ()=>{ Decompress() => Build bookOfMemories() => Write file() }");
 		System.out.println(str);
-		
 
 		DecompressStr();
 
 	}
+
 //-------------------------in process-------------DecompressStr---------------------------------------	
 	private static void DecompressStr() {
-
 
 		while (true) {
 			if (str.length() == 0) {
@@ -176,43 +179,75 @@ public class LZW {
 			if (str.length() == 1) {
 				int ascii = str.charAt(0);
 				out += ascii + "";
-				System.out.println(256*ascii + "");
-				
+				System.out.println(256 * ascii + "");
+
 				bitOutputStream.writeBits(8, ascii);
 				break;
 			}
-			int current = 256*str.charAt(0)+str.charAt(1);
+			int current = 256 * str.charAt(0) + str.charAt(1);
 			checkBestobookOfMemories1(current, 1);
-			
+
 		}
 	}
-		
+
 //================================in process===============================================
 	private static void checkBestobookOfMemories1(int toCheck, int nextChar) {
-		
-			
-			System.out.println(toCheck);
-			if ( BuildStrFlag && bookOfMemoriesD.containsKey(toCheck)) {
+
+		System.out.println(toCheck);
+		if (BuildStrFlag && bookOfMemoriesD.containsKey(toCheck)) {
+			System.out.println(256*str.charAt(2) + str.charAt(3));
+			if (!bookOfMemoriesD.containsKey(256*str.charAt(2) + str.charAt(3))&&Indexbook==256*str.charAt(2) + str.charAt(3)) {
+				System.out.println("test1");
+				
+				String temp = bookOfMemoriesD.get(toCheck)  ;
+				temp+=temp.charAt(0);
+				System.out.println(temp);
+
+				bookOfMemoriesD.put(Indexbook, temp);
 				out+=bookOfMemoriesD.get(toCheck);
-				str=str.substring(1);
-				bookOfMemoriesD.put(Indexbook, bookOfMemoriesD.get(toCheck));
 				Indexbook++;
+				str = str.substring(2);
+				
+			
 			}else {
-				out+=str.charAt(0);
-				bookOfMemoriesD.put(Indexbook, str.charAt(0)+""+str.charAt(1));
+				String temp = bookOfMemoriesD.get(toCheck)  ;
+				String next =bookOfMemoriesD.get(256*str.charAt(2) + str.charAt(3)) ;
+				temp+=next.charAt(0)+"";
+				System.out.println(temp);
+				bookOfMemoriesD.put(Indexbook, temp);
+				out+=bookOfMemoriesD.get(toCheck);
 				Indexbook++;
-				str=str.substring(0);
+				str = str.substring(2);
 			}
-			System.out.println(out);
 			
-			System.out.println(bookOfMemoriesD);
-			
-			
-				
-				
+		} else {
+
+		///	
+			System.out.println(256 * str.charAt(1) + str.charAt(2));
+			if (bookOfMemoriesD.containsKey(256 * str.charAt(1) + str.charAt(2))) {
+				System.out.println("test2");
+				String next =bookOfMemoriesD.get(256 * str.charAt(1) + str.charAt(2));
+				String temp = str.charAt(0)+""+next.charAt(0) ;
+				System.out.println(temp);
+				out+=temp.charAt(0);
+				bookOfMemoriesD.put(Indexbook, temp);
+				str = str.substring(1);
+				Indexbook++;
+			} else {
+				bookOfMemoriesD.put(Indexbook, (str.charAt(0) + "") + ("" + str.charAt(1)));
+				Indexbook++;
+				out += str.charAt(0);
+				str = str.substring(1);
+			}
+
+		}
+		System.out.println(out);
+
+		System.out.println(bookOfMemoriesD);
+
 //			String character = convertStringToChar(str.charAt(0)+"")+""+convertStringToChar(str.charAt(1)+"");
 //			System.out.println(Integer.parseInt(character,2));
-			str=str.substring(1);
+	
 //			int dup = Integer.parseInt(current,2);
 //			System.out.println("dup " +dup+" Char "+character);
 //			int x = 255+convertStringToChar(current)+convertStringToChar(next);
@@ -227,15 +262,11 @@ public class LZW {
 //				
 //				flagIn=false;
 //			}
-		
+
 	}
-		
+
 //==============================================================================================		
-		
-		
-		
-		
-	
+
 //-----------------------------------ResetVarToWork------------------------------------------
 	static void ResetVarToWork(String srcIn, String srcOut) throws IOException {
 		str = "";
@@ -246,11 +277,12 @@ public class LZW {
 		fileOutputStream = new FileOutputStream(srcOut);
 		bitOutputStream = new BitOutputStream(fileOutputStream);
 	}
+
 //------------------------------------BuildStr----------------------------------------------
 	static void BuildStr() throws IOException {
 //		boolean flagIn=true;
 		while (true) {
-		
+
 			String current = convertBytesToString();
 			String next = convertBytesToString();
 //			String character = current+next;
@@ -269,7 +301,7 @@ public class LZW {
 //				flagIn=false;
 //			}
 //				
-			
+
 //---------------------------------------------------------------------			
 //			if(flagIn){
 			if (current.length() == 0)
@@ -282,22 +314,9 @@ public class LZW {
 //			flagIn=true;
 			System.out.println(str);
 		}
-		
+
 	}
 
 //----------------------------------------end----------------------------------------------	
 
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
