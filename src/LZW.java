@@ -67,30 +67,19 @@ public class LZW {
 		if (str.length() == nextChar) {
 			bookOfMemoriesC.put(toChecksrt, Indexbook);
 			str = str.substring(nextChar);
-//			if (toCheck < Indexbook) {
-//				bitOutputStream.writeBits(8, toCheck);
-//				out += toCheck + " ";
-//			} else {// write byte
-
-				bitOutputStream.writeBits(16, toCheck);
-				out += toCheck + " ";
-//			}
+			bitOutputStream.writeBits(16, toCheck);
+			out += toCheck + " ";
 			return;
 		}
-
 		if (!bookOfMemoriesC.containsKey(toCheck + "" + str.charAt(nextChar))) {
-
 			if (toChecksrt.length() == 1 || toCheck < 256) {
 				int ascii = toChecksrt.charAt(0);
 				if (toCheck < 256) {
-
 					bookOfMemoriesC.put(toCheck + "" + str.charAt(nextChar), Indexbook);
 					Indexbook++;
 					str = str.substring(nextChar);
-
 					bitOutputStream.writeBits(8, toCheck);
 					out += toCheck + " ";
-
 					return;
 				}
 			}
@@ -159,7 +148,7 @@ public class LZW {
 //------------------------in process--------------Decompress--------------------------------------------------
 	public void Decompress(String srcIn, String srcOut) throws IOException {
 		long start = System.currentTimeMillis();
-		
+
 		System.out.println("Start Process...");
 		System.out.println("Step 1 : Install variable for work");
 		ResetVarToWork(srcIn, srcOut);
@@ -185,103 +174,95 @@ public class LZW {
 			if (str.length() == 1) {
 				int ascii = str.charAt(0);
 				out += str.charAt(0);
-				System.out.println(256 * ascii + "");
 
-				bitOutputStream.writeBits(8, ascii);
+				bitOutputStream.writeBits(8, str.charAt(0));
+//				System.out.println(256 * ascii + "");
+
 				break;
 			}
-			int current = 256 * str.charAt(0) + str.charAt(1);
-			checkBestobookOfMemories1(current, 1);
+			int current = 256 * str.charAt(0);
+			int next = str.charAt(1);
+			checkBestobookOfMemories1(current+next , 1);
 
 		}
 	}
 
 //================================in process===============================================
 	private static void checkBestobookOfMemories1(int toCheck, int nextChar) {
+		
+		int toConvert = toCheck+str.charAt(nextChar);
+//		String currentBook =toConvert+"";
+//		String nextBook = bookOfMemoriesD.get(nextChar);
+//		System.out.println("current " + currentBook );
+//		System.out.println(toCheck + nextBook + "");
 
-		System.out.println(toCheck);
-		if(str.length()>3) {
-		if (BuildStrFlag && bookOfMemoriesD.containsKey(toCheck)) {
-			System.out.println(256*str.charAt(2) + str.charAt(3));
-			if (!bookOfMemoriesD.containsKey(256*str.charAt(2) + str.charAt(3))&&Indexbook==256*str.charAt(2) + str.charAt(3)) {
-				System.out.println("test1");
-				
-				String temp = bookOfMemoriesD.get(toCheck)  ;
-				temp+=temp.charAt(0);
-				System.out.println(temp);
+		if (!bookOfMemoriesD.containsKey(toCheck)) {
+			int bettwenStr = 256 * str.charAt(1) + str.charAt(2);
+			if (bookOfMemoriesD.containsKey(bettwenStr)) {
+				String nextCharFromBook = bookOfMemoriesD.get(bettwenStr);
 
-				bookOfMemoriesD.put(Indexbook, temp);
-				out+=bookOfMemoriesD.get(toCheck);
+				bookOfMemoriesD.put(Indexbook , str.charAt(0) + "" + nextCharFromBook.charAt(0));
 				Indexbook++;
-				str = str.substring(2);
-				
-			
-			}else {
-				String temp = ""+bookOfMemoriesD.get(toCheck)  ;
-				String next =""+bookOfMemoriesD.get(256*str.charAt(2) + str.charAt(3)) ;
-				temp+=next.charAt(0)+"";
-				System.out.println(temp);
-				bookOfMemoriesD.put(Indexbook, temp);
-				out+=bookOfMemoriesD.get(toCheck);
-				Indexbook++;
-				str = str.substring(2);
-			}
-		}
-		 else {
-
-		///	
-			System.out.println(256 * str.charAt(1) + str.charAt(2));
-			if (bookOfMemoriesD.containsKey(256 * str.charAt(1) + str.charAt(2))) {
-				System.out.println("test2");
-				String next =bookOfMemoriesD.get(256 * str.charAt(1) + str.charAt(2));
-				String temp = str.charAt(0)+""+next.charAt(0) ;
-				System.out.println(temp);
-				out+=temp.charAt(0);
-				bookOfMemoriesD.put(Indexbook, temp);
-				str = str.substring(1);
-				Indexbook++;
-			} else {
-				bookOfMemoriesD.put(Indexbook, (str.charAt(0) + "") + ("" + str.charAt(1)));
-				Indexbook++;
+				System.out.println(str);
 				out += str.charAt(0);
 				str = str.substring(1);
+				System.out.println(out);
+				System.out.println(bookOfMemoriesD);
+			} else {
+				System.out.println(256*str.charAt(1)+str.charAt(2)+"");
+				if (bookOfMemoriesD.containsKey(256*str.charAt(1)+str.charAt(2))) {
+					String nextTemp = bookOfMemoriesD.get(256*str.charAt(1)+str.charAt(2));
+					bookOfMemoriesD.put(Indexbook , str.charAt(0) + "" + nextTemp.charAt(0));
+					out += str.charAt(0);
+					str = str.substring(1);
+					System.out.println(out);
+					System.out.println(bookOfMemoriesD);
+				} else {
+					bookOfMemoriesD.put(Indexbook , str.charAt(0) + "" + str.charAt(1));
+					Indexbook++;
+					System.out.println(str);
+					out += str.charAt(0);
+					str = str.substring(1);
+					System.out.println(out);
+					System.out.println(bookOfMemoriesD);
+				}
 			}
-
-		}
-		}else {	/////last three char!!!!
-			if(bookOfMemoriesD.containsKey(toCheck)) {
-			out+=bookOfMemoriesD.get(toCheck);
-			str=str.substring(2);
+		} else {
+			
+	//		int toConvert = Integer.parseInt(toCheck)+str.charAt(nextChar);
+			if(str.length()<3) {
+				out+=bookOfMemoriesD.get(toCheck);
+				str=str.substring(1);
+				return;
+			}
+			String toNextCkeck = bookOfMemoriesD.get(toCheck);
+			if(bookOfMemoriesD.containsKey(256*str.charAt(2)+str.charAt(3))) {
+				String addNext =  bookOfMemoriesD.get(256*str.charAt(2)+str.charAt(3));
+				toNextCkeck+=addNext.charAt(0);
 			}else {
-				out+=256*str.charAt(0);
-			//	str=str.substring();
+				if(256*str.charAt(2)+str.charAt(3)==Indexbook) {
+					toNextCkeck+=toNextCkeck.charAt(0);
+				}else {
+					toNextCkeck+=str.charAt(2);					
+				}
+					
 			}
+			System.out.println("to chak bigger :"+toNextCkeck);
+//			bookOfMemoriesD.put(111, "ban");
+			if(bookOfMemoriesD.containsValue(toNextCkeck)) {
+				//checkBestobookOfMemories1(toNextCkeck, 1);
+			}else {
+				bookOfMemoriesD.put(Indexbook,toNextCkeck );
+				Indexbook++;
+				out+=bookOfMemoriesD.get(toCheck);
+				str=str.substring(nextChar+1);
+				System.out.println(out);
+				System.out.println(bookOfMemoriesD);
+			}
+				
 		}
-	
+//		String temp = bookOfMemoriesD.get(currentBook);
 		
-		System.out.println(out);
-
-		System.out.println(bookOfMemoriesD);
-		
-
-//			String character = convertStringToChar(str.charAt(0)+"")+""+convertStringToChar(str.charAt(1)+"");
-//			System.out.println(Integer.parseInt(character,2));
-	
-//			int dup = Integer.parseInt(current,2);
-//			System.out.println("dup " +dup+" Char "+character);
-//			int x = 255+convertStringToChar(current)+convertStringToChar(next);
-//			System.out.println(x);
-////------------------------------------------------------------------			
-//			if ( BuildStrFlag && 255+convertStringToChar(current)+convertStringToChar(next)>509) {
-//				if(x<510)
-//					str+=255+x+"";
-//				else
-//					str+=256*dup+convertStringToChar(next);	
-//					
-//				
-//				flagIn=false;
-//			}
-
 	}
 
 //==============================================================================================		
@@ -299,43 +280,18 @@ public class LZW {
 
 //------------------------------------BuildStr----------------------------------------------
 	static void BuildStr() throws IOException {
-//		boolean flagIn=true;
 		while (true) {
-
 			String current = convertBytesToString();
 			String next = convertBytesToString();
-//			String character = current+next;
-//			int dup = Integer.parseInt(current,2);
-//			System.out.println("dup " +dup+" Char "+character);
-//			int x = 255+convertStringToChar(current)+convertStringToChar(next);
-//			System.out.println(x);
-////------------------------------------------------------------------			
-//			if ( BuildStrFlag && 255+convertStringToChar(current)+convertStringToChar(next)>509) {
-//				if(x<510)
-//					str+=255+x+"";
-//				else
-//					str+=256*dup+convertStringToChar(next);	
-//					
-//				
-//				flagIn=false;
-//			}
-//				
-
-//---------------------------------------------------------------------			
-//			if(flagIn){
 			if (current.length() == 0)
 				break;
 			str += convertStringToChar(current);
 			if (next.length() == 0)
 				break;
 			str += convertStringToChar(next);
-//			}
-//			flagIn=true;
 			System.out.println(str);
 		}
-
 	}
-
 //----------------------------------------end----------------------------------------------	
 
 }

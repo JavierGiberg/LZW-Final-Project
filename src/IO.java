@@ -13,6 +13,7 @@ public class IO {
 //			srcOut = "LZWG compreses ["+1*8+"bits] Result.bin";
 //			A.Compress(srcIn, srcOut);
 			
+
 			srcOut = "LZWG decompress Result.txt";
 			A.Decompress(srcIn, srcOut);
 
