@@ -189,12 +189,7 @@ public class LZW {
 
 //================================in process===============================================
 	private static void checkBestobookOfMemories1(int toCheck, int nextChar) {
-		System.out.println(Indexbook);
-		int toConvert = toCheck+str.charAt(nextChar);
-//		String currentBook =toConvert+"";
-//		String nextBook = bookOfMemoriesD.get(nextChar);
-//		System.out.println("current " + currentBook );
-//		System.out.println(toCheck + nextBook + "");
+System.out.println(nextChar);
 
 		if (!bookOfMemoriesD.containsKey(toCheck)) {
 			int bettwenStr = 256 * str.charAt(1) + str.charAt(2);
@@ -207,9 +202,10 @@ public class LZW {
 				Indexbook++;
 //				System.out.println(str);
 				out += str.charAt(0);
-				str = str.substring(1);
-				System.out.println(out);
-				System.out.println(bookOfMemoriesD);
+				str = str.substring(nextChar);
+//				System.out.println(out);
+//				System.out.println(bookOfMemoriesD);
+				
 			} else {
 //				System.out.println(256*str.charAt(1)+str.charAt(2)+"");
 				if (bookOfMemoriesD.containsKey(256*str.charAt(1)+str.charAt(2))) {
@@ -218,52 +214,74 @@ public class LZW {
 					
 					bookOfMemoriesD.put(Indexbook , str.charAt(0) + "" + nextTemp.charAt(0));
 					out += str.charAt(0);
-					str = str.substring(1);
-					System.out.println(out);
-					System.out.println(bookOfMemoriesD);
+					str = str.substring(nextChar);
+//					System.out.println(out);
+//					System.out.println(bookOfMemoriesD);
+					
 				} else {
 					bookOfMemoriesD.put(Indexbook , str.charAt(0) + "" + str.charAt(1));
 					Indexbook++;
 //					System.out.println(str);
 					out += str.charAt(0);
-					str = str.substring(1);
-					System.out.println(out);
-					System.out.println(bookOfMemoriesD);
+					str = str.substring(nextChar);
+//					System.out.println(out);
+//					System.out.println(bookOfMemoriesD);
+					
 				}
 			}
+		
 		} else {
 			
 	//		int toConvert = Integer.parseInt(toCheck)+str.charAt(nextChar);
-			if(str.length()<3) {
+			if(str.length()<=3) {
 				out+=bookOfMemoriesD.get(toCheck);
-				str=str.substring(1);
+				str=str.substring(nextChar+1);
+				
 				return;
 			}
 			String toNextCkeck = bookOfMemoriesD.get(toCheck);
 			if(bookOfMemoriesD.containsKey(256*str.charAt(2)+str.charAt(3))) {
 				String addNext =  bookOfMemoriesD.get(256*str.charAt(2)+str.charAt(3));
 				toNextCkeck+=addNext.charAt(0);
+				
 			}else {
 				if(256*str.charAt(2)+str.charAt(3)==Indexbook) {
 					toNextCkeck+=toNextCkeck.charAt(0);
-				}else {
-					toNextCkeck+=str.charAt(2);					
-				}
 					
+				}else {
+					toNextCkeck+=str.charAt(2);	
+					
+				}
+				
 			}
-//			System.out.println("to chak bigger :"+toNextCkeck);
+			System.out.println("to chak bigger :"+toNextCkeck);
 //			bookOfMemoriesD.put(111, "ban");
 			if(bookOfMemoriesD.containsValue(toNextCkeck)) {
-				System.out.println("biiiiiiiiiiiiiiiiiiiiiger");
+				int toCheckAgain = 0;
+				for(int i=511;i<=Indexbook;i++) {
+					if(toNextCkeck.equals(bookOfMemoriesD.get(i))) {
+					toCheckAgain=i;
+//					System.out.println(toCheckAgain);
+					break;
+					}
+				}
+				
+				System.out.println(bookOfMemoriesD.get(toCheckAgain));
+				checkBestobookOfMemories1(toCheckAgain, toNextCkeck.length());
+				System.out.println(out);
+				return;
+				
 			}else {
 				bookOfMemoriesD.put(Indexbook,toNextCkeck );
 				Indexbook++;
 				out+=bookOfMemoriesD.get(toCheck);
 				str=str.substring(nextChar+1);
-				System.out.println(out);
-				System.out.println(bookOfMemoriesD);
-			}
+//				System.out.println(out);
+//				System.out.println(bookOfMemoriesD);
 				
+				
+			}
+			
 		}
 //		String temp = bookOfMemoriesD.get(currentBook);
 		
@@ -296,6 +314,13 @@ public class LZW {
 //			System.out.println(str);
 		}
 	}
+	
+	static String bestBookDescompress(String toCheck , int next) {
+		
+		
+		return "" ;
+	}
+
 //----------------------------------------end----------------------------------------------	
 
 }
