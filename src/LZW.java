@@ -21,7 +21,7 @@ public class LZW {
 		INTERVAL_READINF_SIZE = 1;
 	}
 
-	public void Compress(String srcIn, String srcOut) throws IOException {
+	public String Compress(String srcIn, String srcOut) throws IOException {
 
 		long start = System.currentTimeMillis();
 		System.out.println("Start Process...");
@@ -39,7 +39,7 @@ public class LZW {
 		long end = System.currentTimeMillis();
 		System.out.println(bookOfMemoriesC);
 //		System.out.println(out);
-		System.out.println("Process Done! in : " + (end - start) + " mili seconds");
+		return "Process Done! in : " + (end - start) + " mili seconds";
 	}
 
 //-----------------------------Compress str-----------------------------------------------	
@@ -154,7 +154,7 @@ public class LZW {
 	// process--------------------Decompress--------------------------------------------------
 
 //------------------------in process--------------Decompress--------------------------------------------------
-	public void Decompress(String srcIn, String srcOut) throws IOException {
+	public String Decompress(String srcIn, String srcOut) throws IOException {
 		long start = System.currentTimeMillis();
 
 		System.out.println("Start Process...");
@@ -175,6 +175,7 @@ public class LZW {
 		bitInputStream.close();
 		long end = System.currentTimeMillis();
 		System.out.println("Process Done Decompres! in : " + (end - start) + " mili seconds");
+		return "Process Done Decompres! in : " + (end - start) + " mili seconds";
 //		System.out.println(bookOfMemoriesC);
 	}
 
