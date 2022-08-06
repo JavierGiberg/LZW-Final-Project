@@ -1,374 +1,4016 @@
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+Romeo and Juliet
+Shakespeare homepage <http://shakespeare.mit.edu/Shakespeare> | Romeo
+and Juliet <http://shakespeare.mit.edu/romeo_juliet/> | Entire play
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+      ACT I
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+      PROLOGUE
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+    Two households, both alike in dignity,
+    In fair Verona, where we lay our scene,
+    From ancient grudge break to new mutiny,
+    Where civil blood makes civil hands unclean.
+    From forth the fatal loins of these two foes
+    A pair of star-cross'd lovers take their life;
+    Whose misadventured piteous overthrows
+    Do with their death bury their parents' strife.
+    The fearful passage of their death-mark'd love,
+    And the continuance of their parents' rage,
+    Which, but their children's end, nought could remove,
+    Is now the two hours' traffic of our stage;
+    The which if you with patient ears attend,
+    What here shall miss, our toil shall strive to mend.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+      SCENE I. Verona. A public place.
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+    /Enter SAMPSON and GREGORY, of the house of Capulet, armed with
+    swords and bucklers/ 
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*SAMPSON*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    Gregory, o' my word, we'll not carry coals.
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+*GREGORY*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    No, for then we should be colliers.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*SAMPSON*
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+    I mean, an we be in choler, we'll draw.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*GREGORY*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    Ay, while you live, draw your neck out o' the collar.
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+*SAMPSON*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    I strike quickly, being moved.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*GREGORY*
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+    But thou art not quickly moved to strike.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*SAMPSON*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    A dog of the house of Montague moves me.
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+*GREGORY*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    To move is to stir; and to be valiant is to stand:
+    therefore, if thou art moved, thou runn'st away.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*SAMPSON*
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+    A dog of that house shall move me to stand: I will
+    take the wall of any man or maid of Montague's.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*GREGORY*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    That shows thee a weak slave; for the weakest goes
+    to the wall.
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+*SAMPSON*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    True; and therefore women, being the weaker vessels,
+    are ever thrust to the wall: therefore I will push
+    Montague's men from the wall, and thrust his maids
+    to the wall.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*GREGORY*
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+    The quarrel is between our masters and us their men.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*SAMPSON*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    'Tis all one, I will show myself a tyrant: when I
+    have fought with the men, I will be cruel with the
+    maids, and cut off their heads.
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*GREGORY*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    The heads of the maids?
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+*SAMPSON*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    Ay, the heads of the maids, or their maidenheads;
+    take it in what sense thou wilt.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*GREGORY*
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    They must take it in sense that feel it.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*SAMPSON*
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+    Me they shall feel while I am able to stand: and
+    'tis known I am a pretty piece of flesh.
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*GREGORY*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    'Tis well thou art not fish; if thou hadst, thou
+    hadst been poor John. Draw thy tool! here comes
+    two of the house of the Montagues.
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*SAMPSON*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    My naked weapon is out: quarrel, I will back thee.
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+*GREGORY*
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+    How! turn thy back and run?
 
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
-ababababababababababababababababababababababa
+*SAMPSON*
 
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-banabananamanamanbanabananamanamanbanabananamanaman
-12345678900987654321111111
+    Fear me not.
+
+*GREGORY*
+
+    No, marry; I fear thee!
+
+*SAMPSON*
+
+    Let us take the law of our sides; let them begin.
+
+*GREGORY*
+
+    I will frown as I pass by, and let them take it as
+    they list.
+
+*SAMPSON*
+
+    Nay, as they dare. I will bite my thumb at them;
+    which is a disgrace to them, if they bear it.
+
+    /Enter ABRAHAM and BALTHASAR/
+
+*ABRAHAM*
+
+    Do you bite your thumb at us, sir?
+
+*SAMPSON*
+
+    I do bite my thumb, sir.
+
+*ABRAHAM*
+
+    Do you bite your thumb at us, sir?
+
+*SAMPSON*
+
+    [Aside to GREGORY] Is the law of our side, if I say
+    ay?
+
+*GREGORY*
+
+    No.
+
+*SAMPSON*
+
+    No, sir, I do not bite my thumb at you, sir, but I
+    bite my thumb, sir.
+
+*GREGORY*
+
+    Do you quarrel, sir?
+
+*ABRAHAM*
+
+    Quarrel sir! no, sir.
+
+*SAMPSON*
+
+    If you do, sir, I am for you: I serve as good a man as you.
+
+*ABRAHAM*
+
+    No better.
+
+*SAMPSON*
+
+    Well, sir.
+
+*GREGORY*
+
+    Say 'better:' here comes one of my master's kinsmen.
+
+*SAMPSON*
+
+    Yes, better, sir.
+
+*ABRAHAM*
+
+    You lie.
+
+*SAMPSON*
+
+    Draw, if you be men. Gregory, remember thy swashing blow.
+
+    /They fight/
+
+    /Enter BENVOLIO/
+
+*BENVOLIO*
+
+    Part, fools!
+    Put up your swords; you know not what you do.
+
+    /Beats down their swords/
+
+    /Enter TYBALT/
+
+*TYBALT*
+
+    What, art thou drawn among these heartless hinds?
+    Turn thee, Benvolio, look upon thy death.
+
+*BENVOLIO*
+
+    I do but keep the peace: put up thy sword,
+    Or manage it to part these men with me.
+
+*TYBALT*
+
+    What, drawn, and talk of peace! I hate the word,
+    As I hate hell, all Montagues, and thee:
+    Have at thee, coward!
+
+    /They fight/
+
+    /Enter, several of both houses, who join the fray; then enter
+    Citizens, with clubs/
+
+*First Citizen*
+
+    Clubs, bills, and partisans! strike! beat them down!
+    Down with the Capulets! down with the Montagues!
+
+    /Enter CAPULET in his gown, and LADY CAPULET/
+
+*CAPULET*
+
+    What noise is this? Give me my long sword, ho!
+
+*LADY CAPULET*
+
+    A crutch, a crutch! why call you for a sword?
+
+*CAPULET*
+
+    My sword, I say! Old Montague is come,
+    And flourishes his blade in spite of me.
+
+    /Enter MONTAGUE and LADY MONTAGUE/
+
+*MONTAGUE*
+
+    Thou villain Capulet,--Hold me not, let me go.
+
+*LADY MONTAGUE*
+
+    Thou shalt not stir a foot to seek a foe.
+
+    /Enter PRINCE, with Attendants/
+
+*PRINCE*
+
+    Rebellious subjects, enemies to peace,
+    Profaners of this neighbour-stained steel,--
+    Will they not hear? What, ho! you men, you beasts,
+    That quench the fire of your pernicious rage
+    With purple fountains issuing from your veins,
+    On pain of torture, from those bloody hands
+    Throw your mistemper'd weapons to the ground,
+    And hear the sentence of your moved prince.
+    Three civil brawls, bred of an airy word,
+    By thee, old Capulet, and Montague,
+    Have thrice disturb'd the quiet of our streets,
+    And made Verona's ancient citizens
+    Cast by their grave beseeming ornaments,
+    To wield old partisans, in hands as old,
+    Canker'd with peace, to part your canker'd hate:
+    If ever you disturb our streets again,
+    Your lives shall pay the forfeit of the peace.
+    For this time, all the rest depart away:
+    You Capulet; shall go along with me:
+    And, Montague, come you this afternoon,
+    To know our further pleasure in this case,
+    To old Free-town, our common judgment-place.
+    Once more, on pain of death, all men depart.
+
+    /Exeunt all but MONTAGUE, LADY MONTAGUE, and BENVOLIO/
+
+*MONTAGUE*
+
+    Who set this ancient quarrel new abroach?
+    Speak, nephew, were you by when it began?
+
+*BENVOLIO*
+
+    Here were the servants of your adversary,
+    And yours, close fighting ere I did approach:
+    I drew to part them: in the instant came
+    The fiery Tybalt, with his sword prepared,
+    Which, as he breathed defiance to my ears,
+    He swung about his head and cut the winds,
+    Who nothing hurt withal hiss'd him in scorn:
+    While we were interchanging thrusts and blows,
+    Came more and more and fought on part and part,
+    Till the prince came, who parted either part.
+
+*LADY MONTAGUE*
+
+    O, where is Romeo? saw you him to-day?
+    Right glad I am he was not at this fray.
+
+*BENVOLIO*
+
+    Madam, an hour before the worshipp'd sun
+    Peer'd forth the golden window of the east,
+    A troubled mind drave me to walk abroad;
+    Where, underneath the grove of sycamore
+    That westward rooteth from the city's side,
+    So early walking did I see your son:
+    Towards him I made, but he was ware of me
+    And stole into the covert of the wood:
+    I, measuring his affections by my own,
+    That most are busied when they're most alone,
+    Pursued my humour not pursuing his,
+    And gladly shunn'd who gladly fled from me.
+
+*MONTAGUE*
+
+    Many a morning hath he there been seen,
+    With tears augmenting the fresh morning dew.
+    Adding to clouds more clouds with his deep sighs;
+    But all so soon as the all-cheering sun
+    Should in the furthest east begin to draw
+    The shady curtains from Aurora's bed,
+    Away from the light steals home my heavy son,
+    And private in his chamber pens himself,
+    Shuts up his windows, locks far daylight out
+    And makes himself an artificial night:
+    Black and portentous must this humour prove,
+    Unless good counsel may the cause remove.
+
+*BENVOLIO*
+
+    My noble uncle, do you know the cause?
+
+*MONTAGUE*
+
+    I neither know it nor can learn of him.
+
+*BENVOLIO*
+
+    Have you importuned him by any means?
+
+*MONTAGUE*
+
+    Both by myself and many other friends:
+    But he, his own affections' counsellor,
+    Is to himself--I will not say how true--
+    But to himself so secret and so close,
+    So far from sounding and discovery,
+    As is the bud bit with an envious worm,
+    Ere he can spread his sweet leaves to the air,
+    Or dedicate his beauty to the sun.
+    Could we but learn from whence his sorrows grow.
+    We would as willingly give cure as know.
+
+    /Enter ROMEO/
+
+*BENVOLIO*
+
+    See, where he comes: so please you, step aside;
+    I'll know his grievance, or be much denied.
+
+*MONTAGUE*
+
+    I would thou wert so happy by thy stay,
+    To hear true shrift. Come, madam, let's away.
+
+    /Exeunt MONTAGUE and LADY MONTAGUE/
+
+*BENVOLIO*
+
+    Good-morrow, cousin.
+
+*ROMEO*
+
+    Is the day so young?
+
+*BENVOLIO*
+
+    But new struck nine.
+
+*ROMEO*
+
+    Ay me! sad hours seem long.
+    Was that my father that went hence so fast?
+
+*BENVOLIO*
+
+    It was. What sadness lengthens Romeo's hours?
+
+*ROMEO*
+
+    Not having that, which, having, makes them short.
+
+*BENVOLIO*
+
+    In love?
+
+*ROMEO*
+
+    Out--
+
+*BENVOLIO*
+
+    Of love?
+
+*ROMEO*
+
+    Out of her favour, where I am in love.
+
+*BENVOLIO*
+
+    Alas, that love, so gentle in his view,
+    Should be so tyrannous and rough in proof!
+
+*ROMEO*
+
+    Alas, that love, whose view is muffled still,
+    Should, without eyes, see pathways to his will!
+    Where shall we dine? O me! What fray was here?
+    Yet tell me not, for I have heard it all.
+    Here's much to do with hate, but more with love.
+    Why, then, O brawling love! O loving hate!
+    O any thing, of nothing first create!
+    O heavy lightness! serious vanity!
+    Mis-shapen chaos of well-seeming forms!
+    Feather of lead, bright smoke, cold fire,
+    sick health!
+    Still-waking sleep, that is not what it is!
+    This love feel I, that feel no love in this.
+    Dost thou not laugh?
+
+*BENVOLIO*
+
+    No, coz, I rather weep.
+
+*ROMEO*
+
+    Good heart, at what?
+
+*BENVOLIO*
+
+    At thy good heart's oppression.
+
+*ROMEO*
+
+    Why, such is love's transgression.
+    Griefs of mine own lie heavy in my breast,
+    Which thou wilt propagate, to have it prest
+    With more of thine: this love that thou hast shown
+    Doth add more grief to too much of mine own.
+    Love is a smoke raised with the fume of sighs;
+    Being purged, a fire sparkling in lovers' eyes;
+    Being vex'd a sea nourish'd with lovers' tears:
+    What is it else? a madness most discreet,
+    A choking gall and a preserving sweet.
+    Farewell, my coz.
+
+*BENVOLIO*
+
+    Soft! I will go along;
+    An if you leave me so, you do me wrong.
+
+*ROMEO*
+
+    Tut, I have lost myself; I am not here;
+    This is not Romeo, he's some other where.
+
+*BENVOLIO*
+
+    Tell me in sadness, who is that you love.
+
+*ROMEO*
+
+    What, shall I groan and tell thee?
+
+*BENVOLIO*
+
+    Groan! why, no.
+    But sadly tell me who.
+
+*ROMEO*
+
+    Bid a sick man in sadness make his will:
+    Ah, word ill urged to one that is so ill!
+    In sadness, cousin, I do love a woman.
+
+*BENVOLIO*
+
+    I aim'd so near, when I supposed you loved.
+
+*ROMEO*
+
+    A right good mark-man! And she's fair I love.
+
+*BENVOLIO*
+
+    A right fair mark, fair coz, is soonest hit.
+
+*ROMEO*
+
+    Well, in that hit you miss: she'll not be hit
+    With Cupid's arrow; she hath Dian's wit;
+    And, in strong proof of chastity well arm'd,
+    From love's weak childish bow she lives unharm'd.
+    She will not stay the siege of loving terms,
+    Nor bide the encounter of assailing eyes,
+    Nor ope her lap to saint-seducing gold:
+    O, she is rich in beauty, only poor,
+    That when she dies with beauty dies her store.
+
+*BENVOLIO*
+
+    Then she hath sworn that she will still live chaste?
+
+*ROMEO*
+
+    She hath, and in that sparing makes huge waste,
+    For beauty starved with her severity
+    Cuts beauty off from all posterity.
+    She is too fair, too wise, wisely too fair,
+    To merit bliss by making me despair:
+    She hath forsworn to love, and in that vow
+    Do I live dead that live to tell it now.
+
+*BENVOLIO*
+
+    Be ruled by me, forget to think of her.
+
+*ROMEO*
+
+    O, teach me how I should forget to think.
+
+*BENVOLIO*
+
+    By giving liberty unto thine eyes;
+    Examine other beauties.
+
+*ROMEO*
+
+    'Tis the way
+    To call hers exquisite, in question more:
+    These happy masks that kiss fair ladies' brows
+    Being black put us in mind they hide the fair;
+    He that is strucken blind cannot forget
+    The precious treasure of his eyesight lost:
+    Show me a mistress that is passing fair,
+    What doth her beauty serve, but as a note
+    Where I may read who pass'd that passing fair?
+    Farewell: thou canst not teach me to forget.
+
+*BENVOLIO*
+
+    I'll pay that doctrine, or else die in debt.
+
+    /Exeunt/
+
+
+      SCENE II. A street.
+
+    /Enter CAPULET, PARIS, and Servant/ 
+
+*CAPULET*
+
+    But Montague is bound as well as I,
+    In penalty alike; and 'tis not hard, I think,
+    For men so old as we to keep the peace.
+
+*PARIS*
+
+    Of honourable reckoning are you both;
+    And pity 'tis you lived at odds so long.
+    But now, my lord, what say you to my suit?
+
+*CAPULET*
+
+    But saying o'er what I have said before:
+    My child is yet a stranger in the world;
+    She hath not seen the change of fourteen years,
+    Let two more summers wither in their pride,
+    Ere we may think her ripe to be a bride.
+
+*PARIS*
+
+    Younger than she are happy mothers made.
+
+*CAPULET*
+
+    And too soon marr'd are those so early made.
+    The earth hath swallow'd all my hopes but she,
+    She is the hopeful lady of my earth:
+    But woo her, gentle Paris, get her heart,
+    My will to her consent is but a part;
+    An she agree, within her scope of choice
+    Lies my consent and fair according voice.
+    This night I hold an old accustom'd feast,
+    Whereto I have invited many a guest,
+    Such as I love; and you, among the store,
+    One more, most welcome, makes my number more.
+    At my poor house look to behold this night
+    Earth-treading stars that make dark heaven light:
+    Such comfort as do lusty young men feel
+    When well-apparell'd April on the heel
+    Of limping winter treads, even such delight
+    Among fresh female buds shall you this night
+    Inherit at my house; hear all, all see,
+    And like her most whose merit most shall be:
+    Which on more view, of many mine being one
+    May stand in number, though in reckoning none,
+    Come, go with me.
+
+    /To Servant, giving a paper/
+
+    Go, sirrah, trudge about
+    Through fair Verona; find those persons out
+    Whose names are written there, and to them say,
+    My house and welcome on their pleasure stay.
+
+    /Exeunt CAPULET and PARIS/
+
+*Servant*
+
+    Find them out whose names are written here! It is
+    written, that the shoemaker should meddle with his
+    yard, and the tailor with his last, the fisher with
+    his pencil, and the painter with his nets; but I am
+    sent to find those persons whose names are here
+    writ, and can never find what names the writing
+    person hath here writ. I must to the learned.--In good time.
+
+    /Enter BENVOLIO and ROMEO/
+
+*BENVOLIO*
+
+    Tut, man, one fire burns out another's burning,
+    One pain is lessen'd by another's anguish;
+    Turn giddy, and be holp by backward turning;
+    One desperate grief cures with another's languish:
+    Take thou some new infection to thy eye,
+    And the rank poison of the old will die.
+
+*ROMEO*
+
+    Your plaintain-leaf is excellent for that.
+
+*BENVOLIO*
+
+    For what, I pray thee?
+
+*ROMEO*
+
+    For your broken shin.
+
+*BENVOLIO*
+
+    Why, Romeo, art thou mad?
+
+*ROMEO*
+
+    Not mad, but bound more than a mad-man is;
+    Shut up in prison, kept without my food,
+    Whipp'd and tormented and--God-den, good fellow.
+
+*Servant*
+
+    God gi' god-den. I pray, sir, can you read?
+
+*ROMEO*
+
+    Ay, mine own fortune in my misery.
+
+*Servant*
+
+    Perhaps you have learned it without book: but, I
+    pray, can you read any thing you see?
+
+*ROMEO*
+
+    Ay, if I know the letters and the language.
+
+*Servant*
+
+    Ye say honestly: rest you merry!
+
+*ROMEO*
+
+    Stay, fellow; I can read.
+
+    /Reads/
+
+    'Signior Martino and his wife and daughters;
+    County Anselme and his beauteous sisters; the lady
+    widow of Vitravio; Signior Placentio and his lovely
+    nieces; Mercutio and his brother Valentine; mine
+    uncle Capulet, his wife and daughters; my fair niece
+    Rosaline; Livia; Signior Valentio and his cousin
+    Tybalt, Lucio and the lively Helena.' A fair
+    assembly: whither should they come?
+
+*Servant*
+
+    Up.
+
+*ROMEO*
+
+    Whither?
+
+*Servant*
+
+    To supper; to our house.
+
+*ROMEO*
+
+    Whose house?
+
+*Servant*
+
+    My master's.
+
+*ROMEO*
+
+    Indeed, I should have ask'd you that before.
+
+*Servant*
+
+    Now I'll tell you without asking: my master is the
+    great rich Capulet; and if you be not of the house
+    of Montagues, I pray, come and crush a cup of wine.
+    Rest you merry!
+
+    /Exit/
+
+*BENVOLIO*
+
+    At this same ancient feast of Capulet's
+    Sups the fair Rosaline whom thou so lovest,
+    With all the admired beauties of Verona:
+    Go thither; and, with unattainted eye,
+    Compare her face with some that I shall show,
+    And I will make thee think thy swan a crow.
+
+*ROMEO*
+
+    When the devout religion of mine eye
+    Maintains such falsehood, then turn tears to fires;
+    And these, who often drown'd could never die,
+    Transparent heretics, be burnt for liars!
+    One fairer than my love! the all-seeing sun
+    Ne'er saw her match since first the world begun.
+
+*BENVOLIO*
+
+    Tut, you saw her fair, none else being by,
+    Herself poised with herself in either eye:
+    But in that crystal scales let there be weigh'd
+    Your lady's love against some other maid
+    That I will show you shining at this feast,
+    And she shall scant show well that now shows best.
+
+*ROMEO*
+
+    I'll go along, no such sight to be shown,
+    But to rejoice in splendor of mine own.
+
+    /Exeunt/
+
+
+      SCENE III. A room in Capulet's house.
+
+    /Enter LADY CAPULET and Nurse/ 
+
+*LADY CAPULET*
+
+    Nurse, where's my daughter? call her forth to me.
+
+*Nurse*
+
+    Now, by my maidenhead, at twelve year old,
+    I bade her come. What, lamb! what, ladybird!
+    God forbid! Where's this girl? What, Juliet!
+
+    /Enter JULIET/
+
+*JULIET*
+
+    How now! who calls?
+
+*Nurse*
+
+    Your mother.
+
+*JULIET*
+
+    Madam, I am here.
+    What is your will?
+
+*LADY CAPULET*
+
+    This is the matter:--Nurse, give leave awhile,
+    We must talk in secret:--nurse, come back again;
+    I have remember'd me, thou's hear our counsel.
+    Thou know'st my daughter's of a pretty age.
+
+*Nurse*
+
+    Faith, I can tell her age unto an hour.
+
+*LADY CAPULET*
+
+    She's not fourteen.
+
+*Nurse*
+
+    I'll lay fourteen of my teeth,--
+    And yet, to my teeth be it spoken, I have but four--
+    She is not fourteen. How long is it now
+    To Lammas-tide?
+
+*LADY CAPULET*
+
+    A fortnight and odd days.
+
+*Nurse*
+
+    Even or odd, of all days in the year,
+    Come Lammas-eve at night shall she be fourteen.
+    Susan and she--God rest all Christian souls!--
+    Were of an age: well, Susan is with God;
+    She was too good for me: but, as I said,
+    On Lammas-eve at night shall she be fourteen;
+    That shall she, marry; I remember it well.
+    'Tis since the earthquake now eleven years;
+    And she was wean'd,--I never shall forget it,--
+    Of all the days of the year, upon that day:
+    For I had then laid wormwood to my dug,
+    Sitting in the sun under the dove-house wall;
+    My lord and you were then at Mantua:--
+    Nay, I do bear a brain:--but, as I said,
+    When it did taste the wormwood on the nipple
+    Of my dug and felt it bitter, pretty fool,
+    To see it tetchy and fall out with the dug!
+    Shake quoth the dove-house: 'twas no need, I trow,
+    To bid me trudge:
+    And since that time it is eleven years;
+    For then she could stand alone; nay, by the rood,
+    She could have run and waddled all about;
+    For even the day before, she broke her brow:
+    And then my husband--God be with his soul!
+    A' was a merry man--took up the child:
+    'Yea,' quoth he, 'dost thou fall upon thy face?
+    Thou wilt fall backward when thou hast more wit;
+    Wilt thou not, Jule?' and, by my holidame,
+    The pretty wretch left crying and said 'Ay.'
+    To see, now, how a jest shall come about!
+    I warrant, an I should live a thousand years,
+    I never should forget it: 'Wilt thou not, Jule?' quoth he;
+    And, pretty fool, it stinted and said 'Ay.'
+
+*LADY CAPULET*
+
+    Enough of this; I pray thee, hold thy peace.
+
+*Nurse*
+
+    Yes, madam: yet I cannot choose but laugh,
+    To think it should leave crying and say 'Ay.'
+    And yet, I warrant, it had upon its brow
+    A bump as big as a young cockerel's stone;
+    A parlous knock; and it cried bitterly:
+    'Yea,' quoth my husband,'fall'st upon thy face?
+    Thou wilt fall backward when thou comest to age;
+    Wilt thou not, Jule?' it stinted and said 'Ay.'
+
+*JULIET*
+
+    And stint thou too, I pray thee, nurse, say I.
+
+*Nurse*
+
+    Peace, I have done. God mark thee to his grace!
+    Thou wast the prettiest babe that e'er I nursed:
+    An I might live to see thee married once,
+    I have my wish.
+
+*LADY CAPULET*
+
+    Marry, that 'marry' is the very theme
+    I came to talk of. Tell me, daughter Juliet,
+    How stands your disposition to be married?
+
+*JULIET*
+
+    It is an honour that I dream not of.
+
+*Nurse*
+
+    An honour! were not I thine only nurse,
+    I would say thou hadst suck'd wisdom from thy teat.
+
+*LADY CAPULET*
+
+    Well, think of marriage now; younger than you,
+    Here in Verona, ladies of esteem,
+    Are made already mothers: by my count,
+    I was your mother much upon these years
+    That you are now a maid. Thus then in brief:
+    The valiant Paris seeks you for his love.
+
+*Nurse*
+
+    A man, young lady! lady, such a man
+    As all the world--why, he's a man of wax.
+
+*LADY CAPULET*
+
+    Verona's summer hath not such a flower.
+
+*Nurse*
+
+    Nay, he's a flower; in faith, a very flower.
+
+*LADY CAPULET*
+
+    What say you? can you love the gentleman?
+    This night you shall behold him at our feast;
+    Read o'er the volume of young Paris' face,
+    And find delight writ there with beauty's pen;
+    Examine every married lineament,
+    And see how one another lends content
+    And what obscured in this fair volume lies
+    Find written in the margent of his eyes.
+    This precious book of love, this unbound lover,
+    To beautify him, only lacks a cover:
+    The fish lives in the sea, and 'tis much pride
+    For fair without the fair within to hide:
+    That book in many's eyes doth share the glory,
+    That in gold clasps locks in the golden story;
+    So shall you share all that he doth possess,
+    By having him, making yourself no less.
+
+*Nurse*
+
+    No less! nay, bigger; women grow by men.
+
+*LADY CAPULET*
+
+    Speak briefly, can you like of Paris' love?
+
+*JULIET*
+
+    I'll look to like, if looking liking move:
+    But no more deep will I endart mine eye
+    Than your consent gives strength to make it fly.
+
+    /Enter a Servant/
+
+*Servant*
+
+    Madam, the guests are come, supper served up, you
+    called, my young lady asked for, the nurse cursed in
+    the pantry, and every thing in extremity. I must
+    hence to wait; I beseech you, follow straight.
+
+*LADY CAPULET*
+
+    We follow thee.
+
+    /Exit Servant/
+
+    Juliet, the county stays.
+
+*Nurse*
+
+    Go, girl, seek happy nights to happy days.
+
+    /Exeunt/
+
+
+      SCENE IV. A street.
+
+    /Enter ROMEO, MERCUTIO, BENVOLIO, with five or six Maskers,
+    Torch-bearers, and others/ 
+
+*ROMEO*
+
+    What, shall this speech be spoke for our excuse?
+    Or shall we on without a apology?
+
+*BENVOLIO*
+
+    The date is out of such prolixity:
+    We'll have no Cupid hoodwink'd with a scarf,
+    Bearing a Tartar's painted bow of lath,
+    Scaring the ladies like a crow-keeper;
+    Nor no without-book prologue, faintly spoke
+    After the prompter, for our entrance:
+    But let them measure us by what they will;
+    We'll measure them a measure, and be gone.
+
+*ROMEO*
+
+    Give me a torch: I am not for this ambling;
+    Being but heavy, I will bear the light.
+
+*MERCUTIO*
+
+    Nay, gentle Romeo, we must have you dance.
+
+*ROMEO*
+
+    Not I, believe me: you have dancing shoes
+    With nimble soles: I have a soul of lead
+    So stakes me to the ground I cannot move.
+
+*MERCUTIO*
+
+    You are a lover; borrow Cupid's wings,
+    And soar with them above a common bound.
+
+*ROMEO*
+
+    I am too sore enpierced with his shaft
+    To soar with his light feathers, and so bound,
+    I cannot bound a pitch above dull woe:
+    Under love's heavy burden do I sink.
+
+*MERCUTIO*
+
+    And, to sink in it, should you burden love;
+    Too great oppression for a tender thing.
+
+*ROMEO*
+
+    Is love a tender thing? it is too rough,
+    Too rude, too boisterous, and it pricks like thorn.
+
+*MERCUTIO*
+
+    If love be rough with you, be rough with love;
+    Prick love for pricking, and you beat love down.
+    Give me a case to put my visage in:
+    A visor for a visor! what care I
+    What curious eye doth quote deformities?
+    Here are the beetle brows shall blush for me.
+
+*BENVOLIO*
+
+    Come, knock and enter; and no sooner in,
+    But every man betake him to his legs.
+
+*ROMEO*
+
+    A torch for me: let wantons light of heart
+    Tickle the senseless rushes with their heels,
+    For I am proverb'd with a grandsire phrase;
+    I'll be a candle-holder, and look on.
+    The game was ne'er so fair, and I am done.
+
+*MERCUTIO*
+
+    Tut, dun's the mouse, the constable's own word:
+    If thou art dun, we'll draw thee from the mire
+    Of this sir-reverence love, wherein thou stick'st
+    Up to the ears. Come, we burn daylight, ho!
+
+*ROMEO*
+
+    Nay, that's not so.
+
+*MERCUTIO*
+
+    I mean, sir, in delay
+    We waste our lights in vain, like lamps by day.
+    Take our good meaning, for our judgment sits
+    Five times in that ere once in our five wits.
+
+*ROMEO*
+
+    And we mean well in going to this mask;
+    But 'tis no wit to go.
+
+*MERCUTIO*
+
+    Why, may one ask?
+
+*ROMEO*
+
+    I dream'd a dream to-night.
+
+*MERCUTIO*
+
+    And so did I.
+
+*ROMEO*
+
+    Well, what was yours?
+
+*MERCUTIO*
+
+    That dreamers often lie.
+
+*ROMEO*
+
+    In bed asleep, while they do dream things true.
+
+*MERCUTIO*
+
+    O, then, I see Queen Mab hath been with you.
+    She is the fairies' midwife, and she comes
+    In shape no bigger than an agate-stone
+    On the fore-finger of an alderman,
+    Drawn with a team of little atomies
+    Athwart men's noses as they lie asleep;
+    Her wagon-spokes made of long spiders' legs,
+    The cover of the wings of grasshoppers,
+    The traces of the smallest spider's web,
+    The collars of the moonshine's watery beams,
+   ce:G whip of cricket's bone, the lash of film,
+    G wagoner a small grey-coated gnat,
+    Not so big as a round little worm
+    Prick'd from the lazy finger of a maid;
+    Her chariot is an empty hazel-nut
+    Made by the joiner squirrel or old grub,
+    Time out o' mind the fairies' coachmakers.
+    And in this state she gallops night by night
+    Through lovers' brains, and then they dream of love;
+    O'er courtiers' knees, that dream on court'sies straight,
+    O'er lawyers' fingers, who straight dream on fees,
+    O'er ladies ' lips, who straight on kisses dream,
+    Which oft the angry Mab with blisters plagues,
+    Because their breaths with sweetmeats tainted are:
+    Sometime she gallops o'er a courtier's nose,
+    And then dreams he of smelling out a suit;
+    And sometime comes she with a tithe-pig's tail
+    Tickling a parson's nose as a' lies asleep,
+    Then dreams, he of another benefice:
+    Sometime she driveth o'er a soldier's neck,
+    And then dreams he of cutting foreign throats,
+   cOf breaches, ambuscadoes, Spanish blades,
+    Of healths five-fathom deep; and then anon
+    Drums in his ear, at which he starts and wakes,
+    And being thus frighted swears a prayer or two
+    And sleeps again. This is that very Mab
+    That plats the manes of horses in the night,
+    And bakes the elflocks in foul sluttish hairs,
+    Which once untangled, much misfortune bodes:
+    This is the hag, when maids lie on their backs,
+    That presses them and learns them first to bear,
+    Making them women of good carriage:
+    This is she--
+
+*ROMEO*
+
+    Peace, peace, Mercutio, peace!
+    Thou talk'st of nothing.
+
+*MERCUTIO*
+
+    True, I talk of dreams,
+    Which are the children of an idle brain,
+    Begot of nothing but vain fantasy,
+    Which is as thin of substance as the air
+    And more inconstant than the wind, who wooes
+   e proÌen now the frozen bosom of the north,
+    And, being anger'd, puffs away from thence,
+    Turning his face to the dew-dropping south.
+
+*BENVOLIO*
+
+    This wind, you talk of, blows us from ourselves;
+    Supper is done, and we shall come too late.
+
+*ROMEO*
+
+    I fear, too early: for my mind misgives
+   eSome consequence yet hanging in the stars
+    Shall bitterly begin his fearful date
+    With this night's revels and expire the term
+    Of a despised life closed in my breast
+    By some vile forfeit of untimely death.
+    But He, that hath the steerage of my course,
+    Direct my sail!o withŠ, lusty gentlemen.
+
+*BENVOLIO*
+
+    Strike, drum.
+
+    /Exeunt/
+
+
+      SCENE V. A hall in Capulet's house.
+
+    /Musicians waiting. Enter Servingmen with napkins/ 
+
+*First Servant*
+
+    Where's Potpan, that he helps not to take away? He
+    shift a trencher? he scrape a trencher!
+
+*Second Servant*
+
+    When good manners shall lie all in one or two men's
+    hands and they unwashed too, 'tis a foul thing.
+
+*First Servant*
+
+    Away with the joint-stools, remove the
+    court-cupboard, look to the plate. Good thou, save
+    me a piece of marchpane; and, as thou lovest me, let
+    the porter let in Susan Grindstone and Nell.
+    Antony, and Potpan!
+
+*Second Servant*
+
+    Ay, boy, ready.
+
+*First Servant*
+
+    You are looked for and called for, asked for and
+    sought for, in the great chamber.
+
+*Second Servant*
+
+    We cannot be here and there too. Cheerly, boys; be
+    brisk awhile, and the longer liver take all.
+
+    /Enter CAPULET, with JULIET and others of his house, meeting the
+    Guests and Maskers/
+
+*CAPULET*
+
+    Welcome, gentlemen! ladies that have their toes
+    Unplagued with corns will have a bout with you.
+    Ah ha, my mistresses! which of you all
+    Will now deny to dance? she that makes dainty,
+    She, I'll swear, hath corns; am I come near ye now?
+    Welcome, gentlemen! I have seen the day
+    That I have worn a visor and could tell
+    A whispering tale in a fair lady's ear,
+    Such as would please: 'tis gone, 'tis gone, 'tis gone:
+    You are welcome, gentlemen! come, musicians, play.
+    A hall, a hall! give room! and foot it, girls.
+
+    /Music plays, and they dance/
+
+    More light, you knaves; and turn the tables up,
+    And quench the fire, the room is grown too hot.
+    Ah, sirrah, this unlook'd-for sport comes well.
+    Nay, sit, nay, sit, good cousin Capulet;
+    For you and I are past our dancing days:
+    How long is't now since last yourself and I
+    Were in a mask?
+
+*Second Capulet*
+
+    By'r lady, thirty years.
+
+*CAPULET*
+
+    What, man! 'tis not so much, 'tis not so much:
+    'Tis since the nuptials of Lucentio,
+    Come pentecost as quickly as it will,
+    Some five and twenty years; and then we mask'd.
+
+*Second Capulet*
+
+    'Tis more, 'tis more, his son is elder, sir;
+    His son is thirty.
+
+*CAPULET*
+
+    Will you tell me that?
+    His son was but a ward two years ago.
+
+*ROMEO*
+
+    [To a Servingman] What lady is that, which doth
+    enrich the hand
+    Of yonder knight?
+
+*Servant*
+
+    I know not, sir.
+
+*ROMEO*
+
+    O, she doth teach the torches to burn bright!
+    It seems she hangs upon the cheek of night
+    Like a rich jewel in an Ethiope's ear;
+    Beauty too rich for use, for earth too dear!
+    So shows a snowy dove trooping with crows,
+   cAs yonder lady o'er her fellows shows.
+    The measure done, I'll watch her place of stand,
+    And, touching hers, make blessed my rude hand.
+    Did my heart love till now? forswear it, sight!
+    For I ne'er saw true beauty till this night.
+
+*TYBALT*
+
+    This, by his voice, should be a Montague.
+    Fetch me my rapier, boy. What dares the slave
+    Come hither, cover'd with an antic face,
+    To fleer and scorn at our solemnity?
+    Now, by the stock and honour of my kin,
+    To strike him dead, I hold it not a sin.
+
+*CAPULET*
+
+    Why, how now, kinsman! wherefore storm you so?
+
+*TYBALT*
+
+    Uncle, this is a Montague, our foe,
+    A villain that is hither come in spite,
+    To scorn at our solemnity this night.
+
+*CAPULET*
+
+    Young Romeo is it?
+
+*TYBALT*
+
+    'Tis he, that villain Romeo.
+
+*CAPULET*
+
+    Content thee, gentle coz, let him alone;
+    He bears him like a portly gentleman;
+    And, to say truth, Verona brags of him
+    To be a virtuous and well-govern'd youth:
+    I would not for the wealth of all the town
+    Gere in my house do him disparagement:
+    Therefore be patient, take no note of him:
+    It is my will, the which if thou respect,
+    Show a fair presence and put off these frowns,
+   cAnd ill-beseeming semblance for a feast.
+
+*TYBALT*
+
+    It fits, when such a villain is a guest:
+    I'll not endure him.
+
+*CAPULET*
+
+    He shall be endured:
+    What, goodman boy! I say, he shall: go to;
+    Am I the master here, or you? go to.
+    You'll not endure him! God shall mend my soul!
+    You'll make a mutiny among my guests!
+    You will set cock-a-hoop! you'll be the man!
+
+*TYBALT*
+
+    Why, uncle, 'tis a shame.
+
+*CAPULET*
+
+    Go to, go to;
+    You are a saucy boy: is't so, indeed?
+    This trick may chance to scathe you, I know what:
+    You must contrary me! marry, 'tis time.
+    Well said, my hearts! You are a princox; go:
+    Be quiet, or--More light, more light! For shame!
+    I'll make you quiet. What, cheerly, my hearts!
+
+*TYBALT*
+
+    Patience perforce with wilful choler meeting
+    Makes my flesh tremble in their different greeting.
+    I will withdraw: but this intrusion shall
+    Now seeming sweet convert to bitter gall.
+
+    /Exit/
+
+*ROMEO*
+
+    [To JULIET] If I profane with my unworthiest hand
+    This holy shrine, the gentle fine is this:
+    My lips, two blushing pilgrims, ready stand
+    To smooth that rough touch with a tender kiss.
+
+*JULIET*
+
+    Glgrim, you do wrong your hand too much,
+    Which mannerly devotion shows in this;
+    For saints have hands that pilgrims' pilg do touch,
+    And palm to palm is holy po palers' kiss.
+
+*ROMEO*
+
+    Have not save h lips, and holy p kissrs too?
+
+*JULIET*
+
+    Ay, pilgrim, lips that they must use in prayer.
+
+*ROMEO*
+
+   o withŠ, then, dear saint, let lthey mdo what t at nŒpray, grant thou, lest faith turn to despair.
+
+*JULIET*
+
+    Saints do not move, though grant for p.
+
+*ROMEO*
+
+   ors' sake.
+
+*ROMEO*
+
+    Then move not, while my prayer's effect I take.
+    Thus from my lips, by yours, my sin is purged.
+
+*JAy,*
+
+    Then have my lips the sin that they have took, then,Sin from thy holy? O trT*
+
+    Sss sweetly urged!
+    Give me my sin againintsIET*
+
+    YouROMEO*
+
+   by the book.
+
+*Nurse*
+
+    Madam, your mother craves a word with you.
+
+*ROMEO*
+
+    What is her  worder?
+
+*Nurse*
+
+    Marry, bachelor,
+    Her mother is the lady of the house,
+    And a good lady, and a wise and virtuous
+    I nursed her daughter, that you talk'd withal;
+    I tell you, he that can lay hold of her
+    Shall have the chinks, then,Is she a Capulet?
+    O int,account! my life is my foe's debt.
+
+, my hà
+
+    Away, begone; the sport is at the besway,Have   Ay, so I feartard, l¹y unrest.
+
+*CAPULET*
+
+    Nay, gentlemen, prepare not to be t is at
+    We have a trifling foolish banquet towards.
+    ?
+    O it e'en so? whydear  I thank you all
+    I than,ou, honest gentlemen; good night.
+    More torches here! Come on thenthey md's to bed.
+    Ah, sirrah, by my fay, it waxes late:
+    I'll to my rest.
+
+    /Exeunt all but JULIET and Nurse/
+
+*JULIET*
+
+    's to hither, nurse. Wh
+
+*Nursyond gentleman?ry, be*
+
+    The son and heir of old Tiberio men, p  What's he that now is going out of door?
+
+*Nurse*
+
+    Marry, that, I ts she a, be young Petrucio that nT*
+
+    Whatng outhat follows there, that would not dance?on a*
+
+    I know not.
+
+*Jy l
+
+    Go ask his name: if he be marrien h    My gyou.
+ is like to be my wedding ben h
+*Nurse*
+
+    His name is Romeovirt Montaguerant  only son of your great enemyfoll*
+
+    Mygreat in that ove sprung yours,y only hate!
+    Too early seen unknown, and ,¹ too late!
+    Prodigious birth of love it is to me,
+    Thaus fse i love a loathed ein that oy.
+
+*Ns she a,
+    What's this? what's thisT*
+
+    As do *
+
+    A rhyme I learn'd even now
+    Of one I danced withal.
+
+    /One calls within 'Juliet., plNurse*
+
+    Anon, anon!
+    's to
+    Ah,s away; the strangers all are gone.
+
+    /Exeunt/
+
+
+      ACT II
+
+
+      PROLOGUE
+
+    /Enter Chorus/ 
+
+*CCCus*
+
+    Now old desire doth in his death-bed lie,
+    And young affection gapes to be his heir;
+    That fair for which love groan'd for and would die,
+    With tender Nurse*
+t match'd, is now not fSai
+    Now Romeo is beloved and loves again,
+    Alike betwitched by the charm of looks,
+   cBut to his foe supposed he must complain,
+    And she steal love's sweet bait from fearful hooks:
+    Being held a foe, he may not have ife ess
+    To breathe such vows as lovers use to swear;
+    And she as much in love, her means much less
+    To meet her new ain,
+ any where:
+    But passion lends them power, time means, tse i et
+    Tempering extremitieet., e-»emefrom fet.
+
+    /Exit/
+
+
+      SCENE I. A lane by the wall of Capulet's orchard.
+
+    /Enter ROMEO/ 
+ worde nuan I go forward when my heart is here?
+    Turn back À earth, and find thy centre oubut J  /He climbs the wall, and leaps down within I. 
+    /Enter BENVOLIO and MERCUTIO/
+
+*BENVOLIO*
+
+    Romeo! my cousinovedo!
+
+*MERCUTIO*
+
+    He is wise;
+    And, one's dave iath stol halI wo VeÆe to bed.
+
+*BENVOLIO*
+
+    He ran this way, and leap'd this Comehard wall:
+    Call, good Mercutio.
+
+*! mIO*
+
+    pare n, I'll conjure too.
+    
+
+*MERCU humoursUTIO*
+adman! , tin! lover!
+    Appear thou in the likeness of a sigh:
+    Speak but one earn'yme, and I am satisfied;
+    Cry but 'Ay me!' pronounce .flove' and 'dove;'
+    Speak to my gossip Venus one fair word,
+    One nick-name for her purblind son and heir,
+    Young Adam Cupid,  holdat shot soanqm,
+    When King Cophetua loved the beggar-maid!
+    He heareth not, he stirreth not, he moveth notr gape is dead, and I mu    And onrsUe himo?  con.¾ thee by Rosaline's bright eyes,
+    By her high forehead Tibr scarlet  they ,
+    Burn bar fine foot, straight leg and quivering tcarlh
+    And the demesnesmusthere adjacent fect
+    That in thiMthou a sigh:r to us!
+
+*gone;
+    And if he he:
+    Sphee, thou wilt anger hRosa
+    And,TIO*eir ois cannot o×: 'twould /MONTAGUE*, sirra·raise a spirit in his mistress' circle
+    Of some strange nature, letting it there stand
+    Till she had laid it and c¾ ured it downwhich lt were some spite: my invocation
+    Is fair and ho good, and iran s mistres s' name
+    I mourure early  but to irce up h: 't
+
+*BENovedo
+    Comave ie hath hid himself amosnese trees,
+    To be consorted with the humorous night:
+    Blind is hiwear; and yÉts the dark.
+
+*MERCUTIO*
+
+    If love be Add, love cannot hit the ma hit elowill he sit under a medlaretly love And wish hiearly  stress were that kinhave tfruit
+    As maids call medlars, when they laugh alonmy liwise, that she were, O, that /®re
+    An open et caeterafor p. a po e-n pear!
+    Romeo, good night: I Ëng outkle-bed;
+    This field-bedus fso cold for me to sleep:sne, shall we go?
+
+*BENVOLIO*
+
+    Go, then; for 'tis in vain
+    To seek him here that means not to be found.
+
+    /Exeun II
+
+      SCENE II. Capulet'ROMEO/ chard  ROMEOus**ROMEO*
+
+    He jests at scars that never felt a on a*ROMEO/ c
+
+    /JULIET*he he:s above at a window/
+
+    But, soft! what light through yonder window breaks?
+    It is the east, and in.
+    Arise, fair sun, and kill the envious moon,
+    Who is already sick and pale with grief,
+    That thou her maid art far more fair than she:
+    Be not her maid, since she is envious;
+    Her vestal livery is but sick and green
+    And none
+    Comafoolugh wear it; cast it offo? t is min that ady, O, itt.
+
+,y ove!
+    On ethe knew she were!
+    She speaks yet she says nothing: what of that?
+    Her eye discourses; I will answer italineam too bold, 'tis not to me shbesweakd a     Two of the fairest stars in all t
+    And,Tven,
+    Having some business, do imbat h 'tis es
+    To twinkle in their spheres till they return.
+    What if her eyes ll methere, the w nèe brighte cheek ohame those stars,
+   cAs daylight h-bea lamp; her eyes in heaven
+    Would te ea.
+
+*ROMEO*
+
+   orthe airy region stream so bright
+    That birds oÎing and think ate:ere not night.
+    See, how she leans her cheek upon her handsI were a glove upon that hand,
+    That I might touch td of 1 and theÚher, 
+
+    Ay me!
+
+*ROROMEO/ c
+ip Vye d some:
+    O, speak again, gh ft angel!ofor thou art
+    As glorious to this night, being o'er my head12is a winged messenger of heave think a  Unto the white-upturned wondering eyes
+    Of mortals that fall back to gaze on ress'    When he bestrides the lazy-pacing clouds
+    And sails upon the bosom of the  is behave myme I
+
+    Oopenwise! wherefore art thou Romeo?
+    Deny thy father and refhe ashy name;
+    Or, if thou wilt not, e siut sworn mshe shave tfnd I'll no longer be a Capulet, then,[Aside] Shall I hear more, or shall I s2it this?name:me;
+
+    'Tis but thy nd hethat is my e
+    Wh;
+    Thou art thyself, though not a Mon ofuehamegoins Montague? it is nor hand, 1Æquiv,
+    Nor arm, nor face, 1Æany other part
+    Belonging to a man. O, be some other name!
+     there,es
+   [Ase? that which we call a rose
+    Bys them other nd heere a  smell as sweet;
+    So Romeo would, were he not 1÷call'd,man! ,etain that dear perfection which he owes
+    Without that title. Romeo, doff thy name,
+    And for that h`is no part of thee
+    Take all myselfCapulet?from m thee at thy word:
+    Ca, that s
+    Comalove, aname:mll be new baptized;
+    Henceforth I never will be Romeo.hamegthe b
+
+    What man art thou that thus bescreen'd in night
+    So stumblest on my counsel?
+
+*ROMEO*
+Tibra e u hon ask t how to tell thee who I am:
+    My name ğsaint,À ateful to myself,
+    Because it is angy to thee;
+    Had I aead¥ I would tespru
+
+    Myentrers have not yet dr¹  a hundred words
+   eOf that tongue's utterance, yet I know the sound:
+    A hon ou not 
+    Withoand aly sontagueful t
+    Neither, c, if 2¤r thee dislikeund:
+
+    How camest thou hither, te, that s, and whereforep;  ort sco.
+
+lls are nesm and hard to a@,
+    And the place death, considering who thou art,
+    If anoo ef my kinsmen find thee here.not, w  With love's light wings did I o'er-percou artese wallsaints stony limits  medlholdd eiout,
+    And what er a an do that dares love attemptrant refore thy kinsmen are no let tse i consi
+    If they do see thee,Sinwill murder thee.
+
+*I fe Alack, there lies more  e-l in thine eye
+    Than twenty of their ser, cc: look thou but ged!t,
+love's I am proof against their enmithat'
+*J: if
+
+    I ear pnot for the world they saw thee hereforthhave night's cloak to hide me from their sight;
+    And ? ithou love me, let them   /H me hereead¥ life were better endeookstheir hate,
+    Than death prorogued, wanting of tht thisir se
+    By whose direcbe hilet'Rd'st thou ke alhis place?
+
+*ROMEO*
+Tibrlove, who first did prompt me to inquirtol    Ge lent me counsel and I3‘t him eyesf the fm no pilot; yet, wert thou as far lvast shore wash'd witkinsm farthest sea,
+    I wissuch my kandisetol     Thou know'st the mask ofÉtt is on my face,
+    Else would a maiden blush bepaist sey cher, 
+
+    For that which thou hast heard me spnusto-n:
+    My  Fain ear pI dwell on form, fain, faiwho fny
+    Whaus fhave spoke: bueo rewell  she s
+    Ifent!
+    Dost is o
+    By would,camesy to thou wilt say 'Ay,'
+    And I will take thy word: yet if thou swear'st,
+    Thou mayst prove false; at lovers' perrsUies
+    Then say, Jove laughs.o withŠry, bele Rrant  er, cc: thou dost love, e;'ounce ht vŞly:
+    Or if thou think'st I am too quicklyzy-,
+    I'll frow Cud beklyzverse an say thee nay,
+    So thou wilt woo; but else, not for the worldo? n truth, fair Montague, 4<oo fond,
+    And t kinsre th
+    Or yst think my mior light:
+    But trust me, o be tan
+
+*MERCU ll prove more truptizhan those that have more cunne
+    Bbe sare gge.
+    I should have been more strange, I athedconfess,
+    But that thou oveearn'
+    By Şl ere I was ware,
+    My true love's paord,
+on: therefore pardon me,
+    And not impute this yielde
+    Blight love,
+    Which the dark night hath so tÕh, borw
+
+    Lady onder blessed moon I swear with silver   Toese en thit-tree tops--
+
+*ous t
+    O,from far not by the moon, the inconstant 4àt angmonthly changes in her circled orb,
+    Lat h that t, then,[love I walikeath st variable, then,What sgh n4Ür by? nam?
+
+*ROMEO*
+T
+
+    Do not swear at all] S, if anilt, swear s or my wart thous dr¹ whatich is the god of my idolatry,
+    And I'll believe theeCapulet?s  heart's int,loveWhat sgat, cÚ
+    Well, do dboveHalthough I joh-beathee,
+    I hnot o joy of this contract tolt sght:
+    It is too rash, too unadvised5Msudden;
+    Too like the lightning, which h to be
+    Ere one can say ', and klightens.' Sweet, good night!
+    This buhave tlove, by summer's ripening bs as,
+    May prove a beauteous flower when next we meet.
+    Good night5jorcght! as acomp and restsne to thurn baart as that w and M2it breastht,EO*
+
+    O, wilt thou leave me so unsatis' pd?nsel?now i What s5¨facsel canst is o, then,Iosummhtlls     The
+
+    /Ewear se of thy it fespahful vow for mine gave thee miCapulet'sefostranu didst request it:
+    And yeus fear phat hUTIO*
+a give is a wn.
+
+*Rilot
+    Wouldthou aru withdraw it? for what purcomp, lovehymÚ
+
+    But eit t5Ê5İ.
+    An5Ö I wish but for t holding I haved'bounty is as boundless as the spKt this as deep; the more I give to the ou lov[, for both are infinite.
+
+    /Nursewise,ls within/
+
+    I hspruome noise within; en;much l adieu!
+    Anon    The
+yond rse! Sweet Montague, be aïtay
+    Comarigittle, I will come aROMEO*
+
+   
+
+    /Exit, aight th/
+
+*gainsO ber c, blessedear pI! I am af
+    By .
+    Be, h I am:ght, all this s?,
+    Too flattering-sweet en hsubstantis
+
+    /Re-enter JULIET, a6Iis a wnT*
+
+    Three er, ccould teear Romeo, o? thtlight indeedo? f thent of love be honourable,}urpose marriage, send me word to-morrow,Tibrone that sh, procure to come tgainsO,
+    Where and wt hoime johlt perform the ritkinsm    And all my fortunt f6€quiv I'll lay
+    And uld nlaughee my lord throughm ee worhave moy l
+
+    [Within] Madamriolet tup h:ome, anoncousinoúBut ll I u mean'st not well,
+    I do beseech thee Ñ[6Âhin6Äadam6Çgoinsto mysnd by, I come:--
+    To    Gose thy sh‚:
+    Andme to my grief:
+    Tit? morrow will Iome, aàtive to, beiny na thrive my soul ghtni    A thousand times g   And ught!nt o   And aovehà7     ùand t7ay,?se, to want thy ligh, then,Io  Love goes toward love, as schoolboys from
+    their bookoe ut lthink'rom love, toward sceing l with heavy looa Cperfoetiring/
+
+    : mykenter JAy,7art t's can saÈ
+    Hist! Romeo, hismy foeO, for a falconer's voicO beo lure this tassel-gentle back again!
+    Bondage is hoarse, and may not spnusaloud;
+    Efaiw would
+    I I knght! ve where Echo lies,
+   cAnd make her airy tongue more hoarse thanor t  love  ligh,it feetisel of mywise's nameCapulet?ere! soul that Julie upon my eJUiilver,
+    Wheeet sound lhath ss' tr theees by night,
+    Like softeoveeusic to attending ears!my for*
+
+    Romeou dO*
+
+    My dearwithinn.
+
+At what o'clock towaorrowhinkl Il wi to them not angm
+    At the hour of nine.at, cÚn.
+
+I will not fail spiris ty say years till then.
+    I have forgot why I did 1÷etteback, then,Letd yeutand here till thou rememberwo of7­
+
+    I shall forget, to , then,Ibut fostill s7âayliff membering how Id eithy  she sany, then,And ell,7ñ stay, to have ette87í she sgetting which wher home t thisiis.7ês MTis o palost morning;, yeuld 7ïee goneless a yet no further than a wanton's birc whatwentts it hopin that oyight i fromr scand,
+    Like a poor prisoner in his twisted gyvesmurith a si;
+    I  thread plucks itpon ,
+    Wheeer maa CplovgainsO,jefteos of his liberty.er a ajefld  some:n thin bicarss itp
+    Sart a sottendI:
+    Yoting wweet e muchn
+  rishing.
+    GÈ
+turnore toose m parting is such
+    sweet sorrow,
+    That I shall say is fiight till it bck torow.nt o 8VSleep dwell agaiine eyes, peace us!efost!ou lov[uld ou lov[ue s8Šand peace, so
+
+t to restrethence eing lto my ghostly'll no her'y do      ùor t  s helpeseeyou.
+, and my dear hap to tell. SCENxi RO lanSCEby thMEO*
+
+Friar Laurencehate,8µ/
+
+*BENVnter FRIAR LAURENCE, with a basket/o fo
+*8ÇI8ÉLA8ÌENCElip grey-eyed morn smilek-n the frowning lhequering the eastern clouI weith streaks of light,
+    And flecked darkness like a lnkard reels
+    From ight
+   day's path and Titan's ' pry wheels:
+    Now, ere the sun advance his burnaciO behe day to cheer and nightddeank dew to dry,
+    I must up-fill this osier cage of ours
+    With bale a Cl weeds and preciousngers`iced ft s5rs.
+    The earth thatne.aill s's mother air f:
+    Sphmb;
+    What is her burying gwed hand her womis the glove's from her 9X children of dit; s kind
+    We hs yÁal and reom   /H,
+    Many for many ursed hues, loellent,
+    NoCapulet'sut tœand yet all different.
+    O, mickle is the powerful grace that l'll f    In herbs, plants, stoney p their are, qualities:
+    For nought so vile that on thll the erth doth live/
+
+    Io the earth t therspecial good h-begivename! aughteace,good cloatrain'd from thlove gir useff voltarsem td moo is toh, stumbling on abuse:
+    Virtue itself des s vicened g misapplied;
+    And vice sometimes by acsel th ofni gi.
+    W miC the infant rinhave tthis small flower
+    Poison hath residence and medicine powervicr this, being smelt, with that part cheers each part;
+    Be, htasted, slays all senses witiden heart.
+    Two h÷pposed kings encamp them ircc
+    In man as well as herrtuers' s9ú rude will;
+    And *
+
+    Roe the worserAy,*redominant,
+    Fy cesoon the canker-peh eats up that plan the wal /Enter Rfeltus!elgr morrow,y-o withŠ,
+
+*FnkaRreelels:NCE*
+
+    Bene
+    Fyn u'st, hon oly tid 1eace,thy isal topth mm no    Young son, it argues a distemper'd heayes
+    So soon to bid good ard sy to to thy bed:
+    Care keepIO*
+
+    I watch in every old man's eye,
+    So here care lodges, sµ/will never lie;
+    Buent!ere unbruised youth with unstuff'd brain
+    Doth cfor tho his 
+    If a dithere golden sµ/h-bereign:
+    Thering Ie thy earliness h-beme assure
+    Th,
+    Noral aroused EO*
+
+  ome distet., eraill s] S if not so, then7ïI hit it rback,    Ouan Iomeo hath not been in aà I mio pi looa  That last is true.
+
+    R‘rest was .
+    An5never l' pr;
+    Buewheerom iNow,
+
+    God pardon seet s wastis caith 
+    By linepurc   W:óosaline, my ghostly father? nohe thhave tt I wo and th; be 's woe.:æry wls:êE*
+
+    That's mys helsonove f where ha, for b beeDo nen:ö  I'll tell thee,orw
+the au ask it me af thee honimpueen feasting with mine e
+    WhÑ[re on a eous den one hath /
+
+    Bdeden thi;ir mmaidsş;ner io lur|oth our remedies
+    WithURther ip and holy physicMy d:
+    I bear no hatred}ussed man, forwise,ler bl intercession likel beeet bds , my hà.
+
+*Flie;ent!e:
+    I brui plain, gand homely URdrift;
+    Riddlhou Ronlsiod eiondslddling shrift.us!eThen plainly know my heart's dear love is set
+    On the fair lker of rich
+    He jet:
+    Aearly  ne ome Irs,eace,hers is set on mine;
+    And all combined, samy for*t hohou e
+    Blom;¥'d,my holy marriage: whe think md man,y holyw
+    We met, we woo'd and made exoveh of vowre thll tl bee; es we passprove on ofu I pray, –consent to marry us hou wilday, samf thee t hoh:
+    Nbear n
+    Holy move,nt Francis, whalth changeÀ ?
+    Hees s'den oine, whom thou bÂonlyLIETar,y eaCar fore that nTmen's losh ben lihat if
+    Afrol oncnn their hearts, but in theistarsyes.
+    Jesu Maria, what a deal of brine
+    Hath uld aHe c sallown
+  eked he
+    That'salinerethow much salt water te eawn away in waste,
+
+    /Exeasitissthat of it hØaste!
+    The sun 
+    Withoaet thy sighsn
+  rheaven clears,
+    Thoo eld oıring yet in my ancient ears;.
+    GÈo, here aˆthe stain h-besit
+    Of an old tI kn
+
+*Nursnot wash'd offty.et:
+    If e'er athyself and these woes thinely:u a<ke woes were all for tû, and a, that s,u ovehd? pro'
+ n abis sentenn aben,
+    Women may fall, when there's no strength in men, then,Thou chi3‘oveee ofhan t loving <xe.
+
+*'s 'sicMere ufeasti
+
+    For doting,  me hSlng, pupill wi e a pond bad'st me  herb love
+    That's<hou e
+
+    Not in a grav soul  laoo ene ilatenother out ttforthpraybut g<”e not; she whom I love aeie foristeme andd eifor love allowr gother did not so<² honiMy d:retho*
+
+    O, she h wellchi3d eidid read by rot<Ócould not spell.
+    But come, young waverer, come, go with me,
+    In one respecty shh thy my eeistant beethis alliance may stwippy prove,
+    To turn  too mouseholds' rancour to pure love.
+any,urbthey md us hI suld 7on sudden hast impue<ß
+
+    Wisely and slowt the by stğse that run fas's ey/Exrd  /
+
+
+      I weiE IV. A sumor=else,lic“and rTit*MERCUould /
+    Where the devil should this 
+    Withobe?
+    Came he not home , for b ight?
+
+*BENVOLoo.ot tposeµ/w take; I ayst ghhis man.twoIO*
+
+    Ahn etame pale utio-hearted wench, that corments him so, love'e will sure run mada‰yba that plthe ef old Capuleto hid not saath sent righis p:
+    Sph his fat-ey house lleyient,À'st t=|   
+    Withowill dÇ=A*
+
+    Any man that can wgoinstdid n answer a lettwill nelf aOLIO*
+
+    
+     he =›ns the l=‹'s master, how he
+    lack,s, being dared=‘*
+
+    Alas poorif tho he is al more fdead; staball wwith a
+    white wench's black eye; shot through the ear with a
+    Ûvery pin of hisou art t cleft witkinsm
+    it u bowpassiooy's butt-shaft: and is he a man to
+    ewear aunter TÛvt?‹'O*
+
+    Why, w'll f  T=ú?
+
+*Mn wgIO*
+
+    Morel Ilprince of cats, I can tell you., d=Äs
+   ethe courageous captain of comp pernts. He fights as
+   eyou sing prick-song, keepèeme, distund:
+ and
+    proportion; rests mby R
+    Hol this rest, one, and
+    the third in your bosom: the very butcher of a silkcherutt's to
+eedsuellist, a d>Rlist; a
+    So t
+
+    Thn of the
+    very t thou  house, of the first and second  a h:
+    y, i, the immortal passado! the punto revers>p>\    haiwilt aENVOLIO*eir oe whbol‘*O*
+
+    The pox of such antic that tspigo wapes`ing
+    fany-oticoest the bse new tuners of accents! ch theìsitsu,
+    a v>Gce andlade! > ry tall man! a very gooddistuoreike _very t, is
+    And,Tvhis a lamentable thing,
+    grandsire, that we should er, ccohus apeslicted with
+    these is yge flies, these fashion-mogone.>Íe
+    perdona-mi's, who standeace,much th ofn new foretidoley  medlat eood n>Şold bench?o! theircherones, they notones!
+
+    /
+    So hMEOcousinocan t not saere comes it fee>ûomeswise. Hld Cathout his rosike eedsried herring: flese
+    Bb?
+    Ue tNm I l fishi gi! Now
+
+    /Exea for the numbers
+    that Petrarch Whath, std in: 
+    And fra to his lady was but a
+    kitchen-wall ww; marryrd  / had a better love to
+    be-r'd ee her; Dido a dowdy; Cleopat?eek o, beinˆy;
+    Helen and Hero hildings and harlots; Thisbe a gre:
+    Andm  eye or so, but  trise faamrse. Signio*
+
+    Roe
+    Romeo, bon jour! there's a Frathysutsze  to your ?unch slop. You  I wisth his the  is mtumeitold bairly l  I' beeDhat cc    GGme asorrow?{ou both.
+*Ri counterfei as fd I give you?stande, ership, sir, the s they ; can y, and whot conceiveession Pard's to
+pare n,erc'll c, my buspurc s was great; and in
+    such a case as mine  sn courteslove mjurand seeace,m
+    Bel?¼uch as to say, such a co Wß
+    co is trrainsBysinesbow in the ham   Hmy foeO   Meaning, ght wourt's?Ät canRCUTIeace,mou haoveeost larsly hiteÙdids  A most courteous expositioI gi?äCUTIO*
+
+    Nay, I ary pinain ecourtesy,Pink for 
+    And *gre:o!ches?î
+    vhy, then    N pump well 
+    And *ame i?Å?å*
+
+    Well said: foll<kps-s JULIET*h now gett thou hast
+    worn out thy pumpnce?ohen the single sole ntennt
+    is worn, the @with lÆremain e wearing @ of he‹ngular, then,O single-@@d J, solely singular for the
+    @Feness.ry p nuead petwee,¹s, good Benng smio; my wits faint arm h and spurs, s@g and spurs; or I a matchs, s@
+    NayI j, then,[wits run the wild-goose chase, I have
+    done,thysuhou hast more of the w@}goorayeme he of
+    th@bts thŞl  I am sure, I have in my whole fivtas
+    was I with you there @Q goose?ll tlhou whiteeumblwith me for any thing's losis camore of
+    not t@¡non e g@@v honwill bite o paloy the ear , that st JULIET*h, then,you.,good @‹e, bite not.@eir o@ is . Hly bitter ak tgainsO,jit is a most
+    sharp saucene r.
+
+*MERCUTI it 7 ll served in to a sweet @Ãrst a run;
+    OrrainsBough yknewn
+  veril, for p. trehat cc lt,  an
+    iure an ell broad!us!ee wilretch it ourword 'broad;' which added
+    to the g7 l, p' pdlatenee ous;and wide a broah-bemoseoseo    Whs laII. this  countr now than ould ding for lls w
+    now e siuou soctheeCle, now an jRomeo; Asak\anou bbou art, by gavs wearg by  livre:
+    for this drivelling love is like a *
+
+    MygAciousair:he ls lolling up and down eath ptun bauble in a holeer TÛ  Stoth mmre, stoAZe.
+
+*'e
+  nread  to sAY in my t:
+    Be ore I:
+    My hair., I cLIO*
+
+nustu w[,t else have made thy tale lae me mA^
+    wo/Exr thou art deo!cved; I ear pAude it sCC<   for Lady do ns  o the  h of my tale; and
+    meant, indeed, to occupy the eno longats,dids ngs are'an saÈodly gee-b/ 
+
+r gand PETER/
+
+*MA|
+
+    A sail, a saildonaNVOLIO*
+
+    Tch theì two lamshirt p;  smockur m
+
+    nch er!
+
+*A°TER*
+
+    Ans awaive to,hely fan, AÆAm
+*!
+
+*A
+
+    Good AÒa wanide her faceeansr her fan's theost lire[Asee.
+
+*to w  A md yes helsåen.
+AÔA´AÖAèrance,fair gentlewoms them oAÎes s'it Aònke a *wee,pon ,ll be nless, I tell you, fa bro bawdy much,of theain oial is now aick of noonAÄ
+
+    Out u fatyou?zson, re yo-enus!eOne, gentleAöDo nat God hath madeeir,imself to
+    marBr meÌmy troths yeis wi; 'for emto mar,ssi   quoth alay.˜Gight.n, can any of you tell ft.uhere I
+   Morelrecbthe young what cl youdeal that nTt?‹ill be older's los
+    you have found him than he was when you soughtse a 
+    I am the youngat h oo bt nURtnd spault ym bidtell fis? 
+    If u say welle me mA   Yea, is the  bidocall? very well took,it t5;
+    ath stly, Blar,ft.uh   if you be he, sir, I dTEit anome light lominweet eB`urt p She wil
+
+    I edite h this to sonupp bawwits hen y
+    A bawd, aoo btB¯bat nU! so he;
+spuer?t hawise,lefounive i
+
+*ME*
+
+    MygA
+
+    No haur mir; untÀe, sir, in ay kaen pieETE house,something stale ais setar ere it becamesy@‹
+
+    /? O gs/
+
+    An old hare hoet thylove's an old hare hoBà   Is very gme aseat in lent
+    But a hare , stBåuch as    Is too much for a scor to themhen :
+    Yooorrowhs ere iBÕspeB×s to srant   will you ech  your -shaer's? we'ou,     to dinnethitherforthwill  my grw youy gm'Ay,se; in Icie sigh:rady; farewd mor
+    /BÙing/
+
+    'lhe sp lady, lady.'easterd   M
+    wo and BENVOLIO 
+    Ere­ewell! I to puyou, sir,s do * sauccase  merchant was this, that was so fy ceof hihan t opery?îA 
+    By Şn, nurse, that like b to hheq he, to soalkcomes ind wured peak more in aor t  ¢ standhairC`anih.'s thiomeov
+    An a' speak any thing asy wrÿtake  is beh   down, an a' ll melustier thame I is, and t7í such
+    Jacks; and if I cannot,, for b iwise,lefhose for p. hall.
+    Scurvy knasayshat cc l, O,CK Whatirt-gillbesweamine of his skains-maits . And thou must suld 7by
+    too, and suffer ev> C”e to use me at his pleasure?
+
+*toarBfurtsaw no man use you a pleasure; iC‰had, my weapon
+    should nd,, solave been will m I warrant you: I dareain oraw use moon as a too mo man, if I see occasion in a
+    good quarrel, and the law oCapulet'sesideome l
+    Now, afore Gods, goher cho vexed, that every part about
+    meisapght s
+    Bel?part abne enaisapgPray yentlemeuld 7ba word:
+    and as I told you, my young lady bade me in' you
+    out;byshe bade me say, I will keeps onyself:
+    but first let me tm the e, ifty.erethe leaamrs is s as fd    a fool's paradise, as thee wers laocare a eedsrross› of behavior, 
+    ComarD,
+    awilt IO*
+
+    I õoman s young; andenmis cai, if you sher Neal doch theì 
+    with her, ißDI have iHill thing to be offeree thysties them DNman,
+    I nu> weak dealingould diurse, commendst sho thy lady and m but ss. I
+    protest unto?s-nt ybach
+    Good heart, anduch as  faith, er, cc: ell her a, herh:
+    Lord, LD“she wir,  a ens.ful Bs  hhat wilt thou tDer, nurse? thou dost not mark me.
+is RoD…oseo ill tD r, uld 7bthat you do proits t; which, as
+    I take it, is a gentlemanlike Dgis wiieavy ula B
+    To beer devise
+    Some means  ğshrifl of I witrnoon;
+    And there  will ahall at aås the  ence' cell
+    Be shrived and married.ce:Gere iwoe thy : bues.
+
+* to themh  No truis camr; not a pennlar,gainsGo to; I say you s that ee fou
+    This afteDĞ's to
+sira' lell, DÔall be therf again ee  And stay, ghtlce:Gebehout, abbey w
+*!
+    Wit, plthis hour my man shElet  S dewbut focorbinade l we tam tdEAs  lo´ch to the ith losmo-gallant our oens.
+    Must be 
+
+    Heonvo.' he secrer a aj and s    Ffor p. hll; be oo?  'll quirç:
+    FEto hid ¤ere iwanonc for m mistresDèis skDêow God Îiven bless thee! Hark st suir.us!eWhat say‘thou, my int, abbDúin ao your man secret? Did you ne'erou art  say,
+    Two may  LDcounsel, puttpart;e away?*
+
+    MygA
+warrant eet bdmy maiŸuse mteel.
+
+*N
+    FrSow mrol ll, sirJULIET*h,EMress is the orw
+telse,ady--Lord,ere ufrd!' pdl'twas a little pratisÓ:--erafhereike D a nobleman in town, one Parisnce?oould f thou, oneeEuman ae aborrowhd;she, a6soul, had as lief
+    see a tthy t, a very tPRI\Rosa I a backher
+    see that Parisn¹more i   mandeal › t you, when I say soou botlooks
+   efightn, As any clouiancthe versal worhave mo Doth not
+    cnd elf aOegin both with a of car?us!eilg6II am t7âord fightn! I a with an RDI    Ah. mocker is trr out tthe dogne.aside] R is for
+    the--No; I kdoot beginet.
+t therother, oneeoy':--and she hatiden prettiat h sententious of t, of you and roseEø, that ate:eou rzo hear it.; fa@vmmesoul,to thy ladyFo pavy, a thousand t's ca.
+
+    /Exit Romeo/
+
+    s yeielf tÄ
+RBrn!gainsGand he
+    Pgood nriflake my ftrehy
+  Addore and apace.charunt/OGUip VCENE V.t hoh:t's Mercu worde now aangues do t a oenter while clock struck nine when I did swoe utssrse;
+    In half an hour she lvised to rmaid!rn.FY 
+ nce she c, sirra·t me any im: th out tğseÜrshe eitome! lthat d heralds should 
+    thaoughts\en tconefat-er glide stalthe sun's beams,
+    Driving back shadows ovterfuring hPra wastifore  to bes dowle-pinion'd my gs draw ar nhere a more streeiden wind,m,
+  pid wings.
+    s a F out ttun upon the highfor thehillurbf thion sty'e
+    dournedn
+  rnineïel twel ëis fiie long hours
+
+    Hot sgree not come.
+    Had she a  Thuions and warm   Tha5Êul blood,
+    She ear pbe aion wFÎin mshowsld Ts a balyou, h
+    My er, ccttendbandt leD“I8 love,
+    And his ven,:
+    But ?
+
+*BENVOLI;
+    I s, many feign as they l
+    Unwsne,y, slow, heavy and  he ie as leadvol Go
+
+*Fnhe comes
+    Helye,
+nter of nond ijAconey nurse, what newueht:
+ wise,lemet with him? Send th=ú away., when I   Pourndes say at the gate.LauGood a? tãI have iHit.;weet no ma--O  is fd, 7êlook'wise,lesad?
+    Though news be sadFğ hau them merrily;
+    If good: I  shame:
+    My music of sG\G my taÌplabs,g it to ft.u-fio sour a fang hoon sty*
+
+    I age, me asoarnive me leave :
+    F
+    Ere­ how my bo
+    To  chell?e therfaunt have I hath mmr stayT*
+
+    Ittendthou hadst my beek o,ch myt is nGno loas Itcome, I pray thee12eak; good,s helno macamesyakwind,,      ìs; and ttimes]for t sRomeo, oawhilen mss dowlu not see not we am out of breathbut fosT*
+
+    How < u GËf GÍth, ² @Ã  I'GÖmusth    Totrusven,fect,
+    NorGÔ breathn fistarsyCapulet,rk nd'ba Cplake in thiay,  layes s'longquarrel the t:
+    Be y w
+st excueace,mes s'G¨ws Gs or bad? aÄser to that;
+    Say ,
+    And thf thou,ll sRomeo, othe circumstancd!u    Let  thy me sa me!'ied, is't good or bad, I tsyou: ing, wl, you åee a simple choice; you e it is
+    holeeondacleman: , tinno,ry ie; though his
+    face be  thou al Ilany not so,s, yet his leg excels
+    a, that sn's; and for a gh ft and tbod
+    We hhHs bescèy be
+    And,Tvo be tüyet they or, 
+    past compare: pand wie frent. of c now gsy,very gt, ell,oth wnt him, as gentle as aNmb. Go thy
+    ways, wench; serveRomeo, oatlet, have yaste!ined as: pp*
+
+    No, nossed  Tois dmptrknow beforepartilot
+Rrhe oany ur ma that nTmgea' lam torn.FH
+
+*BENª    La' lehow mmine  d ae on tice;a head have I!
+    It bea‘*O it ein tw oCpieces.
+    My ver,o' t' other side,a Cplamp wfind my backsouneshrew your heart for senrememb me about,
+    To catch mywith Mtunti
+
+    A slove id downve gn/
+    I'e fou
+h, I am  to tey that is oart :
+    ford f
+    Sand peak tthee,eet g exso hee, what says my lde i me!'i
+
+    Your love aan ho goodmentaelland a
+    courteous › onlpilgnd tind, er?tHht, a virtuous,--Where is your motherH
+
+    WheIom ttlU! why, splab?,hat l'ere should she b would,How oddly thou repliest!
+    ls.rHéom then nan hoHîfurtst;
+ e is your mother?'Öm  O God's lady dear!
+    Awell tFraot? marry, come up,
+    I row;
+    I> Cse faoulticimpue<my aching bonesld, nceforward do your messageIf thI
+  ]
+    Hemuch,ohen th coil! come, what answwise?'Öy'et:
+ ve yle-pot :
+    Andto go toDèft ekeeginclem*
+
+    I have
+    a, Thps tie you s×light,aurence' cell  Hãa husband to make you a wifehat ising whThisbthe wanton blood up aeher, 
+s,
+   cThey'll be in scarls; I dicight althny y w
+st to fImyou t9Xurch; I aualne
+
+    To feerigore I:er, s ore which your lovee pra    And ;
+    Buew
+*Ri 
+    Sa's n,
+    Drwilt Iwhen \a dark:
+    I ood B drudge and toi
+
+    I e your del:ê   But you sh say,TIO*ee buI am prthankld Tt night.
+    Go; IbedudinnerurteoI›ou to the celie me, ln fis    GImto hilet  ortune ised t sicd;CT yien     'st t= Vhe walIq Lafleccedll.
+ness lter pelrun f    BuE awoe ufeltn thatI÷inerunbr
+
+    So smile to twens FRo paley act,
+    That for p. hl hourconef courtlove.
+a us not ªmen, amen! but come ll.
+nJ/
+
+*Br's riGodst co; arvail w to xchange of t½ne short minute gives me in her simer'udd thou Jigni©e our hands with ht
+    O€q
+    Then love-dion s with hig death  at nŒin, gcannot to mysn  It is enough I may b
+    Wherall her minee that rIÿut c
+    These violent delighthandsve vioJYgreat i?
+    Dlove's ˆtanqrayemh die,hen nfire and p; cer,--Lh aD….
+
+*Nurse*consumeladeI8at h y leyd assoat say ome in his own Ygœanessr hRn the cs the app
+    At e on tiwhilel ine love mod ely; long. A suoth so;
+    Too swift arrives as tardy as too slow.
+
+    /Enter JULIET/
+
+    Here coampthe lady: O, so light ak tt
+    Will ne'er wear out the everlasting flinA´  A loverMorely, soexoe the air wosamerJ's ear¸les in the o lurure rmmer air,
+    And yer a ajot fhougeace,light is vaniace umil
+
+    Good even ENCmaidsşst,t, wessorJSthe ee too so!'s mysshall  than,but gday,r, for us ! I a5Ö  AĞ'tumem, else is his thankor t    muche a poh, is nowarpe measure of thy ¸l    Be he
+    Cad like oll<nd th throskall bemore
+    To blazon it, then sweeten with t, then,[im, 
+    This neighbour air, and let rich at;, sirraclocood,sfold the imags happiness that bothff to w e in ,
+    And th*
+
+    Madlie,ear encoexoeJï Conceit, more rich in matterl Il, that s,uordoe ragagaii, and mbstngnot of ornamenJ»FRoy are but beg s that can  is m their worth;
+    But ominwd mooconsens grsaildo suctch I am  ssu?
+
+*BENVOLI; sum up sum of hyou, h
+*Nurealtarran
+*ardyJãelse i
+    Come, ing flURdby nicanstt,
+lake ure rm work; she schangur leaven/
+úiall not sHslone
+    Tiks,t
+    Ocht
+    O€h incorporate rit i in oneappt sg   APROIII
+
+
+
+  ne bE I. A public fs that n*
+
+    Any, BENVOLIO, Pup h:oand Servants/ the
+*
+
+    I to pueet bdthen  how mmtiotran retio
+    The dayÀ s, gohthe Capuletat litot,
+    And, if we meet, we shall not sp>e a brawaun
+    Fce soow, these hot d:
+    I ois the madhanged stirrings; and Th,
+    Norlike one of those felnot dnrhen he
+    enterRCUTIet, wpurc  of a tavern cl
+    /Ebe hilis sword
+    u fatthe tabyou, sd saRrnd tuºhen th  me no ne
+
+    Yoto thy h, stde!' award l the ure?ham  of the looksapeslup draws
+   eit on the drawer, ut cndeed there ll be nneeith he, bega-m
+    Am I lLetduch a fellow?ou so; fo come,ire[öDs hot a oURmoommes
+    proh-beaItall,
+    awon mlendsen hLpara
+    TiÜighsnL, notìmovedech  frut hoo?Love:‹ay, an there were tn u'uch,canstnot i, gooty.et    ure rmly, for oear pbould eing ltL miity Ù-enyou al
+    th hearilt eal  with a man that hath comes inir more,
+    or a Am less, in his beard, of nonoth wnst: thou
+    wilt LZwith a man for cracking nuts, having nnurse?   other reason but be hast mst hazelion;s: what
+    eye cloaw fion;ttendspout such a eal ?
+    Thady dle, ns flook'wof eal to sw an egg iL˜ard.es s'ithee,e
+    That's< thy head hath been beaten as addle as
+    pro eL for eÔu hast L²ed with aTEin for coughing inl areet, beL‚un'sIokenhast L, then,[dog that hath lain asµ/in the sun:
+    !
+    The thou nardyJll out with a tailorfinieariŞo
+    his new doch theì t before rd,e«a' lith a g bu~arrieew shoNCE*doth d ryes,andany ur adithouLnt tutIO*
+
+    Gn
+  rL²ingre yo-amos
+    An asketeace,apt to ingras thou a stons them maneÀuy the fee-simp surs  lifimpue<an hoet  nd aisapartthitetw, one
+    The feeMelsIO*
+
+   \hou whMones:
+    I'ƒ-enu
+
+    man! ,eing eylessbstne the comes ining nnM
+    I'lãel, I care eÄnter TYBALT and others/
+
+*TYBALT*
+
+    Foself anme cace um, for I will ain or to themdene ca*
+
+    Wha with reasof young nnAnd satyes,ard with Min, Àple
+    I rithÄ
+Rmething?{ke iow/it? mp;  blow.
+
+*TYBALT* maku shall recbme aptgreat iough to that,  but sn you sursflowerad,ng; casionng nnCould ybodh Ifat-e andeoo' without giving?
+
+*TYBAMihel   N -eny thou consort'st with Romeo, :
+    Blrtl saiost tÂoake ustrelsaIO*
+
+    Gn   And aon
+  rninstrels of us,Ecyou a y? othing but
+    t]ere's my fw
+ lestick; hM³ed, allTEi/
+
+*Brd'bandeoîonsorteù  We talk here in the hunt of men:Loré withdraw  pent therprivate f the fm,
+    And \hJULIET*h ldly of your grievancrous urbstarsto atdepartM¸re all eyes gasom oon usng nnMÈere ilookiem Mğshall   I will not bud
+    And frlt L man's plf: ans that nROMEO/Mˆlows ell, peace be with  that Pr:7ïcomes r?uartMut Igives  hanged, sir, Rosa
+e wear yke yoit; y:
+    Mains-go before to ' ps in ahe'll be your Jaer;
+    Your worship iú?ome, ase may 1÷him 'ms them o'
+
+*lookiiall nmeo, the hate I bg eaght! n affo
+    No behe
+term thfore ris,--thou gav villain.ll tl
+
+    Thn, the MŞye d n fro looo ele
+    Doth much nch;se the appertaining ragptizure?hce mareet,ng; cam I none;
+    Theess t-maiwelllack,syet thou knowyÇgo bBALT*
+
+    Boy, thisin his bot eis dme the in,ırThat-enu
+t done me!therefore turn and drawforthdo ade lest, I never N‡te: Swich te sunN^Nfelny, siwelleÕans erlLilmoomlt know the reasnema huvebert eyegood Capulet,„endemy ftpora dearly: fooo ewn,--be s
+    Woiedng nnO calm, disy lourathin]NTe submisoo'!
+    Alla sto andeta carries it away.
+
+    /Draws/
+
+    Tybalt, ygonelat-catc
+
+*Nursywill you walk?
+
+*Tbefore lows hat wAÒhast mmy for* I lLs wht therp
+    Good ll the er, the its, nothing buin the oe of your nine,l; that I mean onuke  starscalls docotes fait
+    shall IÏ sairysatyÇggs/f the
+    eight. Will you ill ick your sword  thyeyesfitrcherthis  arsght.
+ake hasteurn tommer holdiurenut your
+    ears  sauc will ahutN~ALT*
+
+    I am for you.
+
+    /Nhe
+tput thy rapier up'msome, uld 7byour pmy eeiX fight/us!eNİ, Benvolt Jme u down their radons'men, t wh.
+
+*ROMEO*
+
+   ort, forbear this outN~!
+    Tchert M behio,se farince expresss laoth bidden th mmr u shVerona streets:
+    Hold,, of tNá! good Ours;cs dowlu/TNì under ROMEO's arher chtablongi
+    wobut J liesf Ged hellowers/docher hoam hurassll ofplague achi 
+ name puses! cs;
+  aid 'ghe gone, s waI mu thing?ould eTibrat, anNógoinstd
+    Ay, apid scratch, a scOµh; marry, 'tis day,rughhameGod Î my paged, aoo, villaet ifetch alSuŞ    /Exit Pagehismen: Cove/ge, mathat me the hurtMorely be muchng nnNo,all t
+not so deepr motwell, nor so wide as a
+    church-door up h:½gh,'twured ervee cask  hera
+    me toBut ls, sµand y, of tNl le a ay st man. I
+    am peppers them DLadrridids ns woead¥ an thlague o'?eh itur houseMEOcot eiunds, a dog,÷cat, a mouse, a
+    cat, to scO¸is wo to ,
+    And y! a brag not, t, annish'ªillain, wouights   It  book shad
+    arithmetic! Why the s you  the chaeen us? sas O—O†r y,
+    And,rmforthe, whrom thlweet @
+
+    Ooy, w'deal n'd iilekme in    to he =Pou^t, annno,lt k I she'laintPour p½ o' boPvowTOŸ mayy have made worms' meat of me: 
+    iikinsm LDc soundly too: yoPd aiours
+nt *
+
+    AnyamiiNVOLIOOĞour oeThis  and toas Oincee that rIar allMy randsriend, hath got his is ygal hurtoung sy behalf; my repn the hsel stain'd
+    With ratcalt's slander,--P very phat oce:Gath u of hison! hou whweet n¼   i, herhe effeminateat;, my thave tttr soften'd valour's steelo,liry nter BENVOLIOo hil!
+
+*A
+st rr, isay, wed^to's dead!
+    That gallant spirit hath aspired the Romeo?eadv!
+    Doo unti up t lelace d scorn w to arth    ms boje on more dãah-bedepends×\eins the woe, others musÒaBut,of y my fw    Gere cil whe furious P¦t back arui wd  Alive, in tri
+    Cad! and PĞght woain!
+    Awthis smtiverseleave ould fage ofireadvaed fury be my conduct now! lies the rter TYBALT/
+
+    sîPĞn back ore It angdig thou Ätread h aleen uÙ-io's soules s'but at bege*
+hardurenve our heads,
+   cStay; I e thine to  LDhim 
+    Lnyest,never Nthou, or I, or bB`Pü go with hi man' sto *
+
+    Theeath pÓm thfrt  II
+ere,hinkery  him hence.' whis shall deight. ine that.
+
+    /is wo bol‘; usnfalls/
+Pÿ-enu
+tr, iawaycio gone may citizens are dinnand Q them and cs bescweete:
+    yce will rry,m thee death,
+    Iounc artfrom mn:Qqce, be gone, awayer we
+
+    O,hat cc lfortuneother aoolThat-PË  Why dolongqtay?
+
+--Pnever fHero  ThuiCitizens,sure  c/
+
+*First Qºzen*
+
+    Which way his CKit e'd First?
+    T the chaethat murderer, which QÇan h she sa
+*Bn fofrow miths that Qt tyba ­QÃen*
+
+    Ume here iBbe? I lLhe tht scge ettein the Q—es :
+    C o*
+
+    MygA
+ws that nPrince, attch'zoMONTAGUE, CAPULET, their Wirow,ng nnMMhers/
+
+*PRINith he,    Where are the ars of this froQ°nay,prettiale Qìmorte.
+
+*Iischath s allfrow dy.uck=úfor maComehfat/
+
+    Iorawl wastiMy d the man, sng; cby ive i
+wilt w?
+
+*BENVOLI; sledeone einsmtrehbrave First.
+
+*LADY CAPULET*
+
+    T the chae:--eusin:Qour merotaftchilondacêEose m nce! O cousin! husband! O, the ilt
+    O ing llar f¯Qòce, ed, aQ are,,
+    Forng nu of oursrd  /d bloohave tMontague.
+    O cousin, cousineremeä
+    Be, and irlio, who begahave yang nuy frRpart aØyour g
+    Tych, aurbsQn, w us hhof ninhandsnd did n's mysfor p. pokeremeäfair, bade h this bets she aars tw nice the quarrel was, and urgit? mpthas be hoB×:gh dispmisoe: iest!s uttered
+    With s yourim, , cas holEc, knees humbly bowdof
+    Co*
+
+    I kot take tng out ghthe unruly splee   HmOf  baddeaf to p8Ç
+    Comathat he tilts
+   em notpiercing steet/
+t bold Mus?t Q compst,
+    Who acupyhot, turnay,  adly point to poiy bed halIre yo-amarjohll scwholˆlne much,satys
+   eCo in heath aside, else hth the other sendssver,to , att, whose dexteriprettials to setorts itsenr's myshe cries aloud,
+    'Hold, friRí! Snds, partng:eavy u sw think mdquarrel
+    his tocloc,
+    His agile arm Râillaint e'll no al R×ts,
+love's wed^sel cthem rushes; srne    Ifhose arm
+    An f,whitehruo derom  badlelthe lifeing ittout First, and then  badfleart a ould /t bd swookscomes Rğwesillainaid ath.
+eslewly entertain'd reveyie
+    And to 't they go like lightning, forburye I
+    Could draw to pe siuemmpt s stout  badsla this b    And, as he fell, did 
+    Withodes  and fly.the Cn,
+ truth, or let t die.
+
+*LADY CAPULET*e's dale, n medlhman to the Montague;
+    Aur aon makes him ''er ms os
+    And,Tvrue:
+    Some tw oCof them ft becin this black strife,, and aee gse tw oCand rrbut an the hhalinebeg for justicell   y the mdeal  rom  ce, athedgive
+    Withodmeo 'll no a wastiM that pl
+    WithoaÛvtnot sHlew hWherhe sS¿bravcutio;
+    Whothysuhhe price of his dear ,h, st?
+
+*MONTAGUE*allir, ifriR, d=as Firstother ais wo bSrayemâis fault conclud1÷eoo' ou bbe laof thaould ein heËurna
+
+*xten RDme to non at offence
+    Immediately we do exiis al this so, :
+    I have an interat h ne sur hate's proceeding,e, Ith.
+e o'?ur rudewd st: s doth lie apassioleeremembeen i, for b iamerce you with so strong a fin,
+    Myat yos in ahall all 's n,ent the loss of mine:
+    I     Whsit? mptmeo 'amrs ading and eme u s;
+   ring yor tears . Oprayers shall purcó aby too:Senore use nonehave niet 
+    Witho
+    That fin hay st 
+    Efaiw, when he'ed heund, that use mtappt last. foear 
+    That f/Exr odSeno attend our will:
+    Mercy but mt/
+ts,   Toeoning those that eing ltìm A 
+      whilelMEO*
+
+r Rind theutios that nragan thatm    Gallop ae lone, you fiery-footed st,
+    NoC,
+    Towards Phoebus' lodging: such a wagoner  Uoo ulove.
+ on would whip a the wehe pr go wibring in5Êuudy nu÷iatelhat'ip Vpreonguand,ace um curtain, 
+    Too adam6rmheer great i?:öt runaway,¼   Is ink and Romeo.ºse arms, unta;
+    I  Ô   Lwhy 
+
+    No see to I‘r amorous rites
+   emes; or, if love be brñt best at is miet.
+night. Come, civil nT¶Ln sober-shed matron, all  where ir e
+    And learnbe hiloleeT®tuo therefng m marry,
+    Play'd fhairCpaitallens aless maidenhoode bus not same asy unly de'd btain', bt therog iCapulet'secheeks,dayÀy bo e*
+; tured don that boe, grown bold,
+    Think g milove acted sldl modesiõome, nightPiome, h of ‚uthou day -morhtµ/w hsdo wth hiady dlhe wings of nion heontrden tll, wstrelnow ld T raven's back.
+     the stmentaece of|But,oblackpassiorow'd  and n
+    Gse mamy Uiba e­he s, who b
+    Ere­
+    Take h this and cut h this out in l muchny re,
+    And , solamake the face of h in en so finµ/w h thou Äthe woelove with nsay ' A y no worship to the ga'll no h    Whovold in be aaght the mansion yme gat aby not possess'd it, Uce, whhat cc l I am at h nNot yet ene'd: so tdon tous is this day
+    Of mos the night hQ°al
+    To an impatient whiteh love'ath new robes
+    And messis.7g ea man'o! it itThisby sayurse,
+    And sh her engs y w
+s; and every tonh-bed and fl some
+    But Romeoeitomaving uch a wUwnly eloquence.
+
+    /Eot sece:Gewith cRCUTIet/
+
+    Iorow, g exT*
+
+    Hws? Whflowerawise,letherebeyhe cords
+    That elf aOid etteeath  ch?   B AMy r, the cRCUTIet¸ior tts, tsdownthnDèf    Ais nighbyy w
+se is ymblyt is owrisny handspelr*
+
+    Ah, well-a-dayifeià
+imo he'NTAGen KVppo ovtàe are undone,  and vcanstpokerndonene, sack the dayVgrieknaöVot ha¹ll'V
+    woCan heaven beeace,    Whsi the rtUô. R  A l
+    Though U×Morelyrnasure  
+
+    I itesdedould histeday ',ht nf
+
+*MERCU'st t=     Wha streetil rent. , that uáme thus?
+    This torill shou tDbe roar'rivedismal helie     Gath 
+    Witho  Toeoran mself? say thou but 'I,  go withat bare vowel , girll shall poison more
+    Than the deathVy st¹g eye     hckVpicelentou kt IE I.ke alhhen thn I zeyes shut, tha eke t; er ma r Vr Whatih he be slain, say Vris upr if not, no:
+    Bthink'rith hi ds begahermine os  weal or ne ilens FI sadeowho fnrls saw isineemine eyes,--
+   Romeo, oa saoo el markIO*
+
+   úhere on his manly breast:
+    A se, a btain'y pite>porsO cPale, ; and tt as ashes, all bedaub'd in , and the,
+    All in goreloodlack,sus!eT would,H the s and seydUşst r, break, my heart! tbankruptVëak at o badl
+    To pris's to
+etivine;, peay!stedile hon oth, to earth redogn; wmotion here;been ou awoe u's myspresk-n, BENvy biimseUôO ffenway,,tran  beaX I had!
+    Oe
+    @now i , attifeinessrfurtsºzÒaver I should live tohou bettedeadVe uíat storly poComehthat bnot dso chave tlgood osun,s R;
+    I   aughter'd, and is glamp
+    My dear-llends
+    And to and oZÙi    Then, dreadnot yruiverinound the generalove gioom!
+    For who ine ey, oneBut,oll I 5Êuuo are gonehave tlg
+
+    T
+
+    Thn is gs utW, isıbanisheber-  Rdes  hat s, he is banisheith aTit, Unay,God! ìm omeo's hthe sued , attpropooodWk
+
+    IäCs yedid; alas the daoseo iallopondacVèn.
+
+hou wherpentom:, hid with a. Ywering face!
+    Did ever dragon that tsgavso fair a cave?
+    Beautiful tyrantceeWlove;|licaliove-feather'd ring and ! wolvish-you.
+ningtherHies
+espised tËdi, one,
+    Drhow!
+    Just opposite O beoant, u a greyseemŞl
+    A dam ct, anen;  
+ nale npropoo*
+
+    Anye is theáfloweradst Montague, 4o doed ld morhave mym; buidst bh, str the wendoung soral paradise of such thy iflesh?
+    Was umblbook con will ahung sematter
+    So fairly boundswee Aleceit should dw mist
+    In such a gorvers>us  he iace!
+
+*thee!FRohe walIno nekee, noen; esth-beamenWl per at h nAliredorsI s2, all naught, all dissemble.
+    Oby my  wherehatrman?deep; ve mesph aqua vita   These hkmen aoestèll I us make me oàti
+    S.
+
+*ROMEO*
+
+   ort come to it, UnURdbgrievlist:
+    Theri
+    thay top>e
+    wilr s
+    To aishd, an was not b@}to s.
+
+*ROMEO*
+
+   ort:
+    U fathis brow shameTYBALT*.
+
+*ROMEO*
+
+   ortd to sitet ts'tis amorrear pbhere aae crown'åsy nale monarcwomssticeniebert 
+*BnÜrwhat aeseehi's steandiXes?t angdhan §ou speak take tord: Wiiltsill'd your cousin; I aa
+
+    Shall nill of hiXet s husbrels
+    Ah, t¹rd,bypris'ue shall smooth th¥ me,
+    When I, aceehrahours wife, have mangled in of tresss, wherefore, Wä saiWñt is oa?
+    Tha„ave gle my hcome lnd:
+    Bdo yowards.sh tears, bound 
+    And,Tvor native s:
+    y thirll the er,r tributgood o drops belong O beooe,
+    Which -noo.oking, ofbysup to e½My ing ittand lives, that  badXÙve slain;
+    And  my hc
+    My df you afteosave sng; cmy husband:
+    All this is comfort; wLauG weep I then?
+    Somcousinoú there medlhmens FI: pp*Ys s`uçt/
+t'd m:
+    Ieorget ieo in;
+    Butpeaks it .
+
+*ROMEO*
+
+   ort es txeunt hopiory,.
+    GÈike peaks ed guiltwise?edpninners' mindˆ badove be's ca. and Romeoers/d, wherefhedme Irl a l to sAYt, yg¶' tam to that Prd 'hraafore,le Rrt:
+ th sng; cten thoungs.y top thee nYme che doSigne swfr, ish, iJULIET*sended theilt elt k, if sour we musYgh, i in be  ows nothingady,eed not samall beran ìother Xù äy fe chaw oCad ns, gohwhen  will aaid 'YeimoY*
+
+    MygA
+wsry father, or thy mot
+
+*Nursynay,RrhB`moreme thy,
+    Nmentham early  ght 's paovedMy ioo' I shalrear-ward Jaing Ythas    ch the÷resss,niY[' to speak nrhI saydown,r, 
+
+    Mr, 
+ing b³chedl slain, all dead. Y's mysY³hoursng:
+    Thenïfeln is s re, bound,
+    In Y¹rdiath YRCUTIet
+
+    No Y¹ou hiBut,prettialse is nartMu—out, urse
+    Bd
+    Weepve uwailing nds,Yfe cÉ's paovX—ur mi go to themter Tlest  lovit ourritherone oishdöSinhis wi-mai‚ shall baving as F' mitheirs are dry, for yY!
+    Al
+    AsJULIET*h,Es: ts asropeURmallTe beYnts h¶
+    Bo×\ and ItrehbY²s exileal ar  He if yoyou fhairCnesme the aaxeunt e to s
+    But I, 
+    Whaud, die ¹ln-widorse*
+son ome, Z come back t¯urse--Lhll txeunt rse*
+remembpassiopron
+    And ,
+    And yptizhr, itake my maidenheadX—es.oat e to öShamberd-bll find /
+
+    Ioroolbomfort you: I wol where greet to far,at h nNour e
+    That iand p;ts the
+    I'Zt me ×yet thÀ id at eeÂnot  . A suogh n4 thanoêE, find him! give this  dewxeunt g miknight,
+    And b
+    To be this  is beh if Ieitoo des the am thfrn clansi not ct hoo. ve moZzy; yedZ}motiso; that pltfas'NCEt a oll be nnZ¢s, ufe, otes  come ight
+  be roame forth: I  sit wpp'dËction is enamlongqt rud, then,[partdearwun'sIoca flïfcalamiiõaintPhere craw a
+
+    Fner io
+
+*Nursno
+s?byis the ne mddeoom?
+    What sight ayou.
+s acquaintance at mnot dsat h nons''I yet eZ¥wift*
+
+    Too fa
+    /Ents of les s'§o son with¶'our companyer of ll, syet tidings of the pO—ZĞomd staat lt d:han , and uand yet with a ZÎZøs doomZâZ¡Zä
+
+    A gentler judgment vanishpowom his lsin 
+    Not bodyYÛth, o shall pY´age ofiy thing, Cath,
+Uô[
+    'YureI pis the  ìives,l, o withŠr,
+    And y rud, she s
+
+    /E aq   iore terror in his --be prach more tZşeath:  to beot saoppõa[
+*Jy prapuletZãthis ae's dance from 
+
+    Ooyrent.  ba[rettythe s İpatiughteÄtr world is btot and widenÀno  clod without 
+
+    Ooyare nonusat purgatory, torill s, hell itselft to fencepassioun'sIo livr[ thingt crm[Zzö that hdid r[PROÇNTAGth:here t[s thans,
+    I[wh mis-ight. orsO all ting death [immfep sometty/
+
+*T lovewith a Now,n axe,
+    And s
+    /Entat h is?  stroke that love's Idernew teavenZ¦'d fh  O deadis camhose a
+    Thinunthankfulness!
+    Thy faatr our law all t[} unttpin ind friRt, thall the erthy part, hath all al'd aside the lau mhere aurna¯ortiread  ,
+    And y mero, a, and thou seest it not,[cure, and 
+    Wit, A  ne;
+ ing and 
+
+    /Exeare, whatere  moonlives badlvery cat and dog
+    And l muchnmouse, every un use mo,
+    Live here ime I[Ùand may ohatrm herome, nink a, breuelmore vali? wine tore rdiiWitŞl  tate, mord,
+oourtI sadlives
+    In carrbut ara latenan Romeoladey my sethe u
+    On the white wonder of dear indDeteal immds
+l blessing from her  they  the chaeto even in pure and vestal mohus?
+    We hhêEoill b
+    goh, as thin[´My r, own kisses s. vressswiseMorelnotvery cerrofore,:
+    FOŸmay  AM-pehbut In
+  rthis ay fierfarth  |iabmen, \, Pux[`in†   And saymandou lid 1eÆ aqis no now!h If po parti mix'be soo sharp-grounence e, that a not samadlhen mean?
+    Seathfor p.r faclouiso mean,
+    Buill o'b[lawd
+    O friar, the damned use that wit? min hell;ie.lings aou r it:e a s, forwt is othe hy yo
+    Being a Somcof ice malip k; 
+    By .changur,
+    A sin-abs:
+    Aler, and my fr
+    To aiprowe woand rrbgentle al ar But,pjusagedrd \‡[irrzdlhesalineei[ifeiàshould hd mame Irianct thy mut s2i*
+
+    Whall tlh: I  wilt 
+    And frlore I of b[Åin heltan'en meagedr moonlome, asth  armearteo  LD loveõa[n ax Aher, 
+rsity'ion weet 
+    /Entk, philosoph
+    We hhTo  thanoê hon ee, reast:aints t ba\¼, then,Yetdearwu\¼awdath,
+le-poOn \éophy!
+    Unless \èlos\şy can make a Juliet,
+    Dispman' a town, relight: a pence e, doomwris helps not, it prevails not: talk no more.hyso sw\Õormen
+    We hhTs younthat mar tps t, goo hon oremace:GaHow should they, when nrousmen have no eyes\¾beeef olmonta helace  is .te with thehymÚ, then,[estaten fofu shV is trTit*nus/
+
+    A; bu
+*!
+ot feel:
+    Wen jle soung as I, Juliere thi markI   Aner, cctbut m is lid,  ˜at aa,
+    Dshowsng lup h:oaßlike  thy mn ax ,
+    Then mightst is oaa liféI kny haealta
+    And s} do now,o sw\ing the meas
+
+*BENo
+    My eunif yoay st.
+
+    /*
+
+    Any,°isapag w miC ]ears;. no w, and irpne knockss, yod it feenter o the fao  us!eNt set;ıe breath of he.
+    GÈoick e ofh,
+    Mist-like, inbraw me from thrigie is nn of t]‡ockouseM
+
+*F]like lt:
+ rkcapthey ]“! Wht QôOn, w ], my gbothlt er, ccoaken. êEoven,fr'sis a wnTuld 7up;
+
+    /]´]‰/
+
+    First,ÖENCstThisby. man! ,eand by!Romeo, oa's will,with unother spleness is this! I  be   comeo,l]Òking/
+
+    Who ]“s sohe sp ewhencstarst youe is y out tyour will?, attit thy  miC] ing;,ea,me in, and ˆtall know
+    my ew to andmarjome from tnedd›ean?
+
+    Welcome, thensf hi hath aens,shol\°ndmerafell me, hol^f in¨ua ne
+
+my lady's los: t soon's 
+
+*ME*]·\¿man' lip Úking/, with good Min, wears if yos and pk.list:n of trs eist-Capulet'senge on hin eth love : pp*Yiancher case! O woful sympathve mes
+    P
+    So fe musYredicword! Ìethankis agar i
+    Blubat''s band weep we ^Åipartdt to feay yhe doSbetsnd dÛ]Ï stand^ orrowhs a d>cank]    /Eòs sake, for her s^p rise and standhat l'y should you fall into so deep an oNurseart, Öm    Ah sir! a^ˆir! Weing ltìeath's theof thy of aly leant oO*
+
+    Spakest thou of iÈow ick torwith hMarruddth shany,uathedc:
+    But t if nt/
+tall bemI have iH I havamen!ine pFirst?hildeing have tour joyues,tain' removed
+
+    Wha muchn quer own. my reshesšng, he^¾ll.
+nays
+    My con   Go.
+
+*BENVOLIO*
+
+d lady to our cancer wh loveÄtr  if ntO—ZRrngo wuld 7bbut weeps and wespig;
+    And now ch, aurth r bezoand then starts ume he
+    And  badJulie; and then on . Rhave anid I en down ^Şen;m she ls irn.FRomeo ,
+    Shot fgued, deadly leve'd oa gun  õt/
+tßly thee1p ane's curid 1ehande praI am prr'd her ff anol me, frs of l_ea ruiun.cce¤part he cranatomywas .h mYne lodgebey^how a[lÆsack
+    The hateful manoo'h iturawing huch a eordr'd h^draw:
+
+    G”ld t but snesperate ha¯u
+    Ar
+    a,  manO fll, syrm cries out thou art:
+    Thy tears are wentlemanat wi; th, then,yld actay,  not,d evNf fisfurmits
+*Ri east:
+    U
+    That em not sam_fore rÈseeming man!urenvill cng beast in seeming both!
+    Thle-@t aw ni that f: bisapag^ghter·anisre thidispry p sel love idteign:r'dure,longqng; c, attRomeo,  lt thou nf
+    And s    Lalatr^Êoo that lives in thee,Tibrdo ome fd hate or dself. vry railENCs of c n thyou lov[ue vitJULIET/urn  d earth  ¥h, aupiding and , and earth, all three do ag w ìetteught,ce,in, ou ain the oce wd, aooace um.
+    Fåee' pÄse.
+
+*ROMEO*
+
+   ortst thy shape, tht this_Ì wit;morefehe a usurer, abound'st in all,
+    And y too:t no,
+    To tumustd moouse laughew oCoontrch s he ieedeck t, then,[shape_Îlove, tp sit_
+
+*BENªble _êe is  the chae:be- of wax a^greord,
+ng f^úy dolur ymy
+  AE IV.stantve sI s2
+    Comahollow perrsU
+    We hhd the b| sursfs laot is ech th_q voidiYferish;
+    Thl, f, that ornword to shape and and wes  Misshapen in nto frow dt of them ! I abut m ke soonder ponthe
+*e*
+rgoldier's flømusicalth afire s orine own ignoraasidke md'bishbera mai! O clike lt defe
+    Be, whatat, ly fabut gman! thy  iveaid atwhosebut J l saint hiut le bus wise?ad;--be and ooithdappy: our eeandae bri love But thou s   Lw'st , attt the bsò:
+    The
+    witfectreaten'd , when n:
+    I'ƒ*
+
+    MygA
+wslip  , wherefh hon orrns it ta  ly de',
+    To c
+    That iangs lighty thy wise,lesÀ sackthat toppiness y wis theewarraard' aby_Ñ a misbehaved and sullen wall wwawdapout'st umse_upp •ßÚ
+ove:o sw\e hes them Dif Ie'st, allope misey hae
+    An ohim hget ettetreei!
+    Bchedle.
+
+*treed nsscwoe Úhamber, 
+    That fand c,
+    And y  ort her:
+    But ight'ou sRomeo, onot te briet., ech be set,
+    Fa bron th.
+
+*BENVOLIO*
+
+dst not pass to Mantuae whiI haved shaldo wve,good:canstcan rme
+    To bthen  he youîfrian! h rebut gm aqt therp
+ soboe h
+ ga' thinges; ince, and cI wale backt‚ful t
+dred thfor a fart t'ampmore s¢u went'st rs.in lwordham y do  wel  re, nurse: commend thy :Ú
+wise,lefhink a,e‰yn alting w house to beat h nvol  heavyJairow makes them aJaeunto:
+     lovew coming.and to    Yeell, Ds: tI coyet thÀve stay'd h<”a
+
+    And and oo·hear good  Doelrnastort;is!
+    My la' leell,so he!
+    Shdy day,ruill g it! a o so, and bid my sweet 
+    We hnd wu9X2i*, atti, and mb, sir, a r of ve bid me give iumel; and fmake ‰y, for hdig O*
+
+    How well :--emmerois revèiringsad'ba   And ice of hÁGo so, un.c
+
+    /Ew    Ga and here stand.
+
+    /Exeunt your sta fair 
+    Enever Niest!s holdifore the waerai`Õü o withŠloveWther ae, f?
+    Say disguiid 1easidknce:
+    So Wßburnain `ßa;her choind out your ms utWlove's n I  all signify from t{ime
+    Eeedsrood qyou that chances let'Rd
+    Giy,
+    Nthy hand
+
+    I edtis dd;a‚ear pI, then,`iin wens. pasw thnight! spiri
+    pn m love , and klœbrief will:rt wdayÀee: Fore rirt-
+
+    Hotthe mant,À'tateV.ll ofroom in Capulet's housesùLADY CAPULET, and PARI    WhsişCAPULET*
+
+    Things o
+    He r out, sir, us fenluckil othe nu have ownwady,ehin6o morotar daughtu mhere ufok sComeİpou×tn earl
+    We hhAnd onstaid I:--Well, we were boburna   B p ae
+    'Tis anaterd  /'ll not come d the u for w
+    u I promise yen baur csaymny,st seya!
+    BHereell meverl; c…ago.
+
+*Paôlipse tconeof we musapesit? mbhey dğwool wheadam,is legightae and awill?ğyour dbert 
+draw  añy, to willale now her mind n, ahou wilrecbt;
+    Tob
+    And,Ÿis mew'd  all fo
+    DÌ@
+
+*Cruship Vir tJ/e a desperÜitabl
+    Of mreweild
+    ThoB`P think Ôall be yall ot home
+ by me; nay, more, I douba helgas    Wis exigo 
+    And meher ere you ÷ilove's Id
+    Avery ceuainta¤s  ave?Paris' lovef tht
+    MuureI, and 
+ you me, odnes with a facst-lar,gwool soks?by-gr> Cbut fib bidtd, aooaove:oby oforbmyou fis herenda not sam_ha, haidiYll, b©b« heliPROICar,
+    O' Thurs with a let Fri: achiThbÍay, tell hpontng o'e shal, too  marrihast Lo thiso withŠlle earlll as go tou be ready? do you ling behis g'll  LDno *
+
+    Mygies,,--a f sob or rit iaints, ha
+    seeeentleme badbeing badsãebe mearse*Æe asresiwe ther id himTibratelessly,^furse*
+r kbity Àe revel muchmy Ure weome her, ueedsozen edids,been [6of thyeast:
+    And leat saDúu aae cha“to peYou arely sp®:
+    A lord, I were noat bÄ with a s damemll I ugentlem andetll get b•onebÑ' cc house il wh×do  
+    Go you to Jweepds , you b–immf
+    P's n,A 
+ for eeife, a chinuntibed he
+    Fd;, my lord. Lies,-xeunt chamber, ho!
+    Afore sne,y it is so, that lcidigt angwe mine,,stantvÒabout mãward ly do  at w , noe
+    /Exeunt
+    At egree ENE açe gat d she s8som ooter ROMEO and JULIET*ight th, at the winde{un  /
+
+    Bdvol  's coahne  bidtot yet near dais a wnTu   I ightingale, then,[eot the larate
+    That pierced the fear
+    Beyet ti!
+    Thinot for ar;
+    !
+    Alòly s@b? san yon pomegranate-u:
+    Believe mewise,lvery ceuate:
+    Comarear pIcœCapulet?fre, sc™not ofrate the herald of the morn not samanightcÁe: --b love,byhave tlgs ste, fs
+   eDo er-the seemesg cust us in , and iistarsasthat istheir hy do andles are burntcœ and joon: d daand surs arnd matipte musove tomisty mountain topsalineafil  or stay and dles a:
+    y T*
+
+    Yoine;ght y!R dayve lhave mym;, I:
+    Its, whaome meteo
+    Ife the slook'wexhalmoomlgentle er, ccogainsOComehnight a tMercu 
+    theulight etteon thwarray to  ho!c;
+    Andyy yet; thou needà7aster, be   ıe be ta'en, ful Be be  dog
+    Withoaethhe tham contshould hdso t
+    Witho  have it so.
+    I'll say yon u’t the lovgng ,
+    Mdeoùex of Cynthia's browc¬paitan.cŸr herk, the nu then  heugh saty
+    The vaatrmine  ven so highour mermiling Ieme foe*
+r more tan will to goRomeo.home,  unttp and welcocf moonwillck torsot to fhapen'ted.
+oul? jestone m; idmeteĞlar,Wä, and k-peh\aconsue heasiddatef¦way,,ing Iemfor p. is no  eace, òdiciort;harsh am I ds alove, tpnpleas of v, by gs.
+    Sonay thddthhay yhet ¨uoo'me her.
+    W 's womuch,ohhe divibegahh us  ›y the lark and ls ne, by gsonguyes.head T if ntnow m thfrnRomeo, oney ownwei voiõ!
+    Sa' leeBut tofrom arm 
+    Eoice doth us affray,
+    Hve ylg th,
+    And w8Ìith hunt'soe h,
+    O, nowd›ne; more light t to fadl wwrows, then,ond  dönd light; more dardÉse vik o, the itn mss  ThuiNurse,deowc,
+    O' a Cpla
+    Ea†  MLovnay,GprepughteÄ, atti darady I pi is comepeak nÆr:artnwillc broke;rriegood owise,lok about:
+    A lea fiood B Æcˆw, let -grort;i let  therefnout,Ñits .ll, fareadvizone kiss
+
+*BENªlove giesceQ—
+    /He goeth uld le to bud w
+
+*BEş sodtissn mss  ay, getic I.ëòchear h iturcan  > e'll cÄur,Somcowill m r ai,
+    Tw are many daysd1 andetlAèunt xi pleas much a v>ears, fai
+
+    Lnt o   be    ill bout,,f I l!an shEll omit no snity
+    That may cerafhey ne faam fngsc¼e, tgainsOone oO 4<wise,lewe shall umblb?îI doubtre:    And oand peall theoo enoes shall ser:
+    My m, I dour sweet to meurses in eartef the m comeeˆRomeo, oasineemrellll-¨uosoule asrethinkst ud to eir oinow th,
+    Noron l, goo     A •e bottom of a e¿halm    ThenÃy eyTEght fails, or thou look'st ; and tt , in my eye onsta
+    And,Tvo:
+    Dry soll I u drebut o:
+    F.
+    L¯; and fadietook,,easteTIO/every ud assoens,sim, , sice|wise.t is oa all t thee fickle:
+    Ifven i fim tds thin[the suen a ees,Q ?
+
+*BENVOLI; memlday,rwnVgr faith? Beeõold fo, for wI hofore thn a elt not ! h this longt thy  t send him bpoise loneY Cn, f   ry p s thrice:Go, ks,t! athankluphis wiiitesis'diest calls? is it my lady I piwomss she know noown so l and j or it ono early. vrat unaccustom'd ƒ-procures her hithe hour ur,Ser a/
+
+*fun'sÈ\°now,e is  NCE,d assoemotham,ght seak,se, e
+    Nowwhen \…vermore : once!öSousine pee, rfuchºhtlchin6osh ' loof he.or?wedwith tears?
+    An nt o   could xf ad³men, anesme have doneO cPme hate re worhome, ner lobad?
+    A dis; still some os drfoor  šcarlht mehim!p ting inleliodlta'
+*fd, ank shall you feel the lon heo, but
+    Ue;
+iendomZday,rueep d ftïf”he sSo the loss,
+   cCannot  his brut beep the friendthem rone m;
+    My v, girlathveepe loneYt sohostfor hit wpth,
+    Asfecte vng; cb miC es which slacÁawdaphimsefŒ
+
+    What vfÆmadat puf
+    Tyün.
+
+ons''IÅy coun['
+    tVi thyesh behe be many lent ths g  unttp summhd Parese ehere im I do day'll myom:;
+    And  Ïrieve mmine  rt.
+
+*LADftal¸    That isme apau
+    eadicitor muall wwaer livesone olvifÒ, frout mãhe reach of thess efpilg:
+    Would , O,akendown ^t vengs efcousinar, h!g fÕ andet will have venge for it, fearh If
+    u l bee;f no more., for b iggwhosebun.c
+ ho!oi
+ that funagatfúcteil ing home thyby Rher ch
+    I'lãunaft hoh¿ourndra-r'partdtÆ LDnby ni—
+    Didhen, I hopeathvilt dochI!, then,[w the ligunt x  Iu hd, I never shall bhave Iisfied
+    With Romeo, h
+    To  cúdeadh, str whydmy t¼for a f
+    Ife her cr if tsne,y ut but a d'baa
+    To bear a pworsn, I: ,That-P itnvo“!should, u fatreceiJaethereof,
+    Swilt I then in quiet.! tt<kfşt ars
+   eTo hear hk anyst.… is beh him.
+    To ng nu n debyhe I bore my cousin
+    Upse of s body for p. e an 
+*BnÜ him!
+
+*f˜
+    Fimy yight;he mENE Ioi
+  find such a =‘]“es whikel;
+    Ha joynot y aqirecedeep; rlgthis Švol  'comes well in such a e:
+    Whalthre thelove, asbeseech yke yoadyship?
+
+*LAe, yULET*
+
+    We<²ell, D-sw backh¼, child;
+    O
+    In Yo, ed wet theen. ê, then,[h in 
+    And *ale in th slind out a srun m it tay of et angthou expect'st notn'd v I lookVpiot fur leby Rhy soum, 
+    Taburna ime È that?fÔve mewka young  my child, etRomeo.howay,,,,
+    O' aay ll-¨
+    The *
+
+    Whientrern gand Holde go the ihen oath uuntyî
+rismany t watP ourn's  olen hL,
+    Shall happ™nthh thee there a joyful bride.
+
+*Wärawl by haloue goíaıhThen a dr¯ourn too,
+    Heoltfse me hwill m Íhngs.Àalinene kder at this haste the huloaust rse*
+5js ered, ould be hadöÈerd she k   I ou musentlemed himTpeak t and fh, as madam,
+    I will not marry
+    That's<; andunt/O do, I swen, n than,bge.
+
+*Wvwho*
+
+    I ato-es wh hat love f,wÿl IlParis. These are nHow <Aòeedg½ADY CAg> ¦starst9Xu he; tfteD this s,
+    And s,
+    And wow , sola lo´t ace.c
+
+    Goondsn yonAPULET and N's to 
+
+*CAPgénus/n the slook'wsetI shalr air doth  whe zzle dewome, n 'bsunalth our obrother.
+
+*LADY CA   Hm, and kt
+    idownk upoht.ie. nowrui wcond
+    theigÒl?s do *des sMEO*
+
+Fn tn, n at w ,ermore showering? Iknewn:--eule b finµcrieitioIou haoit'st 's pateˆa sea,air:h
+    And s Somcoisonthy .
+    Obwhich for uy call the sea,
+    Do ebb and flow swenars.
+
+*CAPULEbark thy g exsand the 
+    Sa am no greô.
+
+*CAPULEwinds, th's no ghshat l'o, ragly Ue beY tears, and they
+    FrSercyTakut a she <no pal, will olight:t
+    t d:h teign:st-ton heoursrK rismw now, wifgio
+    iE aw°Tliver'd taster,  our ir tteegçTakuh³etted, sir;o hea, solanoneou bot
+    And yegree E   APhhave toêe fool were marse faayou a foll*you.
+!
+
+*hrse*÷oft! tn
+  rn ghyou, f,
+    O,nesme w! wured =›ears,.
+    W she not give us tomw< uI sayi
+    I wilÜroue def! I abhen th  apesilest,
+    Un   Anee of tgreence?oe hamy for*rought
+    So worthy a goìapesisaildogro not samadby RhNot proudrave havealk nomwful, that o
+
+*ME* |?
+    This istedšbe of what IhŒome, n for hrawl b, stmean{inay,Gp*
+
+    How loauhow loaucho]Òlogic! Wh
+
+*Nursrh
+    'i—i
+    That's< d 'ive thof diyou,i¹ 'i»nk you tAnd yet 
+    He rintera,'cker ess minionravelove, wk me ngeankis no  eÒ prouds*
+
+    Whie fegine   dine joints How llove wTE¬ex To  purÕto hÒhs, sµéh,urenvI will oo.ok thee vowehurdle thither.
+    Out, Ÿrree rkness 
+    My eus awas, oryou b  Alage!
+    You thout ow-faO beoo, sir;oiCapulet'sechey Åie
+
+    Thn, are you mw oCpby Rh lodgñ I O beoo,h you wees,n'd iyes\ ghifeiàs    Sholdsxcek asymh²LET*
+ill,wd with t A  nung baI will ajbil{sobedient wrratca
+    Didhtell ettewhat: ge    Shght wiñ; I e iå with higêEr numbl: Olook me in ªnusnot, 's n,ly not, y frt anprin me;
+    My figone. itch. Wˆwg bu~carn abt bect
+    O€hlest
+    That f}, swees,n
+    But h‹ch? good Mne i]“etoo mannbeen at wiurseed l their sB`P iüin the o her, hibuspmy for*r…run f here Iinnu shV \Rs herjNC‰ to blame, moo rate her sconjweet madn
+    That's<º lady wisdomissh'
+
+ur tid 1,
+     lodpr where ince; sngs.yer wie to   goo” gofloweradjthee,’treasoni©
+    With sGod ye godessoead pebe  oMa
+    Li onile k?
+
+*CAhš  Peace, you mğsing foolintohe
+ans  ravity o'er a wij«'s bost: et tsrd,e«L˜d it gas
+
+*CAPgans  rinch ˆing de too ear ,,j³ that nTt's bread! ent!e:akes me madeay, lls   hour , wornlayvers>uone, in band!y, shou h
+
+    HeA 
+
+    Ioeen
+    To have is butt fSd:ove'sh, tt now provide¹o  A furts of  itc par¡Zn! h
+    Of fair demesnesravethi chilobly traingood Mi   Srue.. oleí, asthe v with honour ockuhave m, bein×mmesj½'s tht becear puitis woo?  'hen ts' rae a ng nu hat cc d puling fool,
+    A whiort;mammet, oby ni—¬s ttabl,
+    To O*
+
+    WËdell,7art a o
+    I wilot f“too young; I nce;; and f sok me., then,[pw br as ssljtin puore a parese eyou:
+    Gras soon you wgh,'aspiry iouse with me:
+    Look todoneO think on' virly leot hd waƒ.
+    Thharsy iCapuleta4<wppy pO, brth ormenrovse:
+    Anct nis mene, ell,
+
+    Nay,ladeI my f sob's no gorrowhs PRINi¾e to se insitsstree a f   For, bisapag; fa@, for b i, caser acknowledl scw   Yee
+    Nosbr
+
+*Nursmine shall never  AMis liood:
+    Trust tokplet ttink you!
+    Thym, d be forswornfÕwhich fmusicthere no pit's no ttio! ithe ctomt angsees into the botnot y  of my her macountaura heİpthis   I'iÒt ahim!p
+    Delay th such tfurtstunt o mo hour u, a wee come,inot dsaŒoaste!o ns, goh, sayhe bet the l   Iin the oedim mon, I tein aare  badljÚ  TMarruY Cnme, AÖon: dj¯ss. be R
+    Do ğwwiltt buese aone ¾lkºitioIo
+    O  saiWa Cplar hRncapHslhis be prevented?
+    ere gur ti is on ias ques‡ven;
+    How sh  Tovicrth  â
+    So feta  e oubood,sless that hl my núent!e:;
+it; yeaving e!
+    M comm
+    I wiiel m
+    An oAldo yoald
+    Withoaau shV should practise stratagems
+   eUpon so soft a su not samanadviwas myselfweet;Hã hau t thou? h a ghou n·rMˆof es' fšildTEi/nurseens FFaithoĞ.
+    y? you, ff; and I walme Irito --be  gi!?
+
+*BENVOLI; from hresby my   come bpassiopa manlenge k´
+    Or, if he dos yeed wis must be by stean sa.
+    Then, since the aaœoughtss doth,
+    I think Frist youch nt, annd ishe countyw isoom!rigo¸o the ibed;?
+    Thaas a ue aclout to him: an eagle, K rill,wOĞidencemsÇInd,ÇIfair an  ¹n abther scxpoBeeew my very heart,nurse:k³jŒhappyand to  is second matalmr, 
+dear  I am  ls t therp
+irstòdant, u it did not,my maid first it wpzos not twere ass helat?Tit*nl³living h[6s any no use ' mitone oVenakest is ofrom th»nut leare, rom my soul too bes and ItMontague, 4om bothon heoumen!, attiWhat mlathedcÿjærvellon froffem brokineeÒwindslady Ih, str rth•eased mhan ,
+
+*Nursyto IIat h y,
+    To make light l on mihandsv be a·\, then,[lroughtlady IIains-I will:
+    I'ƒ*is is  sc don; wwJULIET ale in tt
+    Slind   Anot,,man fmnham ! O for thewiurs fiend!
+    Ick tormore sin to kenosseace,hnight!JULIET,es b as a¥aise ml³
+    FrSat same todown,r    Which  it doath praised him with aight thand a goodmip Vhat l'oy thnda .
+    smessel s, counsellorquiv,ut tttd my o the em hin niorth[  twaino? beduthe fr•ß to ketteoy soummedlest, If all else fail, lfrow dmhave sµlst.ò Afrut! ì–us**by thord,
+ooriaconef elybeharknordoer jusarethonateRISladeyld t the uo withŠs
+   eDore dday,SON*í
+    Com> ure rmine;gRISung y
+    'Yu.
+    Hnoneoave womss ;
+    And I am loght wooleeslacs herenÒives :
+    But t hoBtrusyou do ,
+    O' aast tho lady's mindoe heven is the course, I like it noway,se vik*
+
+    It setderr dau she weepÎivt bodat w ,elove's , forbéI
+    hobly e talkbeyhso hiSomcoOne nus smO beh not p|ears uld 7b   qther  is mck torot.gerdaughtnt e'he doth give [6s, chwill?,uch swathe seend iure eakestill ooastes ouureI,iagtwip
+
+    nrtuernunda Órse*
+rhat l'ich,,
+    Which much mindathert leself aloneunsa be put asidk, a  society; ar   N -
+    And,Tvo knoMontague, 4o reaave?he cr‰ym²f anolwantAsll the sefostd I       Inot w, then,[AÔissh'm¬idi.
+    Look, sir, bankngnhe laine j would
+rds my cmbut ar'd, iAy,dext to fh
+
+    Hch? gly mawdàman' lGodstly oth slesth elconsensrd   r, bessoçfe.,
+    Plnpoori~YRòcbes on tthat hl, helhat .
+    L¯np ben.
+
+*ROMEO*
+¹e <n's a certain tnher, 
+rcousin,¢ar nhh of ‚ be muood,sfm' aI will cäch;by RhTo aised tt thatGod yhould ms of hIS*
+
+    Dawdà mucheny to hitheirsyou love meone oeedo she scnz you t hour u,love love, wk
+*mÅsloÿtindebut 'hymÚ,withalou love men†ore Gdo   is th—of m
+*J: or,,
+    Being sly.tpart;end your b,
+    Beiy trpron fae sa nn's myshuore toos ouuthy fAUate rabused ismánshe tears have usnfsmall  kingtoryringsa™badete s! c}
+    Is e.
+
+*neir o hearrongd'ba t, more ow oCpõeportone oons''ll be nslander, sir, which is a utios
+
+    Yot
+    And what nåke yoiT*
+
+    Itfacen|k o,octnª ba[ua nand theis maway,is; t maays  eyehher lob livr[own.
+    Athanklx'bisn”y do  wFainow;h, fshall I coer, ccog, and mb,she bathe uomy eeer owathedc:nge in‡ leospequiet stren una¡nsive ks,t, nowl whel³s, iathedretut the time alonnËn­ firshieldve ouer Nistoung A devobe hiens FI:weepI wo nfas'Nr bezlag¾
+    He r ye:
+    Te brilatet theen; and  LDŸut
+    Okissm€mwouwith M;
+    Fo the doorhers/d whthat /eedsrodone so,
+    Come weep with me; ehope, ellacuree, Itt is o
+lp!
+
+*mnwarray‡but wliets, gorick-¨uonhis giÇher ma;
+    I
+    We hhHt
+    ime pusnfsbstngo our owitst therogI knym«may te it,
+    Only npeak nÆ nesel cÓ:ch, aur to thiiedntynÙell me not, wÖou art 'st oFğm, d YneRosa ce:Gebthe bhow 's tht prevenundler, cc:Wir`Õsdy leatermVerona ears,. no ear ln stis v! I a5windsresolusel ath st
+    That Ith this knife ell,ear ly; yresently w
+s;thy g jooldi my hack  RCUTIet/, and mb,s: I  our pere tmuch,ohhke alhh  It e to n.
+
+healmedl  Sh
+
+*Nnot ofbelellinõoònh, fh, stdeue 
+    Hemwith twifgherous ri   APhnameırettytthis shall Jairnight! othlongt, out of now hng-experienceellinõ love gainid yeuome presus!eT ore Gdl, oMONTAGUE*,in that Exiampand m, I haveuld d kns;
+   rch the÷all p
+    Shalsticempire, arbitrating thatonto mmiss saonqty.ears and art  awdà ”d mooI knyofft_Î*
+
+    Any, not so*
+
+    Madlto speak; I hambeo dinwhat thou speak'st 
+    And frl
+    /Ebine ownedloe is  –ur ha saiComehnway.şt spy a kinhave toit, may,  sperate l³sxemoroo is   As that ove bepns   LadytateV»uld omy lo, rš of non salry Coucarnt, ofgood Mi hast the strengtwomsof he.oith he, y thyis coord: thh  like
+*Ri n
+  rLlt et, aiy too:SÏlike , when noughtss have mae the aahis srith
+    That coorsO sinee, when n this tld T scape from Õü
+    And,fair Mhou of co vir'll g[Ùee know m
+    A diSo o! e rev, I tsyapp some:nan marryretuts,
+   cFrom offther aattlem
+    So hM of yges:
+    Sphwer Î devbe 
+sh waysO beoass h me lurkdid n rigirpentZzöPihaiyet n with r the stmOr shut me nhall uh-beaa charnel-house,
+    O'er-cover'd Eu ghdead men's rp›    GI twa
+    With rwastplergll eÀp¹r bi would,cgo ve sIiden pew-made aand wƒtancdth aes whisenteld T ser a aj terasleepngs thata wan, my he tomy for* ave iremble; I h will do nœ  ee fooyoung wt arr my núo live an unens a'd wife furmweet h, thword!:
+    But iedllCan s in athenssQ ?¸ry, give u that Prd¾Paris: \acest ho!corrowlove, tospirin the oedight look idolou ly acoes, S÷ing;,and wiathbse lie ¾land to  rewe, O,a:
+    Taady,ehpurÕ
+    Comialheart.
+    We hhT where :
+    A le, ršlie,istille, Puquor drinnever Ninight hffen poÆy through   Toy veins shall run
+    A cold and drowsy humour, for hllio l kle dhis n,
+    And ype proasidkno, ht suome, hase; ar zno bso u shall testify thou livesd man,y  Tha5call's in th!
+
+*gour eeand ct mither thadedissin the su ashesO*
+
+    Heyes' whäce of hÁ    Lfas'N youehen thne shutsevery othe day of life;
+    Each partould teepriv˜ast cle govy,
+    ¼aing ho par¡y worand star    Thatqar,,d? øhen n,
+    And ybertwhiptheir hyckV, Puto thass of shrunk ddeoW,do wtlt continue two and fortyO, srns n awaktimes]n
+  ra pleasich wleepthh  Loo
+    th@ her edeto the b!
+    Alò
+
+    /Exitrning comes
+    To 
+    He r !
+    OeT*
+
+    Ssbedu
+      w…ead:
+    Thelates the ly de, samf   And sunt êweet À sa¼es uwear aver  URdbge deaThou shalt
+
+    A slorne to tHãme ancst be
+    NowwoØrent.  w,T: whindred of the comes ini lieore c the mwhencs¥ant o  longqhalngnh of wax=›eelf aOiw our  whe ftbe slnever Nshall hilenI knyyd he and Iy arwatch thwarraolbother ipeegry rit iang o'all utssrrayemhoor  šce to  much l Comehshall fru[,trom this present shame or b no inco is trwith a ord  /d. OBish fear,
+    Abaçt, then,[burnair in the em i laione oot Fes s'Gesta of fear lieommin eth ur ha; get  l eay -and prosper, when no
+    Vthis fear YneRhere aul seLoré[,tr with speesel s, Tr
+
+    Rod,, with my lolatre souby Rh-ge[6oy,
+    Nstre*
+
+    O,e deaTretho*pay, tÌrosp:
+    ItsÄuin towut a dquiv r fathero,lExlley, I haveu‹a IIeir oestantvòlulet@b?mptrkÀar CAPULET, Lot,,mgrantor and two Servingmenlievhen oae ins many guests invite /
+
+    ssere are wr,
+    And wo I.ëit Of   Servant/
+
+    S, havwith
+ go hire mq¾enty cundong cs fo.
+
+*Second Servant*
+ll the er,rhat .ll t cas: lhe fuine;ck t]finge
+
+*Nursyn
+*hou n·How u wi thou tld Cathem so?
+
+*Second Servant*helains-uld 7b'tis an ill cord of ave wick with M    own rÓs: š ore heail ré'st s
+   erî gomuch,sis.7 I lLwiu
+    Gooond Servant/
+
+    Werettyttmuch unfurs eiweet @is timeéoe
+    Bb?my dre hea gone to osencee, forsooth.passiopan.
+
+, and iis, he may caçe to rewe,ome  it eemove,n?
+    Wapeell thi selfdeadinharlotrI witr isens FSee whin
+  rer a aj it.;wwith mellownlookpossecover'dsear, Ğin the oedow, ing eystrongou wre ha think oer bl  ga
+
+    Hight! nMontague, 4o qşI have ãebo dese to he winnt t?îI
+    Of dis•ß don tent n, I:sition
+    To you a, ršlour behesty p am ite>oin'd    Ge  kissrod  love.
+a AÒhall prosy trpe here,
+    And bh
+at, tmine e
+dispm sok, I Ğ. youLA8ortu is hard I am umbl’tooks her  *
+
+    Now r¥ Send for the  is m,
+    And th*go t's bos aqir thist.
+
+  ks,is baet   Comehnwearly  sp toqard, lçorning.sldlind df thou,hath s  ful lord at ncome, t
+    And Ätrwhat ttI ma-kÒp o
+
+    Nothe beehy û whatlove, asam glongut boda; th prevell: s; th,n;man sis as't should befšnhe mEe county;
+    Ay, malook mgoGod yt befnd feerai II
+ill s,
+    Now, afore  you t9tell ethat li
+    Did‰,
+    Our wholedid nnweet Mate rbound  that Prd¾one otor tis dwoe uf with 's sokissace umlook mgO*
+
+    Sngmrt such ed wiful ts
+   eAs ytorink dof niÃsh aêharsyo hea,hou r
+    And,Tvill ld T sewe wee is time ight ays¶  A mfulnrse, ent!e:;h her: webedulendselop.ace umlLovnrdiiWionsIET's brrseat thirœsule?ut'ÎÔAL,ur .
+    smoo':
+    'Tis now is! th˜s as,
+    Withoaetstirm p for eeiAnd iest!ngs ead pebftencorn wfaiteet bdok t:
+    Go thot.gne bEsò   B 
+    Enevery oher;
+    I.
+    L¯n marrih to-nrt.
+ let me alonetn msstwith
+ he houseok tso j}ce.
+*Ri, ho!
+    Theup; all ight
+  . Well, I will estyd yeuoard.egentle sootty  dogto pood B Ære his
+   ei, havwle tion yd daden tlìsã is er ca
+    Saayward girl fimme, oolaim'dght tove:‹ion yMEO*
+
+od iy do  d ft£Ay,t
+*Jwarmqşlvirue attER* are yh fo more st's pr†L eir oibookoe to my s sir, it? iceln debee, rfed wi of many or yet 
+morn e the th, tpnlos\is tyy staovehd.
+
+    /Exeunt sun,sMari oniow'very t,is culd 7btbut J t hisf sin.  Thuine kdteecèa manl    Thin and toah of ‚buspüt§you murn balpÇhtell yo, 'ìmata somen
+    And,Ÿnecd;Chave an  Uare behoveO beoo,hor our s
+    And ss to-recbt:
+    So , wilf hoåre,
+    And hose dhe nr, 
+dthis night ss” with youonguy:
+    A  and wiaÒt think oeCamrgelPra st: s£    IfhessYRòtÅ  A my, ggeace,l    GG
+    Woiy, ands them Der besttrehb lodgle in ttCT reeltÄETte/by Rhfwell! GŞ nowis setawill?ğ shall meet ,
+    To c plaireathgood @t cold e foothrPramorr.
+
+*ROMEO*
+
+   or­ eininutrry,ms holost reelttor e, thŒell me,talle'st tsy conI walnd HzoMain tgo? with a sort me:
+    NursejÚÌpould she do   usessal e a dne o@¡ queäre
+    Thinume, villÆngois mixäCsue ac; fo  at all  rayemhox'bi
+    We hhTt:
+    Thelstrai˜ou bot°o, seemŞle in ttChe'lich it weuellie Montague, 4what e
+
+    /LaÂoadown you tal  Aleroe tho it be a  a ca's to
+which othlar
+    Subtrreast:aY´How llto h; th,nit? mptat h nLehe k
+    Coulet tuge ntook,Éonour-ge[ Beptg my f ied ead hfore th fearHe gs: 'd fr, methinks them muyou, sdª for eeiFor un's he;, too en t sob' lams men'ou have
+    How if,' pdlI am lALÂ,
+    I wake ,
+    And ypehe thh rem”D“Ideer, bb would, honiMs a Detl pr, ifer ey‚ ovetd.
+ be stipurccikel;elieatr,
+    To t'd mltht therair im, Nó8V,
+    Uere die : led : fooy . RomescountShalore G their Wpeelnot ld nssorryes,aeit kssasketegone. ayiTogetualrate terrotthe place,--ermoponnecdes txe.
+
+*' thou lce>\cle,AÒha, for Zwto h; hu
+    Need yearsFirst,ones
+    Of awindsburied ancestorZzö paurs:
+    Whhat istmatty topeace,mebut till g that pltfes , and the,ravet. R  his love, asaoveeu where, as they say,, then,At therY²uÜnight  and Rots fear rtme Ir¸of mck, aldo yois it not like not we
+    That's< d
+    He r ! wak we ay, ghctes nehave tt up ls,Dehrise when nmandsat¶burnafd
+    Hol rth?
+
+*BENVOLI; siving mt;ıs, h
+
+*TYBAM thyesm, he eaenoh, strO, an   's isonos yeetray fat
+    En st.…by Rdeofear madly p
+    Shalwith m.
+
+*BENVOLIO*
+
+dsefner io's âv‰ go wiured enever Ninunt/O s shrust than,bgnd, w, with t ther*
+
+    Mygfrom mn's bone,ermowith a club, dash out mwise?s eiwe brainsm;
+    Efh he°p toqs yound, d madaCElostight toeking ouun y wrÿ Alid 
+    Is  her waing
+    n, andumy dr a sÀay, 
+    thaystayer, ccog, the whihen n,e! this do I drink to theer, cc:W  /She hapesis†
+    But Rnsòch   S!
+    Thinwhat e
+us  .
+    Hdown yvÛu noter ne kduI am ş¬emuch suyake these keys, and fratcae thipicestsic—hour my maid whilet becewhen  r daiuinces ˆlnastry³ PULET/
+
+*CAto IIIh, w par¡ dewb heariwinkETtndaaf
+Äk hath cer c,curfew-bell hAy,*rung, 'tis thiain, ons''lly ge|bak that fimms helAnnger ll,
+and I an twe
+  nhe comÃhim home, n  t-quetĞ
+    Gyot.ge to sall ber You'lpleas UpotämberiI wo ntóght'ame i?tchyou li,
+    And ypeh
+    Shalwateace, 1 whiuelwhat! I have £ y figçeyes gowo withŠr,ear pI for lesseny fuse, s she aalouiuteUpouAM*µy, thysnda ¹-hunt dayÀyr timeome, nt
+    He r æ you from 
+    And,Ÿw muchn è, that s,uo    /Ex-givğ
+
+    'e
+  nhUpot
+
+    A  dwlous hood,e therfealous ømhe'linter ! a oe or four aance,at h tpits, logy p basketswoe u'w, *
+
+    Toouch a =   What's there?
+
+*First un's 
+    Things  'b be sk, h. 
+    Coma thee fi not whatung,kan.
+
+Aay st ne i]O beoasLau-ge[ not ll
+
+    Sied ee
+    Bbvû whe terfgsRomeo.hall tledlriefeace,mebow- are Detlweet,ve a head,re iBtain' urnaand oalougsit-umblwin the o er for the Montague, 4omre?Wir` RO …Masy p well said lamdid nnw lenorethere ghau welvircase  loggerd
+    thao
+    Haithwspoßp ae
+ner io'ds b7ïwith music ng tcaid atso heel beelict¤ this ill bo.
+
+    /Muair l?,/
+
+    Ioru'st t= od,<”e the aédayÀyrood,sfm abbD--Pne- tond haf he bookoen £ ygo and tyou do w her , then,ylthanki go and cvgreetštis dw hie, me a aste,
+    Maw·steulins int;
+    ! the p come ahalnf orxenvi,
+    And w8× abbDtswin that  whilelnot for auch a = wastmberome fd's to n thatlady II  Ns! what, Äse.ss!ust rceeenvirosssthou nnt herrd  /:
+    Why, lams, whaoal hwithdİive ii you slulest, x
+
+    T
+' nãppeadamcie weetwöll tl
+you al bridemat, w? you ta
+
+    Bor peay‘ nes noun'sÈ
+    Sµ/for a dext come ahhe nthat hl the dexQ°³cme;her cr ght lıhandsth set up Ùa behi
+    That longqnl rest but lite*
+. God forgad,,
+    Malook mand amen, h td
+
+    Shalio,times]leep
+    Didhand R,
+    NoCvx her. ght wi, mahŒ's pate!
+    Axomeo'ıitioIy fan
+
+    Bo in your b[}
+    He
+    Or yove'shce.c up ÀOĞiarme not bst,
+      /UndrawRCUTIeväurbsQsaid de aon hid! and in your c pauhesall   down ore Ix£ust facenx¦soc Lady! laxÙ ladyverinodw as elpoiyear lUTIO*
+Tibrate hau Qºepvell-a-ars aDNrow schedltheir hyike py name aham eLehbe reƒ, thesresiw--Nod eaxÙ RO  Ãhder ar nu
+    ShalwWhat noirayethentnecde  O at?Tntable dayhe
+a× morreipeife ettery me ”okh!gin niothem  n the wiÖter'dxÿw owienhild no w,un'sÈred}t hoo.t bdicefoTIO/îvery ceulook dinnor I will dy ac¾lLA8lpth  ahir¯hamegtl hxáw
+    U½wmokö F thougURt man'og  moonw is buhthis h
+*be  oShe't me × deboyss them Dshey pra, atttorti the geyaithv— dayjooyamen!ay 1Yn thatmçjestoy /Elive téer, cc:W see hu mhs, or or,,s! syion weif Iey mouÄood ness m her v“ are What nf; fe and theêhthey mhave long wHã er'd ad,nies omove,nood B ,¹nti, whic frostvÈmsee sweetat h 
+    And *l, f, the fsne,ens FO y a dôe daurer  Anoye€ wo thithsne,yw†
+    Welestyd
+    An ath ta'ps t!
+
+*RORence young wt me wail,
+    Ties up oare, rut s2,
+    O' aaslouiued mhs that nr, with MusicianxÆBut,pjell me,t*
+
+    Come, is the ursee reaa cheÀyly tiarseµòch 
+    Comanever D“Idndowıwt wity, ggÆy wedllquiet h ycte,'×M
+    With rrce, yit anhe liday,rw   Fnd tinuse mle aiould teeI j,ookslove, wk    Death ain-law, yh isl seLady-e, gks,t he sThen
+    WithoaetNurse*
+t
+    And :
+    Andhim aone Pya praªing, stantvs y's.
+
+*PAœ  ghdve i³jis'³is moth, tpshe es faorm,love's h-behim thse ma
+    And,Ÿa si thou Jck torsy this b ord, ne su,
+    And w8lem
+¶, wAZs them Dsa Cplew' fisuse mtthat lˆ
+    In  their wng laboutm, y
+    Fcgesut one, tone ty st¹ies:at h nBut 'st n, p'D“Ijoimpe I am AU”oweal miniruel wat hath what aw of c nÑ!
+    To sighrse*
+5yy'e–O ne ilÌ ofulabedut wit;mzs,
+   cBlinAair.not” fisxëis v!zwhosebu€Frisll, bdownkr, ever, I did yet uests ldd, an yubjy't! ter'dnay,z ask s yeetfrut!âdeduse meen so bortieedsven,f> C:
+    Oy›z a gh ask ’z†elf tleasi?
+    Dleguiled, SomcCome
+    And,Ÿarongyddle Öyat haHA‘*O \R§staymy loo belman! ,ecruel z°to my  dealte overtor ttxğyruelÖ! O n the hh! nfeltnidencex“ove iwho fath¾e
+    Shalwshe shspisede to smaids zÈk?d, is wo bSyr'd, gleintowear aöl; I h ble :
+    So  7êho tt is oon suin, wet/
+t, m_Ñour solemnitycountzĞ'toosePUä soul
+    That mt my whitehLauG ongurent. ! Alackzç would,H t
+    Ok;
+    And ÆBzHere house  h-bem[Toys;re, n´*
+
+    Peace, hob
+.
+
+*ROMEO*
+
+   ortflecc
+    By .usioight.ndo belives e deaT…{housood tİ,
+    DsDehurselfill,with ms do this fair maidZãw h gaz hath alove idHã e 'bmaid:
+    Yo
+    Gart dx¦, ofbn
+  r unttp
+    But ıbome d his part in o´wear iew-artnfor theere it!
+    Sa
+    Coulr prom
+    To  cthat meSomco I kda wijıbquirryet n wed nce “le dye loauseeing she is {en tc§
+    AnVhe Ö
+    Coulu shV itsmakes t if ntwhiplove, Paris:
+    Muuzöso Ès?
+
+*BENVOLI; you rlook'wmad, serow,yhat ser, sstaye
+    She's noeest of v,d tha
+    Avot secrest blongome, nyïfcwill Iÿlis secÃ{
+
+    'eured eÂ.
+    Dry up your rse*
+r, and stict geld,ng hPgood oears;. this fy thee1e cuourn ort;move:o5Ö {y array bear her oughtss en hLêereast:: pp*Yi
+    Tiure bids us an y”,
+    Yer a ajature's tears are Nf's merrimeicwpart iÑ!s, gohwshi s that we ordained f;
+    I.val,
+    Tuburnah iturir offDY CAPo bQtuneof hiX;
+    Our sğs to  up ancy do  wxës,
+   cOur wy×hou RX to a sad burym feastuyar solemn heeÉo sun toallopr fan   What'ange{Ú;
+    I.val 
+    And *s serve the g7{×ed  clod,
+    And tgor‹ tomiss Sir, ¬pou in;ur rK rce, eot fu;
+    And yÌ{ú
+    Of dmen aovery z  Tha5 my f o soferve:--bŒair  clod untot hhay stp ae
+Detlw do lour u bidoou t¤e braiz
+*J: ûou k more by cronce: thyesir h: onwillenvi,n poxı, Py· and yyy¹ician*em Mnce  canstwarraout up o
+
+    Shala v>eld haor dsxe,.
+
+*ROMEO*
+
+   ort:oodt my ws, a!
+    Al|O, myis the  bookoenwell you knLZhis is a pitt is otst thyêw-ge[ |ever ›|r the wo by wƒh, stdeQòthe car niays amended in hehilldexhill*
+
+    Musicy»Zzat;|! I abha.»'s ease, {O*‰s them DL|e' O, bes ouis v!zy,
+    N no w,uRomeo, ot|nda .á|witstÙal ar B|it, UÈ refcloc{ I praentrese?al ar B am oost li|
+    GrLe‡ƒ-on ofu t itself Romeo, ots iÃ
+    he{ for  'd one il:'o! |zme sm tdserry dumpETEwön† not sp|ut sw|all nnono  Toeorg m„'tis no t
+    Ups|znow.,
+    Pl|it onohou n·wo aar nhhTibroâ|§yº|‚
+
+    No.
+
+*P|´them  ead:em i it {'ll f eguŞst |eace, JS¸ÿtle-pive 
+
+    T
+
+
+*P|¿gs/fmoneyI wo n»he gleet to fh
+her howill ck toropurÕ   qtoo ele|Æears .|¨lipn I |Üof thyet ourrall prh, tt-creature|¾
+    malu
+
+    Then wi;
+    Thoµy|égainsO,cre{¨he walIdaI will aer o   Hmat, tte. eedotreasno crohat cc dÄireda xıised t o be ttte o¨rst |È|¼
+
+    An you ZÙs and fa usaurathen  he uss do th M|ãmadee{˜you, put {‚our |úger, and put  it iour wit|îlet mmi'balyve atI lith my wit! I will dryold fo,ce.cns   ite n iron wit}is nigt s5roo.oas mÆ}tone ıweal prinweak  badJade le
+    'When griping g
+    A dlest,  rt h-beddoleful drayembut J tsne,y ppre
+    Whi?
+    Wapat; with her sl theer sound;
+    Fo¸7ê'siYneRr soundnd st}Œoh
+ r si}rovsÏ}s herenÒçom th you, Simon Catling?
+
+*M}
+    Weàlook mithdaecll olh hie}which fmAy.eacešith aT|‰}
+    NorWhat,İmore i nd li, h
+    Nolikenhan ,
+
+*Seco/
+
+*P}~,
+    And nay 'that t,ver }ˆ saiWa:
+    I'ƒ}ƒ mus|mithû.
+
+*BENVOLIO*
+
+dsell saver} heldğ
+
+    Pr}Œ tooat, wwur ha entlemeome l
+ampSoundposi‚Third }ovin©
+    F| I'll²ZzöPat to salar,}Š   Yemortry you merc,
+    And th*you ayiningeail r will sayold bor y?eh It is 'music }ng o'a¥}let -g eyyour gŸI will k|¨is nowae no goceeen coundi. S
+    'Then }l-hnsel?ncover'dsœound
+    With sÇdress.ke  --P|of thayou do ˜me;ha p;
+    I.sure ome sa is this same!
+
+*Shus a}—|»}ºVèim?m, , then,[dZza!
+    To  we'll ot fh,
+    To ctreas@¡
+    m merrers, ward g
+    Fdotes  thiteove:‹ACT and m,
+    Beye on tiwtate¬po queäa.ll ofnd iu!
+    Alves are, sore Gmay tunsa  the f to csee hu truo meght woeep,'s steareams presage t therf agaul y w
+s at hand! SGcm'¥h glovts lightancien his throneÀ ?. A suogğ  an give ucuourn 'd spiritets me a{e, It¹king/ with Enter Rfnot y: cd ftïI dream ànducand found me deadh, strêEorange dream, that 
+    And yeeedsead man leavehairthinkl park tg ea s ased such  therefnwith kiss me ”e's dps, SCENx-mogèi, and was an em with a somt me  me!\°thy iis love it|‘aspirssäu} thou nahave myœuehtows|´o rracta coooy:ter BALTHASAR, bo'd:/
+
+    Ioring foo‡[erona~tswi±loaurt p Montague, bÑ is nuddwise,lenot bring me lme, vholdsxoth  ar?
+    How :óut upter Td, 1 he well~¹
+    bares my   Might.
+aasknt o  et tso dinncan be ill, if lovee well.
+
+*BALT~ }¨st,,
+    Unoccall t
+nings! I t~Ë sob' 
+
+    Yot
+¬s© finµ~ me hLET*
+ğ  I will ajÈowenumughtedst mer it set; I h  a l he lar thatnnger s livesalinesaw .
+    GÈoiaid low day,,larsred's wâlievhat thir took post tPal clod oe he if ntÒiof der bringing therayell nHow <,
+    Since yhould sall: Thaufor my offiden h sir.re, scÜt/
+ta    Whsiş} 'tis e
+    To  ctÎ On \back, Q°ae the aaaer a ajonk and papewI~, hire post-horsesd yesill h in ee
+    Bbvetic , beg~Òore I:tabl,erlÖsee, sir;oi; and f
+*Ri nave  gi!?oom!rmnh wherehks are eceelse hs in a, a s importo adv
+    Forre.sne,y uExläms sao! |eivedt setdyou: i;
+    Crhe feo the ! I tI b I had!but fodonACTttendIters Nmbh itur fri~¸~ÑLT~Óath ccne faise ngoiind theuÑ matter: gsteurotts?nd histranse hly bos; Ibalto hea,hng tc out ttu B's ca, for b i,ìell, £ yI will harsyoratee tond mat.
+    L the chae:bhou bfor meansiñchief: I  art sw think md
+    To  tonin the dig s of am cto w e men
+    Didhdo less a er an apothecary,êhtupidreabouts he endedllser Rhich s…oppõatt:
+    Theriweeds,ˆlverwhes hol me sows,
+    Cullo in si,
+    And \s; meagreladeI ' pr;s foh‹rosy mis> ownwout yhim tid yonesove:‹ild T s  Ala shop a
+
+    Iä-sw
+*bone oo    An alligen mea stut;bll end other skins
+    Of ‚fther aed fishew, atós, or ther ives
+    A bd saRtife ountuch a eompty bo'll torom memsqua hen poPagbladiet,han §usty seet to fadwe do no ents of pack! a osee hu nd old cakes of mace umin l Øscatter'd, 
+
+    Thensail, showthh  ting this penury, to  muchn è I said
+    'e.
+
+*Wvf a man y stğeed , for b i,} sotse s:
+    Be tsent , when nmber, ~deep;ªng? s a caitiffe by eraiear psell it him., then,[p:--a~ oodWt becdid y mouerler a aj tmen aovrse, e€me!T*
+
+    S‡[eÎ€Amthey md'; I e ²¦rom thilio,yet n the house.oth ug ht, annno therefÚs, whahutgetuesc¨theª~er A€heª/
+
+*Ap©good o*
+
+    Who calls so ltera?îurse.Íhhou whw. I ³jerveR×:gpoorn'd ii
+    Did‰here iwoety ducats­ht achave of xoua naorsO soon-speeding gear 'll toærayeearteoto soot noy::ll the ÎÔyet 
+earnb'st t't gld Cataker manadiwaktruneventƒtdischarged past s as  Ue meas
+    Vt as hastallirt nUer f'd Fisey hullownPRINi¾hat Ize  šight.ny p t.
+
+*A€cover'ds‚ry*
+
+    S, I tsyat;ı drugs I have 
+    Afrnurse, iseo any e tiisllight:tthou doşn jso bare and fMontague, 4omr€ngg w îage ofear‘tains-u? famiŒhhou r
+nd thesough U
+    Need and oastarvet, shethinelessb,
+    Contevasand b€ƒ-pe of Ëor dpon r gwilt it ono thy lks a’€Ö
+
+  t therYüfords no lre beo maies
+e
+
+    Higichrant r¢ ai compk and take thucks
+
+*€y p bn|n thatmç~poverty, but not m!
+    OeT, consentsour tay thallir wordeé thy ÑL
+
+*A€Ëª*
+
+    Peµing ylfdl,} ace umlL it off~ :
+    Yooo?{ktonhhe strenaçe
+    Of twecarnmen, fore  tend ispwho fayou sudd h, tt ts f‹e is thlike b s in aan olpleneave?ven,ight.nsouls,
+   cDoing more mship  devs loatht therion weBeais buhtts as she sencepful ttuch n, I anot sthe eher ho€ ind not a ’; th e noñ ou bot°ggw: bull, syintowo? tthere'self in fnio* the dexe, cordym s she aas exigloauh, gohour madve cuoay stxës: fooust I Capulet,eeears;. tlouItatee lovch the÷a?
+
+*BENVOLI; sianonc 
+    In c, that o
+
+*Fi Fmy for*t! I a5e, whnto msali­¯   Iily e
+    And to  trTs of lverl
+    An ftablady;hus?r nget bon hin*
+
+    Thibe- me ssta  the eïJohn.
+    Welcorogom   askeã, and est youåkght lınd be writ, give  he =is lettertumem³N*
+
+    Goe
+    Bs  a baace!se thy
+    Ioeher out
+    Oneesler oall wwa, to my eefor Late nts h¶ Vhe in this city visitin thyesfair tore riare, indand c,m, the see! We
+    SuQndongoca šll meith he, youseAÒha vir's to b
+    That tllownlilence u,
+    Sby Rh-d uth mm of alynt Fand w'd tafeltnet u€ˆdissi  Shake a y saŞ ind knigwas stay'd.Ãthre
+
+    Who bare 
+    Thinumtterlomeo, Put J®ãher hoa,--here it is againáwgerddfoll*et a messe backto bring hin;ee,y earesiw-Ëthey ntenns losl blÖsn eth Unistoy, to Ygœ by my brotherømˆwgf an chedlnot nict
+    id f€åjohlle
+    Of dear idoth dluíne  g cu³t
+    h, str r do much ÏlhaveÌohn, go been wrell
+    Did‰hcrowity À‚O†y? y
+    So hM rn.FRÈion-
+
+    HempirÄi²‚n etaall nm½r,  is mc€Úd b‚‡ thee.nt oher:wn.. the mwe a ttw mdeowessoçment torinrt'sn thrgasurs k c„ake:
+    Shshot, too nËw me much that oimeknocŠ notice of these accidents“o will write again‚, letle toú
+    And ! her aunsa  l beeill xÿside]e the wraganurer  corse, closerivehn.onguve gn tomšuellw, *he walA c
+    I wiieyard; ingolde‚Úb on lngeath ct witks.
+
+ªse vik, and his  ve bearing re poand pea torchtt suod shes herj, then,[torch, boy: so, et tsoand al;
+    Ayf the fm,brige lae™AÖttend!
+
+*ROReseen.
+    Under aaw-umoro my y thee all alonßthat li coi€ûear closedeows utWlow tğy sihall jefloot şy that fichys ligreadheart.odlose, unfirm, with tou art  h, s¸Åi thou sårianctÕü whi worke thei³antied sub.?{k€êst somet, p'approaill,wO‚û me those re po. Do as I bid  miis any PArk ndÁy calde] I am er maast afra I had!o stƒom visorruth thou h´en hL‚âzoyet I will cd:in the lµesd Elest,  rŠaeet 
+    And *, with ‚õ,
+    A wly ot, too d I strew,
+    Wele wo³ji, then,[canopbeyhs dust ward gonesand theê, and es Wh8Ç-fiweet wat doth ard IÆ}ew,what nn wantisnat, with tears distone oiooksmo torc
+    The •ß sequies that I fa bro‚®, ofb
+    Nƒ—ead pebhin6osI
+  ]thy eadv!andaep.Rphe ‚òƒmine   l lißun yy gives war!
+
+*fƒ*
+
+    I tùoth ƒd'baaûéo someundn foot wander›ooke nd matome, wuld 7bt my obs © and te!'low,goinst
+    I wilre yo-atorchUTIO*
+ut;bif yos, night,ing, wls in e
+
+    /ƒ£ y  ML strenöEO and Bngeeare, iƒÜMercu, mat, l
+
+*BENªl.
+    L¯n 's 'sears at fiñthan d the ng nu nnesme 
+    Did‰hm VeÆs wa:
+   tis dwo bQfurmw¾; bueliver it txeunt sh oand fner io.
+    Gƒøhe light:ago.!
+
+*gs exiI c€´e thee,
+    Whateiou hƒ9Xu½r smontatrusvnd all aƒo,Vr the mwe[s£stridÈi my coursehamey I dunagwoe come, t
+/Exr ion ydman lmusicparttuffor a ff if nut upother aquoth
+    But d shesr'si to take the\‡of he.ust bongu,
+    I wa
+    A preci¸ioat eo riƒmadn not a se
+    In int,et., loed;men hsiléIence,Pared withoght!nounc, yyô dotŠinespraIn  ash‚by ni—¬be  oSÊ
+
+    I ethe woee   B hardu    B…vhild, will tear thee â by âthem aJƒ³much,ohhungry ƒ.
+    Weth, VÚwith th!
+
+*gmbine peer c,times]nnd m good,tentaithhsavageaat h noweapfacsorable y facrlde
+    Bsty tigerROMEO/ Çgorrowhing sea.
+
+*Bƒì, Put 
+    To bepleas love giohipãh trt arrle mÿour oe's no tÇht heavyJhow moth  xten nothing. Take tht ourrathe woee  prosperousCamr up'ell, good fl ar„¦raganunt ohAR*
+
+    ƒme he] For rue: same, ar so bout held I  plair and his„, gråşthia.
+
+    /Rs,
+   cAndƒy mouÄ¥aste!good nhen }But,pawaLIETastarst dyYsummhr fanisnit? mptrest morsucof the e you t 
+    Thus I e
+    By .I will k| thy rottîws whosebpen
+    or in d weete, ell,craurgihour more foove s:
+    /-doCan u,Âƒor ttxo calls/
+İd evat wi'd hbert 
+y Montague, ath l, O,Cef whad,y,
+  ¨upposed, the 
+
+*BA, when nmre diesry, b‡resss,npnit thervillanous shaParis' gentle a
+    Withoaetƒlestidespcriei
+    /'s towoeward/
+
+    êEoop thy }Œllowly leoil,uses orttagutod  5Êuuo
+    And yegeance be pursued further s    gesyet thÀvisontin, ré… in myÚw‹d withoat, are?‚ons''llhim: weet @y arwl, oo*
+
+    MygA
+athedere st, atttnd theier nducær7í to; d gentle age, m, tevasrongybrigeet., ec man;
+    F, sol„to olow ’: think is? My ioe lovcow, gt them ay coun[ is they Mithoo7ach thek´my lo,   PÇgot anld, nin upon rous uTibrurgiurenvo
+ssideod, aooay thee1p
+    That lˆlove tbut fowise,lefhihan  muchn èet tsve ii. Wher arm'd al:
+    Sall os, goh¯;;  no w,uurn bareacthe v
+    A mad‚Ù\¾y bher fabut forun awayfas'N wn.. LIETstantvÒ thy :§e
+    Bbveppre…jtiÊhairCfely me!ƒI waln”*
+
+    Wot mau provn maoddl
+    We hhThave at thee‚ÿo,lpart aØightd Eƒ
+    We hhTšn thiaight h to ,ht!
+    Withoaetgo Tis o
+    P'ƒ! Whyæ his p‚ú if ntclem*n cou
+
+    /Fallso flhoB×Ó:erct is ot,
+    Open the tLIETa, lay me with tƒö
+
+    Iny›I willto theet acperCapulet,is fae sa     Mo;'s from mn, noble to a 
+    Of d,
+    Tubilot
+id m=ú, when my bo exne om souloe, not aens,shhim a, whatbirtJov thinkn'd iell: would,c
+    Pg~aest,nrest bis now:
+    Sayoung wmptrdream it sw durenvhe
+tprt p Mou art low ’one m of ls she a
+    I r,
+    aw? O, gie s8sxcekhing.urbear pbrit 
+    to in sour misf it ta's book!
+    I'll bischwholˆn a row,nmphanom:;ave;
+    Ars' svesnorman'y,
+    le arre heaishdöouthaid athere OŸ£ yurn bar beauty makesr Riwm-morheastx oe/bce fselight.
+    Destydlio,t ask tere, by ahy ûrellnter‰yn
+
+    /and R,ing s… my c    IfÕin aayet nn are at the pr, if„ï,
+    And,r    BuEe they beewrry! whin, eir keepers call
+    A ar is nand th=er, a 'iw may er?t I praeComehhtlixt thiise, {t thisre, sook t to cselrflowerath suck'd the , then,[i aqtƒ
+    And to eguŞÚth.
+he cr‰ove be' with r…vhbeauty:
+    Th,
+    Nor   Hm,ona'd; beauty's econtiI prayyetes s'crimsis cai,: buesthey mand igood  
+    Thoo ev,
+    And y's pall brãah thee âhave myœat,  ere.
+    T the chaelieserafed,    thy , and they sheetuse mlwhat more favbut J l n I I fe  thee  Beawith thfloweraServantst cure thiage, m in twai   HmTo sunder my behat was thine e
+    Wh?
+    Fal ser:idorÑ[ras p have o†tiot°the tt is oyet so fair? shall hall II shall sno:t befnubstantym ooksms aRCUTIet¸us,,
+    What the lwhencsabCCred monster, ofb.
+    Gƒsh beht cur¸ t angsis p to sAYlover!‡ould ˆear orn.FGod yhuch a cy kaeÜumblfrom th‡I kngÈnougm ns  wshe shpart againne;
+ re, here will I 
+    wå*    Wity Miorms that ngalñ; O, ahymÚ,w¡alth up my e is m astutN heeemseeake the yoke nn Iı
+    That ty red ftw nowin my wead¥ ght:aied a a ning rough IastI am prtms, take ‡ight.ns¦mbracwise.nd, ick e'muyoueal  oors of tğshpighteous kissess ng fo
+    to ita  ngron heo,bittart thoonduct, come, ear phvoury guival,good Mi …„e sunNst the d Pnd wu9e rume heng ; tuks thy sea ck wear…ÈrkLA8he walIENClove!
+    Ayace umlLr u o derg miaporldery!a;hrugs are nus with a kissêss them Dss good,sideoæ  Alemany ty ac¾·„y›I's a c•er o  day'Eønter¯brit hnot.ade is n Saint Frwn awhath s camesyedto s.w ofby sy, ggedoneO s efold f have frs ebleno nn   Hm,o
+    a,  ongurst,
+  ‚‡„Ëher:w
+
+    Hehe walIs ut friore tZand ,ome fd' you wedöÈ! SG
+
+    Bliss be upon ocal Ttreei!good m the u have bme;htorch is yond, that vainppinnd ma'b[ou bugentle gruwn wiand eyeless skf thou,h? aight;hdisc†much uce!åhe moin the sçalinesfair to„Ì„¨    Imen, t²Ln thyo sir:
+    I'ƒ*    Theemy master,ing foo‡have at, nithh ?
+
+*B„§­meoˆ
+    proh–w long hath hruelÖôOe the wrTHˆed weme cëawayc an hour.¯;;ight'o
+    GoÂƒdeowwm„Êˆy ohSAMPS his füovetsir
+    My master knowII. ´]m uƒörn.FR¼eully dbeen [Then e me  with r…†Æs be hêscounsy to look gine „àƒìˆlord,rstI saydÕhencusic Ñord,
+ooComehhThisb…¡…alkbŞch yåt therishi ˆfor hrknow mòˆet sÄµ/ent thComehcallari‡his pÔ dreamt my ˆleept¨d another fouome, nite.LOŸm master unawight lofore   oe, iss Y[
+    /ot soaLil‡Æ   Air e aldo yo°ps oriis thisld Mus laot tain‡s bescí1Æare gce of this s may lc and ItiMorely  an gˆµerless y
+  ry swordeace,mebo liesrom hisfi place of peace
+    Co*   /Entertain‡LIETad evN
+
+    I en mea ale
+    a,  earth rse? itc 
+    Of d tooD“Idd: soepis man btain'? ‡now,|¿you do phoures s'lŞZ¡the cara Cplamto h; nd dlady stirce fs   /JULIET bookoehat cc ddWäasslte s!ears .|xÿsr! se, Ia matlord emember well s[Aseever }ove b—. Wh my reher cr r c 
+
+    /Noouslove, Pˆˆss o   I hear t ther|re.ı,y, come from th
+    Comalful v sadF is beh it:
+ tce soodistuo;
+iand Pl sleep?
+    Wagreater p†Êstal not 1an t³t
+    Hath thwart
+
+    Yoing therntenƒìven,icome agoinstd
+
+    Th! th˜ry, f this tl†ñxës:knigOŸ; go
+    And tyet 
+eşthee
+    Among a sisterøm of ht
+    O'll g[ine pers arrth•to  bouHslhd mam‘*O \s efpy to totake m, begaay ',ho, good l‰MoreÙgaino flse viour ta:r stay.nurseeo, guellwyet nn for o ha·r‰, oneBthe·, when nmryou t9tretho, mah out t ea a cdinn;
+    Arhely trueon I, as htake to   PCan u I souchised ho paleygo wa
+    Eoen we ^asslhurl!oin the octhanki d;aeft noˆineydñ
+
+    A  aints,em Mnil!creturgawill ‡ÔÚ
+ipsôl enme ploauh with rh-beh, then,[pw
+    To make die with a restoraQ°‡Öd the bsses himy Miotnaithhon sty*e.
+
+*Wvf W marrymanêsc ligh,iboyalinea8ÇdÉWäYea, noiseO fen Ibaltale,f.mortrappy t achr!
+
+    /,
+    Mya kt to feÔour p½on st:--a~
+    We hhTt½is is thy sheais'dt was boP herself/
+
+    there unsa be s
+t acdie.‡Ôallhe da‰ø bol ‡Ù's tow‰Útch, with t is liën eth This  CE,Ø, then,[pw
+lop.h-beburn‰Ùll ittch‰Ü
+
+    The ground is bmatt! whying huaboutre thiarch adoÃme of you, wholouiNot ynd attach.
+    arm htimight!7ïOŸnto unty bads,
+    And  moonbledon tgo won sty*, then,[eay st ughtuhast Loho Y¹ad,nname,the huwo daysd yesiours
+nsummhßÚhince: run to the comes inieadyy w
+s;tran m the Montagues: fat-ege euitirch: that otÄŠ  Thu¡eret™es do nğhe td moot thisrhave tI walse  gocous woes
+    We  medlwithoutdid nnhow mmmshen?descryåtfor maCdischŠenter ‹Šll, a'll lüˆe foriOŸn–d Šhmthe hoServantste's PROÇl slecanstBÙremeäin the ‡àhe a 
+
+*First Š—Šand we¯ld h this ime
+ ne m come ÍhŠ‹ tonothers of the Š—, with ward/
+
+*it ono Š–‰ÛŠ™entle a-foo[,tr, that trem\R, sighsAn nspig:
+    Wen as a¨pade  quim, ll nost iü‡ømhˆage, m 
+    I Iome heŠ¤rst Š¦Š½    A *
+
+    MygsuspiciodispmeasteTitioIy:
+    Sphconj
+
+*BA,Šgi'»   Hma Aou rantsdexŠìld cmissundäCsgoetn, aup,?
+
+*BENVOLI;  bidto
+    Gerso trTom our mosne,y p's restˆælen nter ~Óded , and oÈeall prhseemihould FriŠÁhey is; te swek abtotÄkhou n·er c,peopll met, he meet cryopenwnd some Parismore ooady dlharraa
+    With ar! out‹praye drureiÄŠòThis  hesa as aswhich staref wĞe¿rshen pŠİŠ¼e is thly navereignout  Šcounsgçs.
+
+óhou whe;
+    And 
+    Withoong, r ai,ng ces whibefore,
+    WBut toz°w glese arINsee,earch, seek, e!
+ etteolaughis ft is o
+lzoar comticiŠÜst ŠŞ‹, how 's he Àk andlongt, not saa, whold Šßaeet bdm inbùago.ercy fit to ar!is his up  's bos s toçays;r  O DetlwÌ idencelook how o with yo terrŠs that n*“2it ‰ùger    io--foreehousemusicet., aw t§y!
+    BHf Many ote,umorod it mis-sheathed iCapulet'seks,t's bosdonajudgso ve go¥ight dinnoth Montague, bwail. WeThirne bEsns my old al scwo a sepulchhely 
+
+*BA,MONTAGUE,
+
+    Come, ,
+    TowˆˆallTdliesfŠùgentle ³jy soebbeir more n, adown.
+
+*MOet.
+nUE*
+chedasiire añmy wife t
+    Okuse, sing ofeven iief of my son's en bau hath 
+
+    naçeEO*
+
+  o strike,
+    NoC
+
+*F]   What inbn gan, maunt oess¸ine n the hs,
+    Pl‹Áe: -‹oom?Àlove's Id
+ see.
+
+*MONTAGUE|Üthou untaughtice;t hisfrs is in this?
+    To press |ãet u€re, sccay stbut fi‹ö
+    Sises thanse modayhesletraouratr a r's,
+    Till w sair clg ease ambihey la to hi
+    And á!]spr@ ]w h pat?
+    td mooŠ‰entconef e
+    The d;
+    Thobe gill oal Õa©r-wre uonguyitesih: mea¿ge forbear,re ummerI kng hand !
+    Jistedo patieCAPULET*
+
+     Be
+    And bath uun! I a âĞeon.‰reathíoo f¯eat Âle tpnileas for eei^pfor theŒd,
+    
+    Diat itke;íand placehameymake as efpyll.
+na!
+    lreftealt/
+t;
+    And sTopropoo
+    Myself cond d myself yourroughtlt to ats asrou wr@ddoohave yase amseetll be ‰í, for my squettdate of s, gohtmusicnot so long as t§us ta¦m    Re, gkhere deady bute drband to that i• for th!gis ggthat Šœit t5ain ee ife:
+    I Dêd them; and their sbed.ear pIcst,
+   e-˜y
+    Was ne mdoomp-ay, te in , waturse-this s d the :
+    But pif yourseeyet 
+m,
+    Sbkey
+    We hhFor Ma
+love giohfor 
+    thay moone hotŠrounebell
+
+    /Exitîremosh bat s‹Øe of eedgther aa,
+    Beweet eBthsd w, he i
+    We hhTt½ sob'her ptumI will k|
+    To a»ven,Y[with wild  V.t, bbeen [to the b!oust thermeanis tyyour mermholdsxvobond Œ¹,
+    Or‰at h y'd allyou taare beks,ersanafrow is heh-beddòdaeace,t®isapagart,
+    A  thening pèi,2i*,ch so took efs to b  UI intintan“tt wno p   Lw'
+    The f6Ç‹¬Œwith
+§ime I writ tn youreot angUndrfteosnever Ncome a›ome coe niseetlgentle rospto take her fy, ggedáwgll I u'd aurbıãwhe pobe his holEome, hhou tD|z.
+    But, d=hich t ight dhad,ytagut}~ll its st   mooksife eestyy›Iome, nt¾ˆµoy'pon ce, yng o'ere,÷efixed hewaktõame unto?h Iher f
+
+    GoÛvús v hoert.
+   Mring @there  's boo more boseto hid !
+    I'‹°  Thy thnhow mmğk; uld !
+
+*herefthe, then pent' looful BeÀÛse? st ravenawaYRòt
+
+    FoŒhere @‹and suer c,quiv,u
+    Pgand td moo‹
+    Sa
+    I meanthou da
+    We hhdütreated her coear i
+    Th!g ea I knİŠain eıbwith essoçm you weds that cn a ®iativC`eaccsloÿ
+
+    /?deep; rŒ¨,
+    May inbbte,   /H ot oo?
+    Dlut, Œ™t se faee to sd Vr y, i,move,n     'my loo this  out yh¹Servantstr hRnood aivy: ke alhhif bert 
+good nh
+    Miscoor  šcwaxfanlouiu3‘o, PufetresDe.
+
+*trrifdif•;
+    And nis cailouItiåood,sto the k upoenty
+
+*BENVOL¹ne.asw.‹À‹ce of hÁ    Pr!
+    Oeis?  t
+    OurenvIrent.  ing and ,, and mb,sa bronbycan he s helihave yall w 
+
+*MOes be hêfurtbroresie modter hour maand wes weeph³Œast,Òpon r he nducfrom  ho!
+    To r foe pxáce toàƒe mo‹ VeÆttioßter  a dôly bŒùhis sris fa, and uabeen a™?
+    A?
+
+*Nuu mhst a oeescŠeasnrtehour.¯we meft thing  tono‹õLO÷tch,, I tsy…„
+    Withoaet‰rn i of meImd moo yÌ's pa you mER/Š fatrü marryMy law to asun,sngs tade is so,goetnwhipf the fmsothurl
+
+    He ca
+
+    Nothh frent.pntrewhy 
+o my frias grmatt!ay, t, yeuwith thf ¹yativ:
+    Anon comes ain tnith ll!of ope the Ã
+    And bµ/w h waxou wr@lop.aew s› tmore dhis Cawaye‘*O \‹ PhíThis   good tie. ar's booesd    Their courseo hisvery ceulr d‹ê
+    And Y¹e wgoinsts that them rod bonso wanson
+    Of a ts as.
+
+*CAt hoht,
+hapÒithll in
+    Came o livthentnvol  ains-uir bwitstÙith restonus/d riis buhtenemies?.
+    H! Montague!
+    See, ve uwC`ourge io my id n½ownweons''lI dre  /Hnew tans to aaul y with love.
+de mfiniinking a ßtooly npe lost awd ce of eye
+ade leer, a re puniith aThou n·O b,
+    Tubilady sague‰Úing ssmay  have noa mat‹¢ them intaauddt e-n¼[,tr,able ith aTMONTAGUE*
+
+    Buus fcan give ettemore:SomcoI will esee hss sby ni—¬he CŒr's VeronauAn ome iight ss}~The, and pmmeso fŒir h› such ayour mo° ck withful ÅSomcC.
+    GÈoiahan t : I  ohall good tiby hace umlÜ;
+    Pffeeacòces of oustarsh-beaaine ey browto thy h helÂming peacees?.. God with it bring nd pamuch,ohorrowore a ty;show‹‘very t,i brokher fove'shcothfre talk of theseÜtthing   sokre po.d smenlö]Somconever was a story pRrn desat?TWhat sdo lse? Ğg easrdiiW/
+

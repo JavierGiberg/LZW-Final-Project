@@ -1,4 +1,4 @@
-// This code was taken from an out-source and was not written by us (Javier).
+// This code was taken from an out-source and was not written by (Javier Giberg).
 
 import java.io.*;
 

@@ -1,7 +1,7 @@
-
+//Developed by Javier Giberg
 import java.io.FileOutputStream;
 import java.io.IOException;
-
+import java.io.InputStream;
 import java.util.HashMap;
 
 public class LZW {
@@ -62,8 +62,16 @@ public class LZW {
 
 //---------------------------check The Best-----------------------------------------------	
 	private static void checkBestobookOfMemories(int toCheck, int nextChar) {
-//		System.out.println(out);
 		String toChecksrt = toCheck + "";
+		//------
+//		if(nextChar==30) {
+//			bitOutputStream.writeBits(16, toCheck);
+//			bookOfMemoriesC.put(toChecksrt, Indexbook);
+//			str = str.substring(nextChar);
+//			return;
+//		}
+		//--------
+//		System.out.println(out);
 		if (str.length() == nextChar) {
 			bookOfMemoriesC.put(toChecksrt, Indexbook);
 			str = str.substring(nextChar);
@@ -159,9 +167,12 @@ public class LZW {
 //		System.out.println(str);
 
 		DecompressStr();
-	//	System.out.println(bookOfMemoriesD);
+		// System.out.println(bookOfMemoriesD);
 		System.out.println("---------------------------------------------------------");
 //		System.out.println(bookOfMemoriesD);
+		bitOutputStream.flush();
+		bitOutputStream.close();
+		bitInputStream.close();
 		long end = System.currentTimeMillis();
 		System.out.println("Process Done Decompres! in : " + (end - start) + " mili seconds");
 //		System.out.println(bookOfMemoriesC);
@@ -192,7 +203,7 @@ public class LZW {
 
 //================================in process===============================================
 	private static void checkBestobookOfMemories1(int toCheck, int nextChar) {
-		
+
 //		System.out.println(nextChar);
 		String x = bookOfMemoriesD.get(toCheck);
 		if (bookOfMemoriesD.get(toCheck) == null)
@@ -203,24 +214,33 @@ public class LZW {
 		// &&!bookOfMemoriesC.containsKey(x)
 
 		if (!bookOfMemoriesD.containsKey(toCheck) && !bookOfMemoriesC.containsKey(x)) {
+			if (str.length() <= 2) {
+				out += str.charAt(0);
+				out += str.charAt(1);
+				bitOutputStream.writeBits(8, str.charAt(0));
+				bitOutputStream.writeBits(8, str.charAt(1));
+				str = str.substring(2);
+				return;
+			}
 
 			int bettwenStr = 256 * str.charAt(1) + str.charAt(2);
 			if (bookOfMemoriesD.containsKey(bettwenStr) || Indexbook == 256 * str.charAt(1) + str.charAt(2)) {
+
 				String nextCharFromBook = bookOfMemoriesD.get(bettwenStr);
 				if (Indexbook == 256 * str.charAt(1) + str.charAt(2))
 					nextCharFromBook = str.charAt(0) + "";
-					int u=0;
-					if(bookOfMemoriesC.get(str.charAt(0) + "" + nextCharFromBook.charAt(0))!=null)
-						u=bookOfMemoriesC.get(str.charAt(0) + "" + nextCharFromBook.charAt(0));
-						
+				int u = 0;
+				if (bookOfMemoriesC.get(str.charAt(0) + "" + nextCharFromBook.charAt(0)) != null)
+					u = bookOfMemoriesC.get(str.charAt(0) + "" + nextCharFromBook.charAt(0));
+
 //					System.out.println("testttt"+u+" "+ str.charAt(0) + "" + nextCharFromBook.charAt(0));
 				if (bookOfMemoriesD.containsKey(u)) {
 					bitOutputStream.writeBits(8, str.charAt(0));
-					str = str.substring(1);
 					out += str.charAt(0);
 					bookOfMemoriesD.put(Indexbook, str.charAt(0) + "" + nextCharFromBook.charAt(0));
-					bookOfMemoriesC.put(str.charAt(0) + ""+ nextCharFromBook.charAt(0), Indexbook);
-					System.out.println("testttttttttttttttttttttttttttttttttttttttttttttttttttt");
+					bookOfMemoriesC.put(str.charAt(0) + "" + nextCharFromBook.charAt(0), Indexbook);
+					System.out.println("1");
+					str = str.substring(1);
 					return;
 				} else {
 					bookOfMemoriesD.put(Indexbook, str.charAt(0) + "" + nextCharFromBook.charAt(0));
@@ -232,7 +252,7 @@ public class LZW {
 					str = str.substring(nextChar);
 //					System.out.println(out);
 //					System.out.println(bookOfMemoriesD);
-					
+
 				}
 
 			} else {
@@ -240,42 +260,42 @@ public class LZW {
 				if (bookOfMemoriesD.containsKey(256 * str.charAt(1) + str.charAt(2))) {
 
 					String nextTemp = bookOfMemoriesD.get(256 * str.charAt(1) + str.charAt(2));
-					
+
 					if (bookOfMemoriesC.containsKey(str.charAt(0) + "" + nextTemp.charAt(0))) {
 						bitOutputStream.writeBits(8, str.charAt(0));
 						str = str.substring(1);
 						out += str.charAt(0);
-						bookOfMemoriesD.put(Indexbook, str.charAt(0) + "");
+						bookOfMemoriesD.put(Indexbook, str.charAt(0) + ""+ nextTemp.charAt(0));
 						bookOfMemoriesC.put(str.charAt(0) + "", Indexbook);
-						System.out.println("testtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt");
+						System.out.println("2");
 						return;
 					} else {
 
-					bookOfMemoriesD.put(Indexbook, str.charAt(0) + "" + nextTemp.charAt(0));
-					bookOfMemoriesC.put(str.charAt(0) + "" + nextTemp.charAt(0), Indexbook);
-					out += str.charAt(0);
-					bitOutputStream.writeBits(8, str.charAt(0));
-					str = str.substring(nextChar);
+						bookOfMemoriesD.put(Indexbook, str.charAt(0) + "" + nextTemp.charAt(0));
+						bookOfMemoriesC.put(str.charAt(0) + "" + nextTemp.charAt(0), Indexbook);
+						out += str.charAt(0);
+						bitOutputStream.writeBits(8, str.charAt(0));
+						str = str.substring(nextChar);
 //					System.out.println(out);
 //					System.out.println(bookOfMemoriesD);
 					}
 				} else {
 					if (bookOfMemoriesC.containsKey(str.charAt(0) + "" + str.charAt(1))) {
 						bitOutputStream.writeBits(8, str.charAt(0));
+						bookOfMemoriesD.put(Indexbook,  str.charAt(0) + "" + str.charAt(1));
+						bookOfMemoriesC.put(str.charAt(0) + "" + str.charAt(1), Indexbook);
 						str = str.substring(1);
-						bookOfMemoriesD.put(Indexbook, str.charAt(0) + "");
-						bookOfMemoriesC.put(str.charAt(0) + "", Indexbook);
-						System.out.println("testtttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttttt");
+						System.out.println("3");
 						return;
 					} else {
-					
-					bookOfMemoriesD.put(Indexbook, str.charAt(0) + "" + str.charAt(1));
-					bookOfMemoriesC.put(str.charAt(0) + "" + str.charAt(1), Indexbook);
-					Indexbook++;
+
+						bookOfMemoriesD.put(Indexbook, str.charAt(0) + "" + str.charAt(1));
+						bookOfMemoriesC.put(str.charAt(0) + "" + str.charAt(1), Indexbook);
+						Indexbook++;
 //					System.out.println(str);
-					out += str.charAt(0);
-					bitOutputStream.writeBits(8, str.charAt(0));
-					str = str.substring(nextChar);
+						out += str.charAt(0);
+						bitOutputStream.writeBits(8, str.charAt(0));
+						str = str.substring(nextChar);
 //					System.out.println(out);
 //					System.out.println(bookOfMemoriesD);
 					}
@@ -330,9 +350,7 @@ public class LZW {
 				return;
 
 			} else {
-				if(bookOfMemoriesC.containsKey(toNextCkeck.toString())) {
-				    System.out.println("TTTTTTTTTTTTTT");
-				}
+				
 				bookOfMemoriesD.put(Indexbook, toNextCkeck);
 				bookOfMemoriesC.put(toNextCkeck, Indexbook);
 
