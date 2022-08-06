@@ -1,2 +1,4 @@
-﻿# LZW-Final-Project
-dfdfdf
+﻿#                                                             LZW-Final-Project
+##------------------------------------------------------------------------------------------------------------------------------------------- 
+##Final project in data compression: implementation of LZW algorithm with parameters for dictionary depth + and reading size 8,16,24,32 bytes.
+##------------------------------------------------------------------------------------------------------------------------------------------- 
