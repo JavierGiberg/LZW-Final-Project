@@ -1,5 +1,7 @@
-
-//Developed by Javier Giberg
+/**
+ * Final Project LZW: Javier Giberg. ID# 302280383  
+ *                    Netanel Bitton. ID# 305484651
+ */
 import java.io.FileOutputStream;
 import java.io.IOException;
 import java.io.InputStream;
@@ -36,11 +38,14 @@ public class LZW {
 		BuildStr();
 		while (str.length() > 0) {
 
-			if (str.length() >= 25000) {
-				str_INTER = str.substring(0, 25000);
-     			str = str.substring(25000);
+			if (str.length() >= 26000) {
+				str_INTER = str.substring(0, 26000);
+     			str = str.substring(26000);
 				CompressStr();
-				bitOutputStream.writeBits(16, -1);
+				bitOutputStream.writeBits(8, 'L');
+				bitOutputStream.writeBits(8, 'Z');
+				bitOutputStream.writeBits(8, 'W');
+				
 				str_INTER= "";
 //				str = "";
 				out = "";
@@ -81,12 +86,12 @@ public class LZW {
 				break;
 			}
 			int current = str_INTER.charAt(0);
-			checkBestobookOfMemories(current, 1);
+			checkBestobookOfMemoriesC(current, 1);
 		}
 	}
 
 //---------------------------check The Best-----------------------------------------------	
-	private static void checkBestobookOfMemories(int toCheck, int nextChar) {
+	private static void checkBestobookOfMemoriesC(int toCheck, int nextChar) {
 		String toChecksrt = toCheck + "";
 		if (str_INTER.length() == nextChar) {
 			bookOfMemoriesC.put(toChecksrt, Indexbook);
@@ -113,7 +118,7 @@ public class LZW {
 			return;
 		} else {
 			String toCheckAgain = toChecksrt + str_INTER.charAt(nextChar);
-			checkBestobookOfMemories(bookOfMemoriesC.get(toCheckAgain), nextChar + 1);
+			checkBestobookOfMemoriesC(bookOfMemoriesC.get(toCheckAgain), nextChar + 1);
 		}
 	}
 
@@ -161,8 +166,8 @@ public class LZW {
 		System.out.println("Step 2 : Build string for compress");
 		BuildStrFlag = true;
 
-		BuildStr();
 		System.out.println("Step 3 : Start ()=>{ Decompress() => Build bookOfMemories() => Write file() }");
+		BuildStr();
 		
 			DecompressStr();
 		
@@ -186,27 +191,27 @@ public class LZW {
 				break;
 			}
 			if (str.length() == 1) {
-				int ascii = str.charAt(0);
+				
 				out += str.charAt(0);
 				bitOutputStream.writeBits(8, str.charAt(0));
 				break;
 			}
-	//		System.out.println(str.charAt(0) + str.charAt(1));
-			if(str.charAt(0)==255&&str.charAt(1)==255) {
+			if(str.charAt(0)=='L'&&str.charAt(1)=='Z'&&str.charAt(2)=='W') {
 				System.out.println("innnnnnn");
 				out="";
-				str=str.substring(2);
+				str=str.substring(3);
 				bookOfMemoriesD=new HashMap<>();
 				bookOfMemoriesC=new HashMap<>();
 				Indexbook=511;
+				
 			}
 			int current = 256 * str.charAt(0) + str.charAt(1);
-			checkBestobookOfMemories1(current, 1);
+			checkBestobookOfMemoriesD(current, 1);
 		}
 	}
 
 //================================in process===============================================
-	private static void checkBestobookOfMemories1(int toCheck, int nextChar) {
+	private static void checkBestobookOfMemoriesD(int toCheck, int nextChar) {
 	
 			
 	
@@ -275,16 +280,8 @@ public class LZW {
 			}
 			if (bookOfMemoriesD.containsValue(toNextCkeck)) {
 				int toCheckAgain = bookOfMemoriesC.get(toNextCkeck);
-//				if(out.length()+toNextCkeck.length()>=24000) {
-//					System.out.print(out);
-//					
-//					out="";
-//					bookOfMemoriesD=new HashMap<>();
-//					bookOfMemoriesC=new HashMap<>();
-//					Indexbook=511;
-//					return;
-//				}
-				checkBestobookOfMemories1(toCheckAgain, nextChar + 1);
+
+				checkBestobookOfMemoriesD(toCheckAgain, nextChar + 1);
 				return;
 
 			} else {
@@ -296,7 +293,7 @@ public class LZW {
 				for (int i = 0; i < toWrite.length(); i++) {
 					bitOutputStream.writeBits(8, toWrite.charAt(i));
 				}
-				str = str.substring(nextChar + 1);
+				str = str.substring(nextChar +1);
 			}
 		}
 	}

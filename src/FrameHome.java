@@ -1,4 +1,7 @@
-
+/**
+ * Final Project LZW: Javier Giberg. ID# 302280383  
+ *                    Netanel Bitton. ID# 305484651
+ */
 import java.io.File;
 import java.io.IOException;
 import java.util.logging.Level;

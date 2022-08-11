@@ -1,11 +1,14 @@
-//Developed by Javier Giberg
+/**
+ * Final Project LZW: Javier Giberg. ID# 302280383  
+ *                    Netanel Bitton. ID# 305484651
+ */
 import java.io.IOException;
 
 
 public class IO {
 	public static void main(String[] args) throws IOException {
-		String srcIn = "LZWG compreses [8bits] Result.bin";
-		// Smiley.bmp Text.txt Compressed file.bin LZWG compreses [8bits] Result.bin
+		String srcIn = "LZWG compreses [8bits] Result.bin ";
+		// Smiley.bmp Text.txt  OnTheOrigin.txt   Compressed file.bin LZWG compreses [8bits] Result.bin 
 		String srcOut = "";
 
 		LZW A = new LZW();
