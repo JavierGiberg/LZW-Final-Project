@@ -1,6 +1,5 @@
 /**
- * Final Project LZW: Javier Giberg. ID# 302280383  
- *                    Netanel Bitton. ID# 305484651
+ * Final Project LZW: Javier GibergD
  */
 import java.io.IOException;
 

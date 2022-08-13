@@ -1,6 +1,5 @@
 /**
- * Final Project LZW: Javier Giberg. ID# 302280383  
- *                    Netanel Bitton. ID# 305484651
+ * Final Project LZW: Javier Giberg.
  */
 import java.io.File;
 import java.io.IOException;
@@ -56,7 +55,7 @@ public class FrameHome extends javax.swing.JFrame {
 
 		Output.setFont(new java.awt.Font("Segoe Print", 1, 14)); // NOI18N
 
-		jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\giber\\OneDrive\\שולחן העבודה\\lzw.jpg")); // NOI18N
+		jLabel1.setIcon(new javax.swing.ImageIcon("lzw.jpg")); // NOI18N
 
 		javax.swing.GroupLayout layout = new javax.swing.GroupLayout(getContentPane());
 		getContentPane().setLayout(layout);
